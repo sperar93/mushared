@@ -1,0 +1,84 @@
+00:22:18 [SocketManager] Server started at port [55901]
+00:22:19 [Blood Castle] Sync Start Time. [7] min remain
+00:22:19 [Chaos Castle] Sync Start Time. [37] min remain
+00:22:19 [Devil Square] Sync Start Time. [77] min remain
+00:22:19 [Illusion Temple] Sync Start Time. [477] min remain
+00:22:19 [Moss Merchant] Sync Start Time. [457] min remain
+00:22:19 [ RAKLION ] State(0) -> END
+00:22:19 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+00:22:19 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+00:22:19 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+00:22:19 [Reward Master] Sync Start Time. [457] min remain
+00:22:20 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:22:20 [ KANTURU ] State(0) -> STANDBY
+00:22:20 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:22:20 [ RAKLION ] State(10) -> IDLE
+00:23:39 [ObjectManager][9000] Account Login (test)
+00:23:44 [ObjectManager][9000] Character Login (TestBM)
+00:23:56 [ObjectManager][9001] Account Login (admin)
+00:23:59 [ObjectManager][9001] Character Login (ADMIN)
+00:24:52 [ObjectManager][9001] Character Logout (ADMIN)
+00:24:52 [ObjectManager][9001] Account Logout (admin)
+00:24:55 [ObjectManager][9000] Character Logout (TestBM)
+00:24:55 [ObjectManager][9000] Account Logout (test)
+00:28:12 [SocketManager] Server started at port [55901]
+00:28:12 [Blood Castle] Sync Start Time. [1] min remain
+00:28:12 [Chaos Castle] Sync Start Time. [31] min remain
+00:28:12 [Devil Square] Sync Start Time. [71] min remain
+00:28:12 [Illusion Temple] Sync Start Time. [471] min remain
+00:28:12 [Moss Merchant] Sync Start Time. [451] min remain
+00:28:12 [ RAKLION ] State(0) -> END
+00:28:12 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+00:28:12 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+00:28:12 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+00:28:12 [Reward Master] Sync Start Time. [451] min remain
+00:28:13 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:28:13 [ KANTURU ] State(0) -> STANDBY
+00:28:13 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:28:13 [ RAKLION ] State(10) -> IDLE
+00:28:34 [ObjectManager][9000] Account Login (admin)
+00:28:36 [ObjectManager][9000] Character Login (ADMIN)
+00:28:54 [ObjectManager][9001] Account Login (test)
+00:28:56 [ObjectManager][9001] Character Login (TestBM)
+00:29:27 [ObjectManager][9001] Character Logout (TestBM)
+00:29:27 [ObjectManager][9001] Account Logout (test)
+00:29:30 [ObjectManager][9000] Character Logout (ADMIN)
+00:29:30 [ObjectManager][9000] Account Logout (admin)
+00:30:01 [Blood Castle] Sync Start Time. [119] min remain
+00:33:33 [ObjectManager][9001] Account Login (test)
+00:33:35 [ObjectManager][9001] Character Login (TestBM)
+00:33:52 [ObjectManager][9000] Account Login (admin)
+00:33:54 [ObjectManager][9000] Character Login (ADMIN)
+00:34:28 [ObjectManager][9000] Character Logout (ADMIN)
+00:34:28 [ObjectManager][9000] Account Logout (admin)
+00:34:36 [ObjectManager][9001] Character Logout (TestBM)
+00:34:36 [ObjectManager][9001] Account Logout (test)
+00:38:03 [ObjectManager][9001] Account Login (test)
+00:38:05 [ObjectManager][9001] Character Login (TestBM)
+00:38:29 [ObjectManager][9000] Account Login (admin)
+00:38:32 [ObjectManager][9000] Character Login (ADMIN)
+00:40:00 [Invasion Manager] SetMonster (Monster: 135) (Map: Lorencia, X: 149,Y: 61)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 155,Y: 64)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 161,Y: 61)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 161,Y: 54)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 160,Y: 59)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 163,Y: 54)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 158,Y: 59)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 157,Y: 58)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 163,Y: 49)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 150,Y: 58)
+00:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 154,Y: 47)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 148,Y: 56)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 162,Y: 54)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 159,Y: 63)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 163,Y: 52)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 163,Y: 57)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 156,Y: 52)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 158,Y: 63)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 148,Y: 58)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 153,Y: 60)
+00:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 156,Y: 64)
+00:40:13 [ObjectManager][9001] Character Logout (TestBM)
+00:40:13 [ObjectManager][9001] Account Logout (test)
+00:40:22 [ObjectManager][9000] Character Logout (ADMIN)
+00:40:22 [ObjectManager][9000] Account Logout (admin)

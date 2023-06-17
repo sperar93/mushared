@@ -1,0 +1,67 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### BonusList::Bonus ###
+//	Index: Index to identify the bonus
+//	Name: Name of the bonus
+//	StartMessage: Message to be displayed starting the bonus
+//	FinalMessage: Message to be displayed ending the bonus
+//	Duration: Duration of the bonus, seconds
+//
+// ### BonusList::Bonus::Schedule::Start ###
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+//
+// ### BonusList::Bonus::Settings::Bonus ###
+//	Type: Type of increase
+//		~ 0: Experience
+//		~ 1: Master Experience
+//		~ 2: Common Drop
+//		~ 3: Excellent Drop
+//		~ 4: Set Drop Items
+//		~ 5: ChaosMix Rate
+//	Value_ALx: Value that will increase during the bonus
+//		~ Bonus Type: 0,1 : Formula: (Exp Actual * Value) / 100
+//		~ Bonus Type: 2   : Formula: (Drop Actual * Value) / 100
+//		~ Bonus Type: 3,4 : Formula: (1000000 - DropExc Actual) * Value / 1000000
+//		~ Bonus Type: 5   : Formula: ChaosMix Rate Actual + Value
+//	MapNumber: Map where the bonus will apply, -1 any maps
+-->
+
+<BonusList>
+	<Bonus Index="0" Name="Happy Hour" StartMessage="0" FinalMessage="1" Duration="3600">
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="00" Second="00" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="00" Second="00" />
+		</Schedule>
+		<Settings>
+			<Bonus Type="0" Value_AL0="50" Value_AL1="50" Value_AL2="50" Value_AL3="50" MapNumber="-1" /> <!-- Experience -->
+			<Bonus Type="1" Value_AL0="50" Value_AL1="50" Value_AL2="50" Value_AL3="50" MapNumber="-1" /> <!-- Master Experience -->
+			<Bonus Type="2" Value_AL0="50" Value_AL1="50" Value_AL2="50" Value_AL3="50" MapNumber="-1" /> <!-- Common Drop -->
+			<Bonus Type="3" Value_AL0="1000" Value_AL1="1000" Value_AL2="1000" Value_AL3="1000" MapNumber="-1" /> <!-- Increase Exc Drop -->
+			<Bonus Type="4" Value_AL0="1000" Value_AL1="1000" Value_AL2="1000" Value_AL3="1000" MapNumber="-1" /> <!-- Increase Set Drop -->
+			<Bonus Type="5" Value_AL0="5"  Value_AL1="5"  Value_AL2="5"  Value_AL3="5"  MapNumber="-1" /> <!-- ChaosMix Rate -->
+		</Settings>
+	</Bonus>
+</BonusList>

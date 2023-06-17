@@ -1,0 +1,72 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// How the Shop System works like?
+//	Extended Shops system allowing for creation of in-game shop with any NPC. It is allowed to configure single NPC type in multiple
+//	locations with different store content using configuration below. Shop NPC spawn location is controlled from this file.
+//	Shops NPC spawn has been disabled from MonsterSetBase file. Any Shop NPC added in MSB will appear in game but will not operate as Shop
+//
+// ### ShopManager::Shop ###
+//	MonsterIndex: Index of NPC, see MonsterList.xml
+//	MapNumber: Number of map to spawn the monster on, refer to MapManager.xml
+//	PosX: X Coordinate of Shop NPC
+//	PosY: Y Coordinate of Shop NPC
+//	Dir: Position NPC looks at after spawn
+//		~ 0: Central
+//		~ 1: South-West
+//		~ 2: South
+//		~ 3: South-East
+//		~ 4: East
+//		~ 5: North-East
+//		~ 6: North
+//		~ 7: North-West
+//		~ 8: West
+//		~ -1: Random
+//	AccountLevel: Minimum Account Level to use the shop
+//	GameMasterLevel: Level of game master required to buy, -1 only common users
+//	FileName: Name of Shop file located in '\Data\Shop\'
+-->
+
+<ShopManager>
+	<Shop MonsterIndex="251" MapNumber="0"  PosX="116" PosY="141" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="251" MapNumber="34" PosX="145" PosY="14"  Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" /> <!-- CryWolf -->
+	<Shop MonsterIndex="255" MapNumber="0"  PosX="123" PosY="135" Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(255)_Lumen_the_Barmaid.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="254" MapNumber="0"  PosX="118" PosY="113" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(254)_Pasi_the_Mage.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="250" MapNumber="0"  PosX="183" PosY="137" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(250)_Wandering_Merchant.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="248" MapNumber="0"  PosX="6"   PosY="145" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(248)_Wandering_Merchant_Martin.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="253" MapNumber="0"  PosX="127" PosY="86"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(253)_Potion_Girl_Amy.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="244" MapNumber="2"  PosX="226" PosY="25"  Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(244)_Caren_the_Barmaid.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="245" MapNumber="2"  PosX="225" PosY="41"  Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(245)_Wizard_Izabel.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="246" MapNumber="2"  PosX="186" PosY="47"  Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(246)_Weapons_Merchant_Zienna.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="243" MapNumber="3"  PosX="195" PosY="124" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(243)_Eo_the_Craftsman.xml" /> <!-- Noria -->
+	<Shop MonsterIndex="242" MapNumber="3"  PosX="173" PosY="125" Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(242)_Elf_Lala.xml" /> <!-- Noria -->
+	<Shop MonsterIndex="230" MapNumber="0"  PosX="62"  PosY="130" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(230)_Wandering_Merchant_Alex.xml" /> <!-- Lorencia -->
+	<Shop MonsterIndex="231" MapNumber="2"  PosX="8"   PosY="77"  Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(231)_Thompson_Kenel.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="231" MapNumber="0"  PosX="124" PosY="144" Dir="2" AccountLevel="0" GameMasterLevel="32" FileName="NPC(231)_Thompson_Kenel_GM.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="376" MapNumber="30" PosX="90"  PosY="44"  Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(376)_Pamela_the_Supplier.xml" /> <!-- Valley of Loren -->
+	<Shop MonsterIndex="377" MapNumber="30" PosX="89"  PosY="218" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(377)_Angela the Supplier.xml" /> <!-- Valley of Loren -->
+	<Shop MonsterIndex="379" MapNumber="2"  PosX="32"  PosY="31"  Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(379)_Natasha_Firecracker_Merchant.xml" /> <!-- Devias -->
+	<Shop MonsterIndex="415" MapNumber="51" PosX="44"  PosY="229" Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(415)_Silvia.xml" /> <!-- Elbeland -->
+	<Shop MonsterIndex="416" MapNumber="51" PosX="29"  PosY="236" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(416)_Rhea.xml" /> <!-- Elbeland -->
+	<Shop MonsterIndex="417" MapNumber="51" PosX="36"  PosY="219" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(417)_Marce.xml" /> <!-- Elbeland -->
+	<Shop MonsterIndex="492" MapNumber="51" PosX="22"  PosY="225" Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(492)_Moss_Merchant.xml" /> <!-- Elbeland -->
+	<Shop MonsterIndex="545" MapNumber="79" PosX="113" PosY="116" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(545)_Christine_the_Merchant.xml" /> <!-- Loren Market -->
+	<Shop MonsterIndex="577" MapNumber="80" PosX="121" PosY="102" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(577)_Leina_the_Merchant.xml" /> <!-- Karutan 1 -->
+	<Shop MonsterIndex="578" MapNumber="80" PosX="117" PosY="126" Dir="3" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(578)_Weapons_Merchant_Bolo.xml" /> <!-- Karutan 1 -->
+	<Shop MonsterIndex="259" MapNumber="24" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 1 -->
+	<Shop MonsterIndex="259" MapNumber="25" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 2 -->
+	<Shop MonsterIndex="259" MapNumber="26" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 3 -->
+	<Shop MonsterIndex="259" MapNumber="27" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 4 -->
+	<Shop MonsterIndex="259" MapNumber="28" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 5 -->
+	<Shop MonsterIndex="259" MapNumber="29" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 6 -->
+	<Shop MonsterIndex="259" MapNumber="36" PosX="7"   PosY="19"  Dir="2" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(259)_Oracle_Layla.xml" /> <!-- Kalima 7 -->
+	<Shop MonsterIndex="239" MapNumber="6"	PosX="72"  PosY="164" Dir="1" AccountLevel="0" GameMasterLevel="-1" FileName="NPC(239)_Arena_Guard.xml" /> <!-- Arena -->
+</ShopManager>

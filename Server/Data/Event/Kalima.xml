@@ -1,0 +1,27 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Kalima ###
+//	KeepAtReconnect: Keep at reconnect character in kalima, 0-1
+//
+// ### Kalima::Level ###
+//	Index: Index of kalima.
+//	CreatePortal: Create portal to next kalima at kill kundun, 0-1
+-->
+
+<Kalima KeepAtReconnect="0">
+	<Level Index="0" CreatePortal="1" /> <!-- Kalima 1 > Kalima 2 -->
+	<Level Index="1" CreatePortal="1" /> <!-- Kalima 2 > Kalima 3 -->
+	<Level Index="2" CreatePortal="1" /> <!-- Kalima 3 > Kalima 4 -->
+	<Level Index="3" CreatePortal="1" /> <!-- Kalima 4 > Kalima 5 -->
+	<Level Index="4" CreatePortal="1" /> <!-- Kalima 5 > Kalima 6 -->
+	<Level Index="5" CreatePortal="0" /> <!-- Kalima 6 > Kalima Lost -->
+</Kalima>

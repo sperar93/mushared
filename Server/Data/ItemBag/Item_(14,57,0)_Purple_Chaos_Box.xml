@@ -1,0 +1,111 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ItemBag::BagConfig ###
+//	Name: Name of the Item or Monster
+// 	ItemRate: Drop rate of an Item, n/100
+//	MoneyDrop: Money amount to drop from bag (must be greater than 0 if ItemRate is lower than 100)
+//	BagUseEffect:
+//			   0: no effect
+//			   1: Firecracker effect type
+//			   2: Silver and Gold Medals effect type, Box of Heaven
+//			   3: Cherry Blossom Play Box effect type
+//
+// ### ItemBag:::Reward ###
+//	Type: 
+//		0:  Only drop items from list.
+//		1:  Only give coins, no drop items.
+//		2:  Give coins and drop items.
+//	WCoinC: Amount of WCoinC.
+//	WCoinP: Amount of WCoinP.
+//	GoblinPoint: Amount of GoblinPoints.
+//
+// ### ItemBag:::Bag::DropAllow ###
+//	BagUseRate: Drop rate of items from the bag, n/10000
+//	MapNumber: Map Number the drop of items applies to, -1 for all maps
+//	DW: 0 ~ Disallow, 1 ~ Dark Wizard, 2 ~ Sould Master, 3 ~ Grand Master (*)
+//	DK: 0 ~ Disallow, 1 ~ Dark Knight, 2 ~ Blade Knight, 3 ~ Blade Master (*)
+//	FE 0 ~ Disallow, 1 ~ Fairy Elf, 2 ~ Muse Elf, 3 ~ High Elf (*)
+//	MG: 0 ~ Disallow, 1 ~ Magic Gladiator, 2 ~ Duel Master (*)
+//	DL: 0 ~ Disallow, 1 ~ Dark Lord, 2 ~ Lord Emperor (*)
+//	SUM: 0 ~ Disallow, 1 ~ Summoner, 2 ~ Bloody Summoner, 3 ~ Dimension Master (*)
+//	RF: 0 ~ Disallow, 1 ~ Rage Fighter, 2 ~ Fist Master (*)
+//	(*) If setting lower class the higher one will automatically get allowed too
+//
+// ### ItemBag:::Bag::DropAllow::Drop ###
+//	Rate: Drop rate of items from the item list, n/10000
+//	Count: Items count to be dropped at a time from the section.
+//
+// ### ItemBag:::Bag::DropAllow::Drop::Item ###
+//	Cat: Item category, refer to \Data\Item\ItemList.xml
+//	Index: Item index, refer to \Data\Item\ItemList.xml
+//	MinLevel: Minimum level the item should drop with (must be lower or equal to MaxLevel), 0-15
+//	MaxLevel: Maximum level of the item should drop with (must be greater or equal to MinLevel), 0-15
+//	Durability: Durability is optional attribute, if used then defined value will be used, otherwise generated automatically, 0-255
+//	LevelOption: Item level option, refer to ItemOptionRate.xml [ItemOptionRate::LevelOption::Option::Index] -1: No option
+//	SkillOption: Item skill option, refer to ItemOptionRate.xml [ItemOptionRate::SkillOption::Option::Index] -1: No option
+//	LuckOption: Item luck option, refer to ItemOptionRate.xml [ItemOptionRate::LuckOption::Option::Index] -1: No option
+//	JoLOption: Item JoL option, refer to ItemOptionRate.xml [ItemOptionRate::JoLOption::Option::Index] -1: No option
+//	ExcOption: Item exc option, refer to ItemOptionRate.xml [ItemOptionRate::ExcOption::Option::Index]  -1: No option
+//	SetOption: Item set option, refer to ItemOptionRate.xml [ItemOptionRate::SetOption::Option::Index] -1: No option
+//	SocketOption: socket level option, refer to ItemOptionRate.xml [ItemOptionRate::SocketOption::Option::Index] -1: No option
+//	Duration: Duration of item, 0: no limit.
+-->
+
+<ItemBag>
+	<BagConfig Name="" ItemRate="80" MoneyDrop="10000" BagUseEffect="0"  />
+	<Reward Type="0" WCoinC="0" WCoinP="0" GoblinPoint="0" />
+
+	<DropAllow BagUseRate="10000" MapNumber="-1" DW="1" DK="1" FE="1" MG="1" DL="1" SUM="1" RF="1" >
+		<Drop Rate="10000" Count="1">
+			<Item Cat="0" Index="3" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="0" Index="7" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="0" Index="9" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="5" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="5" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="5" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="5" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="5" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="6" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="6" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="6" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="6" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="6" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="5" Index="0" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="5" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="5" Index="3" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="2" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="4" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="4" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="4" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="4" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="4" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="4" Index="9" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="4" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="4" Index="3" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="4" Index="11" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="0" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="7" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="8" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="9" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="10" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+			<Item Cat="11" Index="10" MinLevel="7" MaxLevel="7" Durability="0" LevelOption="-1" SkillOption="-1" LuckOption="0" JoLOption="0" ExcOption="-1" SetOption="-1" SocketOption="-1" Duration="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

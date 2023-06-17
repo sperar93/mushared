@@ -1,0 +1,57 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Time ###
+//	ToOpen: Time the event will be opened from event start notification moment, minutes
+//	PlayDuration: Event duration, minutes
+//	ToClose: Time before the monsters appear.
+//	AfterCloseTime: Time to move players to down after the event is finished, minutes
+//	MinUser: Minimum of players to start sand.
+//	MaxUser: Maximum of players allowed by each arena.
+//	MaxDeath: Necessary amount of kills to win the arena.
+//
+// ### Requirement ####
+//	RequireItem: Activate item requirement to be able to enter, 0-1
+//	ItemCat: Category of an item - refer to '\Item\ItemList.xml'
+//	ItemIndex: Index of an Item - refer to 'Item\ItemList.xml'
+//
+// ### Schedule::Start ###
+//	Index: Index of arena the the configuration applies to
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+-->
+
+<Setting ToOpen="5" PlayDuration="5" ToClose="1" AfterCloseTime="1" MinUser="2" MaxUser="100" MaxDeath="10"/>
+
+<Requirement RequireItem="1" ItemCat="12" ItemIndex="15" />
+
+<Schedule>
+	<Start Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minutes="43" Seconds="00" />
+	<Start Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="08" Minutes="43" Seconds="00" />
+	<Start Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minutes="43" Seconds="00" />
+</Schedule>
+
+<ArenaList>
+	<Arena Index="0" Name="Custom Arena General" MinLevel="50" MaxLevel="400" MinMasterLevel="-1" MaxMasterLevel="-1" MinReset="-1" MaxReset="-1" MinMasterReset="-1" MaxMasterReset="-1" DarkWizard="1" DarkKnight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" />
+</ArenaList>

@@ -1,0 +1,35 @@
+08:09:18 [SocketManager] Server started at port [44860]
+08:09:24 [ServerManager][0] AddServer (127.0.0.1)
+08:09:24 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+08:11:08 [SocketManager] Server started at port [44860]
+08:11:10 [ServerManager][0] AddServer (127.0.0.1)
+08:11:10 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+09:33:49 [SocketManager] Server started at port [44860]
+09:33:51 [ServerManager][0] AddServer (127.0.0.1)
+09:33:51 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+09:52:36 [SocketManager] Server started at port [44860]
+09:52:38 [ServerManager][0] AddServer (127.0.0.1)
+09:52:38 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+09:54:36 [SocketManager] Server started at port [44860]
+09:55:22 [SocketManager] Server started at port [44860]
+09:55:24 [ServerManager][0] AddServer (127.0.0.1)
+09:55:24 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:07:25 [SocketManager] Server started at port [44860]
+10:07:32 [ServerManager][0] AddServer (127.0.0.1)
+10:07:32 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:08:35 [ServerManager][0] DelServer (127.0.0.1)
+10:29:20 [SocketManager] Server started at port [44860]
+10:29:22 [ServerManager][0] AddServer (127.0.0.1)
+10:29:22 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:33:23 [SocketManager] Server started at port [44860]
+10:33:24 [ServerManager][0] AddServer (127.0.0.1)
+10:33:24 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:34:25 [SocketManager] Server started at port [44860]
+10:34:27 [ServerManager][0] AddServer (127.0.0.1)
+10:34:27 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:38:08 [SocketManager] Server started at port [44860]
+10:38:09 [ServerManager][0] AddServer (127.0.0.1)
+10:38:10 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)
+10:56:40 [SocketManager] Server started at port [44860]
+10:56:42 [ServerManager][0] AddServer (127.0.0.1)
+10:56:42 [ServerManager][0] ServerInfo (GameServer01) (55901) (0)

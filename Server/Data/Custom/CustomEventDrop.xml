@@ -1,0 +1,22 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<DropEvent>
+	<Event Index="0" MapNumber="0" StartX="145" StartY="135" Distance="5" NoticeBeforeStart="5" Duration="1" Name="Custom Event Drop" >
+		<Schedule>
+			<Start Year="-1" Month="12" Day="31" DayOfWeek="-1" Hour="0" Minute="0" Second="0" />
+		</Schedule>
+		<ItemList>
+			<Item ItemCat="12" ItemIndex="15" ItemLevel="0" DropCount="3" DropDelay="0" />
+		</ItemList>
+	</Event>
+</DropEvent>

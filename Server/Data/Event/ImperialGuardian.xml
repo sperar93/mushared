@@ -1,0 +1,268 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Time ###
+//	PlayDuration: Event duration, minutes
+//	ToClose: Time before the monsters appear.
+//	AfterCloseTime: Time to move players to down after the event is finished, minutes
+//
+// ### MonsterAIUnit ##
+//	DefaultMonsterAIUnit: Monsters AI Group, MonsterAIGroup.xml
+//	SupportMonsterAIUnit: Support monsters AI Group, MonsterAIGroup.xml
+//
+// ### Schedule::Start ###
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+-->
+
+<Time PlayDuration="10" ToClose="1" AfterCloseTime="1" />
+
+<MonsterAIUnit DefaultMonsterAIUnit="72" SupportMonsterAIUnit="73" />
+
+<MonsterDifficulty>
+	<Multiplier Index="0" Level="45" HP="10.00" Damage="3.00" Defense="3.00" AttackRate="5.00" MagicDefense="5.00" />
+	<Multiplier Index="1" Level="46" HP="10.00" Damage="4.00" Defense="4.00" AttackRate="6.00" MagicDefense="6.00" />
+	<Multiplier Index="2" Level="47" HP="20.00" Damage="5.00" Defense="4.00" AttackRate="6.00" MagicDefense="6.00" />
+	<Multiplier Index="3" Level="48" HP="40.00" Damage="6.00" Defense="4.00" AttackRate="6.00" MagicDefense="6.00" />
+	<Multiplier Index="4" Level="49" HP="50.00" Damage="7.00" Defense="5.00" AttackRate="7.00" MagicDefense="7.00" />
+	<Multiplier Index="5" Level="50" HP="50.00" Damage="8.00" Defense="5.00" AttackRate="7.00" MagicDefense="7.00" />
+	<Multiplier Index="6" Level="51" HP="50.00" Damage="9.00" Defense="5.00" AttackRate="7.00" MagicDefense="7.00" />
+	<Multiplier Index="7" Level="52" HP="60.00" Damage="10.00" Defense="6.00" AttackRate="7.00" MagicDefense="7.00" />
+	<Multiplier Index="8" Level="53" HP="60.00" Damage="11.00" Defense="6.00" AttackRate="7.00" MagicDefense="7.00" />
+	<Multiplier Index="9" Level="54" HP="70.00" Damage="12.00" Defense="6.00" AttackRate="8.00" MagicDefense="8.00" />
+	<Multiplier Index="10" Level="55" HP="70.00" Damage="13.00" Defense="7.00" AttackRate="8.00" MagicDefense="8.00" />
+	<Multiplier Index="11" Level="56" HP="70.00" Damage="14.00" Defense="7.00" AttackRate="8.00" MagicDefense="8.00" />
+	<Multiplier Index="12" Level="57" HP="80.00" Damage="15.00" Defense="7.00" AttackRate="8.00" MagicDefense="8.00" />
+	<Multiplier Index="13" Level="58" HP="80.00" Damage="16.00" Defense="8.00" AttackRate="8.00" MagicDefense="8.00" />
+	<Multiplier Index="14" Level="59" HP="90.00" Damage="17.00" Defense="8.00" AttackRate="9.00" MagicDefense="9.00" />
+	<Multiplier Index="15" Level="60" HP="90.00" Damage="18.00" Defense="8.00" AttackRate="9.00" MagicDefense="9.00" />
+	<Multiplier Index="16" Level="61" HP="90.00" Damage="19.00" Defense="9.00" AttackRate="9.00" MagicDefense="9.00" />
+	<Multiplier Index="17" Level="62" HP="90.00" Damage="20.00" Defense="9.00" AttackRate="9.00" MagicDefense="9.00" />
+	<Multiplier Index="18" Level="63" HP="100.00" Damage="21.00" Defense="9.00" AttackRate="9.00" MagicDefense="9.00" />
+	<Multiplier Index="19" Level="64" HP="500.00" Damage="22.00" Defense="10.00" AttackRate="10.00" MagicDefense="10.00" />
+	<Multiplier Index="20" Level="66" HP="600.00" Damage="23.00" Defense="10.00" AttackRate="10.00" MagicDefense="10.00" />
+	<Multiplier Index="21" Level="68" HP="600.00" Damage="24.00" Defense="11.00" AttackRate="11.00" MagicDefense="11.00" />
+	<Multiplier Index="22" Level="70" HP="700.00" Damage="25.00" Defense="11.00" AttackRate="11.00" MagicDefense="11.00" />
+	<Multiplier Index="23" Level="72" HP="700.00" Damage="26.00" Defense="12.00" AttackRate="12.00" MagicDefense="12.00" />
+	<Multiplier Index="24" Level="74" HP="800.00" Damage="27.00" Defense="12.00" AttackRate="12.00" MagicDefense="12.00" />
+	<Multiplier Index="25" Level="76" HP="800.00" Damage="28.00" Defense="13.00" AttackRate="13.00" MagicDefense="13.00" />
+	<Multiplier Index="26" Level="78" HP="900.00" Damage="29.00" Defense="13.00" AttackRate="13.00" MagicDefense="13.00" />
+	<Multiplier Index="27" Level="80" HP="900.00" Damage="30.00" Defense="14.00" AttackRate="14.00" MagicDefense="14.00" />
+	<Multiplier Index="28" Level="82" HP="900.00" Damage="31.00" Defense="14.00" AttackRate="14.00" MagicDefense="14.00" />
+	<Multiplier Index="29" Level="85" HP="1000.00" Damage="32.00" Defense="15.00" AttackRate="15.00" MagicDefense="15.00" />
+	<Multiplier Index="30" Level="87" HP="1100.00" Damage="33.00" Defense="16.00" AttackRate="15.00" MagicDefense="15.00" />
+	<Multiplier Index="31" Level="89" HP="1200.00" Damage="34.00" Defense="17.00" AttackRate="16.00" MagicDefense="16.00" />
+	<Multiplier Index="32" Level="91" HP="1300.00" Damage="35.00" Defense="18.00" AttackRate="16.00" MagicDefense="16.00" />
+	<Multiplier Index="33" Level="93" HP="1400.00" Damage="36.00" Defense="19.00" AttackRate="17.00" MagicDefense="17.00" />
+	<Multiplier Index="34" Level="95" HP="1500.00" Damage="37.00" Defense="20.00" AttackRate="17.00" MagicDefense="17.00" />
+	<Multiplier Index="35" Level="97" HP="1500.00" Damage="38.00" Defense="21.00" AttackRate="18.00" MagicDefense="18.00" />
+	<Multiplier Index="36" Level="99" HP="1550.00" Damage="39.00" Defense="22.00" AttackRate="18.00" MagicDefense="18.00" />
+	<Multiplier Index="37" Level="101" HP="1600.00" Damage="40.00" Defense="23.00" AttackRate="19.00" MagicDefense="19.00" />
+	<Multiplier Index="38" Level="103" HP="1700.00" Damage="41.00" Defense="24.00" AttackRate="19.00" MagicDefense="19.00" />
+	<Multiplier Index="39" Level="105" HP="1800.00" Damage="42.00" Defense="25.00" AttackRate="20.00" MagicDefense="20.00" />
+	<Multiplier Index="40" Level="107" HP="1810.00" Damage="42.00" Defense="26.00" AttackRate="20.00" MagicDefense="20.00" />
+	<Multiplier Index="41" Level="109" HP="1820.00" Damage="43.00" Defense="27.00" AttackRate="21.00" MagicDefense="21.00" />
+	<Multiplier Index="42" Level="111" HP="1830.00" Damage="43.00" Defense="28.00" AttackRate="21.00" MagicDefense="21.00" />
+	<Multiplier Index="43" Level="113" HP="1840.00" Damage="44.00" Defense="29.00" AttackRate="22.00" MagicDefense="22.00" />
+	<Multiplier Index="44" Level="115" HP="1850.00" Damage="44.00" Defense="30.00" AttackRate="22.00" MagicDefense="22.00" />
+	<Multiplier Index="45" Level="117" HP="1860.00" Damage="45.00" Defense="31.00" AttackRate="23.00" MagicDefense="23.00" />
+	<Multiplier Index="46" Level="119" HP="1870.00" Damage="45.00" Defense="32.00" AttackRate="23.00" MagicDefense="23.00" />
+	<Multiplier Index="47" Level="121" HP="1880.00" Damage="46.00" Defense="33.00" AttackRate="24.00" MagicDefense="24.00" />
+	<Multiplier Index="48" Level="123" HP="1890.00" Damage="46.00" Defense="34.00" AttackRate="24.00" MagicDefense="24.00" />
+	<Multiplier Index="49" Level="125" HP="1900.00" Damage="47.00" Defense="35.00" AttackRate="25.00" MagicDefense="25.00" />
+	<Multiplier Index="50" Level="127" HP="1910.00" Damage="48.00" Defense="36.00" AttackRate="25.00" MagicDefense="25.00" />
+	<Multiplier Index="51" Level="129" HP="1920.00" Damage="48.00" Defense="37.00" AttackRate="26.00" MagicDefense="26.00" />
+	<Multiplier Index="52" Level="131" HP="1930.00" Damage="49.00" Defense="38.00" AttackRate="26.00" MagicDefense="26.00" />
+	<Multiplier Index="53" Level="133" HP="1940.00" Damage="49.00" Defense="39.00" AttackRate="27.00" MagicDefense="27.00" />
+	<Multiplier Index="54" Level="135" HP="1950.00" Damage="50.00" Defense="40.00" AttackRate="27.00" MagicDefense="27.00" />
+	<Multiplier Index="55" Level="137" HP="1960.00" Damage="50.00" Defense="41.00" AttackRate="28.00" MagicDefense="28.00" />
+	<Multiplier Index="56" Level="139" HP="1970.00" Damage="51.00" Defense="42.00" AttackRate="28.00" MagicDefense="28.00" />
+	<Multiplier Index="57" Level="141" HP="1980.00" Damage="51.00" Defense="43.00" AttackRate="29.00" MagicDefense="29.00" />
+	<Multiplier Index="58" Level="143" HP="1990.00" Damage="52.00" Defense="44.00" AttackRate="29.00" MagicDefense="29.00" />
+	<Multiplier Index="59" Level="145" HP="2000.00" Damage="53.00" Defense="45.00" AttackRate="30.00" MagicDefense="30.00" />
+</MonsterDifficulty>
+
+<MonsterList>
+	<Level Number="0"> <!-- Imperial Guardian 1 -->
+		<Monster Index="523" Distance="0" StartX="154" StartY="048" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="044" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="040" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="036" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="032" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="028" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="024" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="157" StartY="026" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="161" StartY="026" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="060" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="064" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="068" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="230" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="226" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="218" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="070" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="078" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="082" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="086" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="048" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="044" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="040" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="036" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="032" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="028" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="154" StartY="024" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="157" StartY="026" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="161" StartY="026" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="060" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="064" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="233" StartY="068" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="230" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="226" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="218" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="070" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="078" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="082" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="220" StartY="086" Dir="8" />
+	</Level>
+	<Level Number="1"> <!-- Imperial Guardian 2 -->
+		<Monster Index="523" Distance="0" StartX="045" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="042" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="039" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="035" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="032" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="029" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="026" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="024" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="022" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="122" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="126" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="130" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="045" StartY="128" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="050" StartY="128" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="129" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="134" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="139" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="144" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="149" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="045" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="042" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="039" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="035" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="032" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="029" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="026" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="024" StartY="062" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="022" StartY="066" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="122" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="126" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="130" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="045" StartY="128" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="050" StartY="128" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="129" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="134" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="139" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="144" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="055" StartY="149" Dir="8" /> 
+	</Level>
+	<Level Number="2"> <!-- Imperial Guardian 3 -->
+		<Monster Index="523" Distance="0" StartX="113" StartY="193" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="198" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="107" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="102" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="097" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="198" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="192" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="187" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="097" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="102" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="107" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="187" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="165" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="170" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="175" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="180" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="185" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="190" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="113" StartY="193" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="198" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="107" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="102" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="097" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="203" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="198" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="192" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="093" StartY="187" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="097" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="102" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="107" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="112" StartY="187" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="165" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="170" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="175" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="180" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="185" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="190" Dir="8" />
+	</Level>
+	<Level Number="3"> <!-- Imperial Guardian 4 -->
+		<Monster Index="523" Distance="0" StartX="045" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="045" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="041" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="037" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="037" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="033" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="033" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="029" StartY="067" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="029" StartY="074" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="031" StartY="078" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="031" StartY="083" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="031" StartY="087" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="057" StartY="191" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="061" StartY="191" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="065" StartY="191" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="069" StartY="191" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="068" StartY="186" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="068" StartY="181" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="068" StartY="176" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="068" StartY="171" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="202" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="206" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="210" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="214" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="218" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="222" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="226" StartY="133" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="224" StartY="137" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="224" StartY="142" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="224" StartY="147" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="224" StartY="152" Dir="8" /> 
+		<Monster Index="523" Distance="0" StartX="224" StartY="155" Dir="8" /> 
+	</Level>
+</MonsterList>

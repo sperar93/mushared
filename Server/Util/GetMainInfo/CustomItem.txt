@@ -1,0 +1,16 @@
+//Index   ColorR   ColorG   ColorB   ModelName
+7368	0	0	0	"CoinWCC"
+7369	0	0	0	"CoinWCC"
+7370	0	0	0	"CoinWCC"
+7371	0	0	0	"CoinWCC"
+
+7372	0	0	0	"CoinWCC"
+7373	0	0	0	"CoinWCC"
+7374	0	0	0	"CoinWCC"
+7375	0	0	0	"CoinWCC"
+
+7376	0	0	0	"CoinWCC"
+7377	0	0	0	"CoinWCC"
+7378	0	0	0	"CoinWCC"
+7379	0	0	0	"CoinWCC"
+end

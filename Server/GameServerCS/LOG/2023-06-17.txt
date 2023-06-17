@@ -1,0 +1,687 @@
+07:39:24 [SocketManager] Server started at port [55919]
+07:39:24 [ Crywolf ] State (0) -> NONE
+07:39:24 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:39:25 [Loren Deep] Sync Start Time. [740] min remain
+07:39:25 [ RAKLION ] State(0) -> END
+07:39:25 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:39:25 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:39:25 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+07:39:25 [Reward Master] Sync Start Time. [20] min remain
+07:39:26 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:39:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:39:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:23 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:27 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:54 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:40:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:41:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:15 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:23 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:27 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:35 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:39 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:42:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:43:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:43:04 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:43:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:43:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:43:59 [SocketManager] Server started at port [55919]
+07:43:59 [ Crywolf ] State (0) -> NONE
+07:43:59 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:43:59 [Loren Deep] Sync Start Time. [736] min remain
+07:44:00 [ RAKLION ] State(0) -> END
+07:44:00 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:44:00 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:44:00 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+07:44:00 [Reward Master] Sync Start Time. [16] min remain
+07:44:01 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:44:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:28 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:32 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:36 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:40 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:44 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:48 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:51 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:55 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:44:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:21 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:25 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:45:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:11 [SocketManager] Server started at port [55919]
+07:46:11 [ Crywolf ] State (0) -> NONE
+07:46:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:46:11 [Loren Deep] Sync Start Time. [733] min remain
+07:46:11 [ RAKLION ] State(0) -> END
+07:46:11 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:46:11 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:46:11 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+07:46:11 [Reward Master] Sync Start Time. [13] min remain
+07:46:12 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:46:15 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:27 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:46:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:04 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:28 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:35 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:39 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:47:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:27 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:48:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:04 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:15 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:23 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:48 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:52 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:56 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:49:59 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:03 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:07 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:11 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:50:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:04 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:28 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:35 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:39 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:43 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:47 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:51 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:55 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:51:59 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:21 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:34 [SocketManager] Server started at port [55919]
+07:52:34 [ Crywolf ] State (0) -> NONE
+07:52:34 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:52:34 [Loren Deep] Sync Start Time. [727] min remain
+07:52:34 [ RAKLION ] State(0) -> END
+07:52:34 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:52:34 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:52:34 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+07:52:34 [Reward Master] Sync Start Time. [7] min remain
+07:52:39 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:52:43 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:54 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:52:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:53:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:21 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:25 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:48 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:52 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:54:56 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:04 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:13 [ Crywolf ] State (0) -> NONE
+07:55:13 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:55:13 [ServerInfo] Event loaded successfully
+07:55:14 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:55:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:55:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:21 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:25 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:35 [ Crywolf ] State (0) -> NONE
+07:56:35 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:56:35 [ServerInfo] Event loaded successfully
+07:56:35 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:56:39 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:54 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:56:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:15 [CastleSiege] SetState NONE
+07:57:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:45 [ Crywolf ] State (0) -> NONE
+07:57:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:57:45 [ServerInfo] Event loaded successfully
+07:57:46 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+07:57:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:57:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:17 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:21 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:25 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:58:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:28 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:32 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:36 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+07:59:40 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:23 [SocketManager] Server started at port [55919]
+08:00:23 [ Crywolf ] State (0) -> NONE
+08:00:23 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:00:23 [ RAKLION ] State(0) -> END
+08:00:23 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:00:23 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:00:23 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+08:00:23 [Reward Master] Sync Start Time. [599] min remain
+08:00:28 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+08:00:32 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:36 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:40 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:43 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:47 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:51 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:55 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:00:59 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:03 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:07 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:01:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:08 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:12 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:23 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:29 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:33 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:48 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:52 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:02:56 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:03 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:07 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:11 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:54 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:03:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:37 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:41 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:53 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:04:57 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:01 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:05 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:09 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:13 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:16 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:20 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:24 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:28 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:31 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:35 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:39 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:46 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:50 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:54 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:05:58 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:02 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:06 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:10 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:14 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:18 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:26 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:42 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:45 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:49 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:52 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:06:56 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:00 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:03 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:07 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:11 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:15 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:19 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:23 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:27 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:30 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:34 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:07:38 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+08:19:00 [SocketManager] Server started at port [55919]
+08:19:00 [ Crywolf ] State (0) -> NONE
+08:19:00 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:19:00 [Loren Deep] Sync Start Time. [701] min remain
+08:19:00 [ RAKLION ] State(0) -> END
+08:19:00 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:19:00 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:19:00 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+08:19:00 [Reward Master] Sync Start Time. [581] min remain
+08:19:01 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+08:19:01 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+08:19:01 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-6-17)
+08:19:01 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+08:19:01 [CastleSiege] LoadData() - Siege Schedule End Date (2023-7-1(0:0:0))
+08:19:01 [CastleSiege] Load Successfully
+08:19:01 [CastleSiege] SetState REGSIEGE
+08:19:01 [CastleSiege] LEFT : SEC(646859), SIEGE-DAY(2023-06-24 20:00:00)
+08:19:02 [ CRYWOLF ] SYNC Occupation: 0
+08:20:01 [CastleSiege] LEFT : SEC(646799), SIEGE-DAY(2023-06-24 20:00:00)
+08:21:01 [CastleSiege] LEFT : SEC(646739), SIEGE-DAY(2023-06-24 20:00:00)
+08:22:01 [CastleSiege] LEFT : SEC(646679), SIEGE-DAY(2023-06-24 20:00:00)
+08:23:01 [CastleSiege] LEFT : SEC(646619), SIEGE-DAY(2023-06-24 20:00:00)
+08:24:01 [CastleSiege] StoreDbNpc() - << START >>
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:24:01 [CastleSiege] StoreDbNpc() - << END >>
+08:24:01 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+08:24:01 [CastleSiege] LEFT : SEC(646559), SIEGE-DAY(2023-06-24 20:00:00)
+08:25:02 [CastleSiege] LEFT : SEC(646499), SIEGE-DAY(2023-06-24 20:00:01)
+08:26:02 [CastleSiege] LEFT : SEC(646439), SIEGE-DAY(2023-06-24 20:00:01)
+08:27:02 [CastleSiege] LEFT : SEC(646379), SIEGE-DAY(2023-06-24 20:00:01)
+08:28:02 [CastleSiege] LEFT : SEC(646319), SIEGE-DAY(2023-06-24 20:00:01)
+08:29:01 [CastleSiege] StoreDbNpc() - << START >>
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:29:01 [CastleSiege] StoreDbNpc() - << END >>
+08:29:01 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+08:29:02 [CastleSiege] LEFT : SEC(646259), SIEGE-DAY(2023-06-24 20:00:01)
+08:30:02 [CastleSiege] LEFT : SEC(646199), SIEGE-DAY(2023-06-24 20:00:01)
+08:31:02 [CastleSiege] LEFT : SEC(646138), SIEGE-DAY(2023-06-24 20:00:00)
+08:32:02 [CastleSiege] LEFT : SEC(646078), SIEGE-DAY(2023-06-24 20:00:00)
+08:33:02 [CastleSiege] LEFT : SEC(646018), SIEGE-DAY(2023-06-24 20:00:00)
+08:34:01 [CastleSiege] StoreDbNpc() - << START >>
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:34:01 [CastleSiege] StoreDbNpc() - << END >>
+08:34:01 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+08:34:02 [CastleSiege] LEFT : SEC(645958), SIEGE-DAY(2023-06-24 20:00:00)
+08:35:02 [CastleSiege] LEFT : SEC(645898), SIEGE-DAY(2023-06-24 20:00:00)
+08:36:03 [CastleSiege] LEFT : SEC(645838), SIEGE-DAY(2023-06-24 20:00:01)
+08:50:47 [SocketManager] Server started at port [55919]
+08:50:47 [ Crywolf ] State (0) -> NONE
+08:50:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:50:47 [Loren Deep] Sync Start Time. [669] min remain
+08:50:47 [ RAKLION ] State(0) -> END
+08:50:47 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:50:47 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:50:47 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+08:50:47 [Reward Master] Sync Start Time. [549] min remain
+08:50:48 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+08:50:48 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+08:50:48 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-6-17)
+08:50:48 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+08:50:48 [CastleSiege] LoadData() - Siege Schedule End Date (2023-7-1(0:0:0))
+08:50:48 [CastleSiege] Load Successfully
+08:50:48 [CastleSiege] SetState REGSIEGE
+08:50:48 [CastleSiege] LEFT : SEC(644952), SIEGE-DAY(2023-06-24 20:00:00)
+08:50:49 [ CRYWOLF ] SYNC Occupation: 0
+08:51:48 [CastleSiege] LEFT : SEC(644893), SIEGE-DAY(2023-06-24 20:00:01)
+08:52:48 [CastleSiege] LEFT : SEC(644832), SIEGE-DAY(2023-06-24 20:00:00)
+08:53:48 [CastleSiege] LEFT : SEC(644773), SIEGE-DAY(2023-06-24 20:00:01)
+08:54:48 [CastleSiege] LEFT : SEC(644712), SIEGE-DAY(2023-06-24 20:00:00)
+08:55:48 [CastleSiege] StoreDbNpc() - << START >>
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+08:55:48 [CastleSiege] StoreDbNpc() - << END >>
+08:55:48 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+08:55:48 [CastleSiege] LEFT : SEC(644652), SIEGE-DAY(2023-06-24 20:00:00)
+08:56:48 [CastleSiege] LEFT : SEC(644592), SIEGE-DAY(2023-06-24 20:00:00)
+08:57:48 [CastleSiege] LEFT : SEC(644532), SIEGE-DAY(2023-06-24 20:00:00)
+08:58:49 [CastleSiege] LEFT : SEC(644472), SIEGE-DAY(2023-06-24 20:00:01)
+08:59:49 [CastleSiege] LEFT : SEC(644412), SIEGE-DAY(2023-06-24 20:00:01)
+09:00:48 [CastleSiege] StoreDbNpc() - << START >>
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:00:48 [CastleSiege] StoreDbNpc() - << END >>
+09:00:48 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+09:00:49 [CastleSiege] LEFT : SEC(644352), SIEGE-DAY(2023-06-24 20:00:01)
+09:01:49 [CastleSiege] LEFT : SEC(644291), SIEGE-DAY(2023-06-24 20:00:00)
+09:02:49 [CastleSiege] LEFT : SEC(644232), SIEGE-DAY(2023-06-24 20:00:01)
+09:03:49 [CastleSiege] LEFT : SEC(644172), SIEGE-DAY(2023-06-24 20:00:01)
+09:04:49 [CastleSiege] LEFT : SEC(644112), SIEGE-DAY(2023-06-24 20:00:01)
+09:05:48 [CastleSiege] StoreDbNpc() - << START >>
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:05:48 [CastleSiege] StoreDbNpc() - << END >>
+09:05:48 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+09:05:49 [CastleSiege] LEFT : SEC(644051), SIEGE-DAY(2023-06-24 20:00:00)
+09:06:49 [CastleSiege] LEFT : SEC(643991), SIEGE-DAY(2023-06-24 20:00:00)
+09:07:49 [CastleSiege] LEFT : SEC(643931), SIEGE-DAY(2023-06-24 20:00:00)
+09:08:49 [CastleSiege] LEFT : SEC(643871), SIEGE-DAY(2023-06-24 20:00:00)
+09:09:49 [CastleSiege] LEFT : SEC(643811), SIEGE-DAY(2023-06-24 20:00:00)
+09:10:48 [CastleSiege] StoreDbNpc() - << START >>
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:10:48 [CastleSiege] StoreDbNpc() - << END >>
+09:10:48 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+09:10:50 [CastleSiege] LEFT : SEC(643751), SIEGE-DAY(2023-06-24 20:00:01)
+09:11:50 [CastleSiege] LEFT : SEC(643691), SIEGE-DAY(2023-06-24 20:00:01)
+09:12:50 [CastleSiege] LEFT : SEC(643631), SIEGE-DAY(2023-06-24 20:00:01)
+09:13:50 [CastleSiege] LEFT : SEC(643571), SIEGE-DAY(2023-06-24 20:00:01)
+09:14:50 [CastleSiege] LEFT : SEC(643510), SIEGE-DAY(2023-06-24 20:00:00)
+09:15:48 [CastleSiege] StoreDbNpc() - << START >>
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:15:48 [CastleSiege] StoreDbNpc() - << END >>
+09:15:49 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+09:15:50 [CastleSiege] LEFT : SEC(643450), SIEGE-DAY(2023-06-24 20:00:00)
+09:16:50 [CastleSiege] LEFT : SEC(643390), SIEGE-DAY(2023-06-24 20:00:00)
+09:17:50 [CastleSiege] LEFT : SEC(643330), SIEGE-DAY(2023-06-24 20:00:00)
+09:18:50 [CastleSiege] LEFT : SEC(643270), SIEGE-DAY(2023-06-24 20:00:00)
+09:19:50 [CastleSiege] LEFT : SEC(643210), SIEGE-DAY(2023-06-24 20:00:00)
+09:20:49 [CastleSiege] StoreDbNpc() - << START >>
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+09:20:49 [CastleSiege] StoreDbNpc() - << END >>
+09:20:49 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+09:20:50 [CastleSiege] LEFT : SEC(643150), SIEGE-DAY(2023-06-24 20:00:00)
+09:21:50 [CastleSiege] LEFT : SEC(643090), SIEGE-DAY(2023-06-24 20:00:00)
+09:22:51 [CastleSiege] LEFT : SEC(643030), SIEGE-DAY(2023-06-24 20:00:01)
+09:23:51 [CastleSiege] LEFT : SEC(642970), SIEGE-DAY(2023-06-24 20:00:01)
+09:35:56 [SocketManager] Server started at port [55919]
+09:35:57 [ Crywolf ] State (0) -> NONE
+09:35:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:35:57 [Loren Deep] Sync Start Time. [624] min remain
+09:35:57 [ RAKLION ] State(0) -> END
+09:35:57 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+09:35:57 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+09:35:57 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+09:35:57 [Reward Master] Sync Start Time. [504] min remain
+09:35:58 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+09:35:58 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+09:35:58 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-6-17)
+09:35:58 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+09:35:58 [CastleSiege] LoadData() - Siege Schedule End Date (2023-7-1(0:0:0))
+09:35:58 [CastleSiege] Load Successfully
+09:35:58 [CastleSiege] SetState REGSIEGE
+09:35:58 [CastleSiege] LEFT : SEC(642242), SIEGE-DAY(2023-06-24 20:00:00)
+09:35:59 [ CRYWOLF ] SYNC Occupation: 0
+09:36:58 [CastleSiege] LEFT : SEC(642183), SIEGE-DAY(2023-06-24 20:00:01)

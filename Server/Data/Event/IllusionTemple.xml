@@ -1,0 +1,281 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Time ###
+//	ToOpen: Time the event will be opened from event start notification moment, minutes
+//	PlayDuration: Event duration, minutes
+//	ToClose: Time before the monsters appear.
+//	AfterCloseTime: Time to move players to down after the event is finished, minutes
+//
+// ### Schedule::Start ###
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+//
+// ### RankingBonusSettings::Temple ###
+//	Level: Level of the event the the configuration applies to
+//	Ranking: Ranking place definition, max 4 per event level, configuration starts from 0
+//	ExpBonus: Exp reward to apply for winning the event at specified place
+-->
+
+<Time ToOpen="5" PlayDuration="15" ToClose="1" AfterCloseTime="5" />
+
+<Schedule>
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="20" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="08" Minute="20" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="20" Second="00" />
+</Schedule>
+	
+<RankingBonusSettings>
+<!-- Illusion Temple 1 -->
+	<Temple Level="0" Ranking="1" ExpBonus="300000" />
+	<Temple Level="0" Ranking="2" ExpBonus="50000" />
+<!-- Illusion Temple 2 -->
+	<Temple Level="1" Ranking="1" ExpBonus="340000" />
+	<Temple Level="1" Ranking="2" ExpBonus="60000" />
+<!-- Illusion Temple 3 -->
+	<Temple Level="2" Ranking="1" ExpBonus="380000" />
+	<Temple Level="2" Ranking="2" ExpBonus="70000" />
+<!-- Illusion Temple 4 -->
+	<Temple Level="3" Ranking="1" ExpBonus="420000" />
+	<Temple Level="3" Ranking="2" ExpBonus="80000" />
+<!-- Illusion Temple 5 -->
+	<Temple Level="4" Ranking="1" ExpBonus="460000" />
+	<Temple Level="4" Ranking="2" ExpBonus="90000" />
+<!-- Illusion Temple 6 -->
+	<Temple Level="5" Ranking="1" ExpBonus="500000" />
+	<Temple Level="5" Ranking="2" ExpBonus="100000" />
+</RankingBonusSettings>
+
+<MonsterList>
+	<Temple Level="0"> <!-- Illusion Temple 1 -->
+	<!-- Monsters -->
+		<Monster Index="386" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="206" StartY="085" Dir="-1" /> 			
+		<Monster Index="387" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="388" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="386" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="387" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+	<Temple Level="1"> <!-- Illusion Temple 2 -->
+	<!-- Monsters -->
+		<Monster Index="389" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="206" StartY="085" Dir="-1" /> 			
+		<Monster Index="390" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="391" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="389" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="390" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+	<Temple Level="2"> <!-- Illusion Temple 3 -->
+	<!-- Monsters -->	
+		<Monster Index="392" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="206" StartY="085" Dir="-1" /> 	
+		<Monster Index="393" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="394" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="392" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="393" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+	<Temple Level="3"> <!-- Illusion Temple 4 -->
+	<!-- Monsters -->
+		<Monster Index="395" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="206" StartY="085" Dir="-1" /> 			
+		<Monster Index="396" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="397" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="395" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="396" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+	<Temple Level="4"> <!-- Illusion Temple 5 -->
+	<!-- Monsters -->
+		<Monster Index="398" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="206" StartY="085" Dir="-1" /> 			
+		<Monster Index="399" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="400" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="398" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="399" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+	<Temple Level="5"> <!-- Illusion Temple 6 -->
+	<!-- Monsters -->	
+		<Monster Index="401" Distance="10" StartX="131" StartY="093" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="131" StartY="089" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="131" StartY="085" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="168" StartY="123" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="164" StartY="123" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="160" StartY="123" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="169" StartY="048" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="169" StartY="052" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="169" StartY="056" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="206" StartY="085" Dir="-1" /> 			
+		<Monster Index="402" Distance="10" StartX="206" StartY="081" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="206" StartY="077" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="158" StartY="085" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="168" StartY="094" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="169" StartY="075" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="179" StartY="085" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="157" StartY="066" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="162" StartY="066" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="150" StartY="078" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="150" StartY="073" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="176" StartY="103" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="181" StartY="103" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="187" StartY="098" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="187" StartY="092" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="197" StartY="057" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="141" StartY="113" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="193" StartY="061" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="145" StartY="109" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="189" StartY="065" Dir="-1" /> 
+		<Monster Index="403" Distance="10" StartX="149" StartY="105" Dir="-1" /> 
+		<Monster Index="401" Distance="10" StartX="167" StartY="087" Dir="-1" /> 
+		<Monster Index="402" Distance="10" StartX="171" StartY="083" Dir="-1" /> 
+	</Temple>
+</MonsterList> 	

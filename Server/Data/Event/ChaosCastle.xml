@@ -1,0 +1,802 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Time ###
+//	ToOpen: Time the event will be opened from event start notification moment, minutes
+//	PlayDuration: Event duration, minutes
+//	ToClose: Time before the monsters appear.
+//	AfterCloseTime: Time to move players to down after the event is finished, minutes
+//
+// ### Schedule::Start ###
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+//
+// ### RankingBonusSettings::Castle ###
+//	Level: Level of the event the the configuration applies to
+//	Ranking: Ranking place definition, max 4 per event level, configuration starts from 0
+//	ExpBonus: Exp reward to apply for winning the event at specified place
+-->
+
+<Time ToOpen="5" PlayDuration="10" ToClose="1" AfterCloseTime="5" />
+
+<Schedule>
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="01" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="02" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="03" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="04" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="05" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="08" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="09" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="10" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="11" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="14" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="15" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="17" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="20" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="21" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="23" Minute="00" Second="00" />
+</Schedule>
+	
+<RankingBonusSettings>
+<!-- Chaos Castle 1 -->
+	<Castle Level="0" Ranking="1" ExpBonus="1000" />
+	<Castle Level="0" Ranking="2" ExpBonus="500" />
+<!-- Chaos Castle 2 -->
+	<Castle Level="1" Ranking="1" ExpBonus="1500" />
+	<Castle Level="1" Ranking="2" ExpBonus="1000" />
+<!-- Chaos Castle 3 -->
+	<Castle Level="2" Ranking="1" ExpBonus="2000" />
+	<Castle Level="2" Ranking="2" ExpBonus="1500" />
+<!-- Chaos Castle 4 -->
+	<Castle Level="3" Ranking="1" ExpBonus="2500" />
+	<Castle Level="3" Ranking="2" ExpBonus="2000" />
+<!-- Chaos Castle 5 -->
+	<Castle Level="4" Ranking="1" ExpBonus="3000" />
+	<Castle Level="4" Ranking="2" ExpBonus="2500" />
+<!-- Chaos Castle 6 -->
+	<Castle Level="5" Ranking="1" ExpBonus="3500" />
+	<Castle Level="5" Ranking="2" ExpBonus="3000" />
+<!-- Chaos Castle 7 -->
+	<Castle Level="6" Ranking="1" ExpBonus="4000" />
+	<Castle Level="6" Ranking="2" ExpBonus="3500" />
+</RankingBonusSettings>
+
+<MonsterList>
+	<Castle Level="0"> <!-- Chaos Castle 1 -->
+		<Monster Index="162" Distance="30" StartX="26" StartY="105" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="98"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="28" StartY="90"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="27" StartY="86"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="28" StartY="82"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="79"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="34" StartY="78"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="33" StartY="81"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="39" StartY="78"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="77"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="38" StartY="80"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="43" StartY="77"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="38" StartY="86"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="43" StartY="84"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="41" StartY="82"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="27" StartY="94"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="32" StartY="91"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="84"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="42" StartY="90"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="44" StartY="87"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="30" StartY="78"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="38" StartY="92"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="40" StartY="98"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="101" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="33" StartY="103" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="38" StartY="89"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="42" StartY="105" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="42" StartY="99"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="35" StartY="105" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="93"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="28" StartY="97"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="84"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="28" StartY="79"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="25" StartY="82"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="76"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="33" StartY="76"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="35" StartY="79"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="31" StartY="80"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="41" StartY="79"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="38" StartY="76"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="36" StartY="81"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="39" StartY="82"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="41" StartY="86"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="42" StartY="94"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="35" StartY="92"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="34" StartY="90"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="38" StartY="101" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="30" StartY="105" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="102" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="28" StartY="100" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="38" StartY="106" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="35" StartY="102" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="42" StartY="102" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="43" StartY="96"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="30" StartY="88"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="25" StartY="91"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="91"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="30" StartY="98"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="41" StartY="93"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="41" StartY="89"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="43" StartY="91"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="39" StartY="95"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="32" StartY="101" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="29" StartY="103" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="33" StartY="105" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="25" StartY="97"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="24" StartY="94"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="27" StartY="88"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="32" StartY="94"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="32" StartY="89"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="36" StartY="92"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="37" StartY="89"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="40" StartY="91"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="38" StartY="99"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="40" StartY="101" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="43" StartY="81"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="36" StartY="76"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="42" StartY="75"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="26" StartY="75"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="24" StartY="80"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="30" StartY="82"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="24" StartY="89"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="24" StartY="86"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="24" StartY="101" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="37" StartY="104" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="41" StartY="96"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="39" StartY="87"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="41" StartY="76"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="38" StartY="84"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="38" StartY="96"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="30" StartY="95"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="32" StartY="78"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="29" StartY="86"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="27" StartY="104" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="40" StartY="104" Dir="0" />
+		<Monster Index="162" Distance="30" StartX="44" StartY="102" Dir="0" />
+		<Monster Index="163" Distance="30" StartX="43" StartY="98"  Dir="0" />
+		<Monster Index="162" Distance="30" StartX="39" StartY="93"  Dir="0" />
+		<Monster Index="163" Distance="30" StartX="41" StartY="84"  Dir="0" />
+	</Castle>
+	<Castle Level="1"> <!-- Chaos Castle 2 -->
+		<Monster Index="164" Distance="30" StartX="26" StartY="105" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="98"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="28" StartY="90"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="27" StartY="86"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="28" StartY="82"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="79"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="34" StartY="78"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="33" StartY="81"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="39" StartY="78"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="77"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="38" StartY="80"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="43" StartY="77"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="38" StartY="86"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="43" StartY="84"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="41" StartY="82"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="27" StartY="94"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="32" StartY="91"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="84"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="42" StartY="90"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="44" StartY="87"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="30" StartY="78"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="38" StartY="92"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="40" StartY="98"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="101" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="33" StartY="103" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="38" StartY="89"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="42" StartY="105" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="42" StartY="99"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="35" StartY="105" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="93"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="28" StartY="97"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="84"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="28" StartY="79"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="25" StartY="82"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="76"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="33" StartY="76"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="35" StartY="79"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="31" StartY="80"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="41" StartY="79"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="38" StartY="76"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="36" StartY="81"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="39" StartY="82"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="41" StartY="86"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="42" StartY="94"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="35" StartY="92"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="34" StartY="90"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="38" StartY="101" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="30" StartY="105" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="102" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="28" StartY="100" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="38" StartY="106" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="35" StartY="102" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="42" StartY="102" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="43" StartY="96"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="30" StartY="88"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="25" StartY="91"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="91"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="30" StartY="98"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="41" StartY="93"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="41" StartY="89"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="43" StartY="91"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="39" StartY="95"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="32" StartY="101" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="29" StartY="103" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="33" StartY="105" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="25" StartY="97"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="24" StartY="94"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="27" StartY="88"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="32" StartY="94"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="32" StartY="89"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="36" StartY="92"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="37" StartY="89"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="40" StartY="91"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="38" StartY="99"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="40" StartY="101" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="43" StartY="81"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="36" StartY="76"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="42" StartY="75"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="26" StartY="75"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="24" StartY="80"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="30" StartY="82"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="24" StartY="89"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="24" StartY="86"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="24" StartY="101" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="37" StartY="104" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="41" StartY="96"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="39" StartY="87"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="41" StartY="76"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="38" StartY="84"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="38" StartY="96"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="30" StartY="95"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="32" StartY="78"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="29" StartY="86"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="27" StartY="104" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="40" StartY="104" Dir="1" />
+		<Monster Index="164" Distance="30" StartX="44" StartY="102" Dir="1" />
+		<Monster Index="165" Distance="30" StartX="43" StartY="98"  Dir="1" />
+		<Monster Index="164" Distance="30" StartX="39" StartY="93"  Dir="1" />
+		<Monster Index="165" Distance="30" StartX="41" StartY="84"  Dir="1" />
+	</Castle>
+	<Castle Level="2"> <!-- Chaos Castle 3 -->
+		<Monster Index="166" Distance="30" StartX="26" StartY="105" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="98"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="28" StartY="90"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="27" StartY="86"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="28" StartY="82"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="79"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="34" StartY="78"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="33" StartY="81"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="39" StartY="78"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="77"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="38" StartY="80"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="43" StartY="77"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="38" StartY="86"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="43" StartY="84"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="41" StartY="82"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="27" StartY="94"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="32" StartY="91"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="84"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="42" StartY="90"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="44" StartY="87"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="30" StartY="78"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="38" StartY="92"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="40" StartY="98"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="101" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="33" StartY="103" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="38" StartY="89"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="42" StartY="105" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="42" StartY="99"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="35" StartY="105" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="93"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="28" StartY="97"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="84"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="28" StartY="79"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="25" StartY="82"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="76"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="33" StartY="76"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="35" StartY="79"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="31" StartY="80"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="41" StartY="79"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="38" StartY="76"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="36" StartY="81"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="39" StartY="82"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="41" StartY="86"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="42" StartY="94"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="35" StartY="92"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="34" StartY="90"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="38" StartY="101" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="30" StartY="105" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="102" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="28" StartY="100" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="38" StartY="106" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="35" StartY="102" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="42" StartY="102" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="43" StartY="96"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="30" StartY="88"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="25" StartY="91"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="91"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="30" StartY="98"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="41" StartY="93"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="41" StartY="89"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="43" StartY="91"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="39" StartY="95"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="32" StartY="101" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="29" StartY="103" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="33" StartY="105" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="25" StartY="97"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="24" StartY="94"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="27" StartY="88"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="32" StartY="94"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="32" StartY="89"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="36" StartY="92"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="37" StartY="89"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="40" StartY="91"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="38" StartY="99"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="40" StartY="101" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="43" StartY="81"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="36" StartY="76"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="42" StartY="75"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="26" StartY="75"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="24" StartY="80"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="30" StartY="82"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="24" StartY="89"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="24" StartY="86"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="24" StartY="101" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="37" StartY="104" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="41" StartY="96"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="39" StartY="87"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="41" StartY="76"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="38" StartY="84"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="38" StartY="96"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="30" StartY="95"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="32" StartY="78"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="29" StartY="86"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="27" StartY="104" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="40" StartY="104" Dir="2" />
+		<Monster Index="166" Distance="30" StartX="44" StartY="102" Dir="2" />
+		<Monster Index="167" Distance="30" StartX="43" StartY="98"  Dir="2" />
+		<Monster Index="166" Distance="30" StartX="39" StartY="93"  Dir="2" />
+		<Monster Index="167" Distance="30" StartX="41" StartY="84"  Dir="2" />
+	</Castle>
+	<Castle Level="3"> <!-- Chaos Castle 4 -->
+		<Monster Index="168" Distance="30" StartX="26" StartY="105" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="98"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="28" StartY="90"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="27" StartY="86"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="28" StartY="82"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="79"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="34" StartY="78"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="33" StartY="81"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="39" StartY="78"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="77"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="38" StartY="80"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="43" StartY="77"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="38" StartY="86"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="43" StartY="84"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="41" StartY="82"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="27" StartY="94"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="32" StartY="91"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="84"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="42" StartY="90"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="44" StartY="87"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="30" StartY="78"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="38" StartY="92"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="40" StartY="98"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="101" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="33" StartY="103" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="38" StartY="89"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="42" StartY="105" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="42" StartY="99"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="35" StartY="105" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="93"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="28" StartY="97"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="84"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="28" StartY="79"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="25" StartY="82"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="76"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="33" StartY="76"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="35" StartY="79"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="31" StartY="80"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="41" StartY="79"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="38" StartY="76"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="36" StartY="81"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="39" StartY="82"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="41" StartY="86"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="42" StartY="94"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="35" StartY="92"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="34" StartY="90"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="38" StartY="101" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="30" StartY="105" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="102" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="28" StartY="100" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="38" StartY="106" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="35" StartY="102" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="42" StartY="102" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="43" StartY="96"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="30" StartY="88"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="25" StartY="91"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="91"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="30" StartY="98"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="41" StartY="93"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="41" StartY="89"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="43" StartY="91"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="39" StartY="95"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="32" StartY="101" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="29" StartY="103" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="33" StartY="105" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="25" StartY="97"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="24" StartY="94"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="27" StartY="88"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="32" StartY="94"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="32" StartY="89"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="36" StartY="92"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="37" StartY="89"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="40" StartY="91"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="38" StartY="99"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="40" StartY="101" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="43" StartY="81"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="36" StartY="76"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="42" StartY="75"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="26" StartY="75"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="24" StartY="80"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="30" StartY="82"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="24" StartY="89"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="24" StartY="86"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="24" StartY="101" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="37" StartY="104" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="41" StartY="96"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="39" StartY="87"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="41" StartY="76"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="38" StartY="84"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="38" StartY="96"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="30" StartY="95"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="32" StartY="78"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="29" StartY="86"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="27" StartY="104" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="40" StartY="104" Dir="3" />
+		<Monster Index="168" Distance="30" StartX="44" StartY="102" Dir="3" />
+		<Monster Index="169" Distance="30" StartX="43" StartY="98"  Dir="3" />
+		<Monster Index="168" Distance="30" StartX="39" StartY="93"  Dir="3" />
+		<Monster Index="169" Distance="30" StartX="41" StartY="84"  Dir="3" />
+	</Castle>
+	<Castle Level="4"> <!-- Chaos Castle 5 --> 
+		<Monster Index="170" Distance="30" StartX="26" StartY="105" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="98"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="28" StartY="90"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="27" StartY="86"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="28" StartY="82"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="79"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="34" StartY="78"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="33" StartY="81"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="39" StartY="78"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="77"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="38" StartY="80"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="43" StartY="77"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="38" StartY="86"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="43" StartY="84"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="41" StartY="82"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="27" StartY="94"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="32" StartY="91"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="84"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="42" StartY="90"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="44" StartY="87"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="30" StartY="78"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="38" StartY="92"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="40" StartY="98"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="101" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="33" StartY="103" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="38" StartY="89"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="42" StartY="105" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="42" StartY="99"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="35" StartY="105" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="93"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="28" StartY="97"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="84"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="28" StartY="79"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="25" StartY="82"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="76"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="33" StartY="76"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="35" StartY="79"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="31" StartY="80"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="41" StartY="79"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="38" StartY="76"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="36" StartY="81"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="39" StartY="82"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="41" StartY="86"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="42" StartY="94"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="35" StartY="92"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="34" StartY="90"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="38" StartY="101" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="30" StartY="105" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="102" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="28" StartY="100" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="38" StartY="106" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="35" StartY="102" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="42" StartY="102" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="43" StartY="96"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="30" StartY="88"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="25" StartY="91"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="91"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="30" StartY="98"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="41" StartY="93"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="41" StartY="89"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="43" StartY="91"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="39" StartY="95"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="32" StartY="101" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="29" StartY="103" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="33" StartY="105" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="25" StartY="97"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="24" StartY="94"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="27" StartY="88"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="32" StartY="94"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="32" StartY="89"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="36" StartY="92"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="37" StartY="89"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="40" StartY="91"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="38" StartY="99"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="40" StartY="101" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="43" StartY="81"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="36" StartY="76"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="42" StartY="75"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="26" StartY="75"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="24" StartY="80"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="30" StartY="82"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="24" StartY="89"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="24" StartY="86"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="24" StartY="101" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="37" StartY="104" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="41" StartY="96"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="39" StartY="87"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="41" StartY="76"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="38" StartY="84"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="38" StartY="96"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="30" StartY="95"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="32" StartY="78"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="29" StartY="86"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="27" StartY="104" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="40" StartY="104" Dir="4" />
+		<Monster Index="170" Distance="30" StartX="44" StartY="102" Dir="4" />
+		<Monster Index="171" Distance="30" StartX="43" StartY="98"  Dir="4" />
+		<Monster Index="170" Distance="30" StartX="39" StartY="93"  Dir="4" />
+		<Monster Index="171" Distance="30" StartX="41" StartY="84"  Dir="4" />
+	</Castle>
+	<Castle Level="5"> <!-- Chaos Castle 6 -->
+		<Monster Index="172" Distance="30" StartX="26" StartY="105" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="98"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="28" StartY="90"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="27" StartY="86"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="28" StartY="82"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="79"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="34" StartY="78"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="33" StartY="81"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="39" StartY="78"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="77"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="38" StartY="80"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="43" StartY="77"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="38" StartY="86"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="43" StartY="84"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="41" StartY="82"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="27" StartY="94"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="32" StartY="91"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="84"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="42" StartY="90"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="44" StartY="87"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="30" StartY="78"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="38" StartY="92"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="40" StartY="98"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="101" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="33" StartY="103" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="38" StartY="89"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="42" StartY="105" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="42" StartY="99"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="35" StartY="105" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="93"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="28" StartY="97"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="84"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="28" StartY="79"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="25" StartY="82"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="76"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="33" StartY="76"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="35" StartY="79"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="31" StartY="80"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="41" StartY="79"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="38" StartY="76"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="36" StartY="81"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="39" StartY="82"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="41" StartY="86"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="42" StartY="94"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="35" StartY="92"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="34" StartY="90"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="38" StartY="101" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="30" StartY="105" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="102" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="28" StartY="100" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="38" StartY="106" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="35" StartY="102" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="42" StartY="102" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="43" StartY="96"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="30" StartY="88"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="25" StartY="91"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="91"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="30" StartY="98"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="41" StartY="93"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="41" StartY="89"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="43" StartY="91"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="39" StartY="95"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="32" StartY="101" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="29" StartY="103" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="33" StartY="105" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="25" StartY="97"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="24" StartY="94"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="27" StartY="88"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="32" StartY="94"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="32" StartY="89"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="36" StartY="92"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="37" StartY="89"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="40" StartY="91"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="38" StartY="99"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="40" StartY="101" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="43" StartY="81"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="36" StartY="76"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="42" StartY="75"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="26" StartY="75"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="24" StartY="80"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="30" StartY="82"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="24" StartY="89"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="24" StartY="86"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="24" StartY="101" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="37" StartY="104" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="41" StartY="96"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="39" StartY="87"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="41" StartY="76"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="38" StartY="84"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="38" StartY="96"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="30" StartY="95"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="32" StartY="78"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="29" StartY="86"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="27" StartY="104" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="40" StartY="104" Dir="5" />
+		<Monster Index="172" Distance="30" StartX="44" StartY="102" Dir="5" />
+		<Monster Index="173" Distance="30" StartX="43" StartY="98"  Dir="5" />
+		<Monster Index="172" Distance="30" StartX="39" StartY="93"  Dir="5" />
+		<Monster Index="173" Distance="30" StartX="41" StartY="84"  Dir="5" />
+	</Castle>
+	<Castle Level="6"> <!-- Chaos Castle 7 -->
+		<Monster Index="426" Distance="30" StartX="26" StartY="105" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="98"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="28" StartY="90"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="27" StartY="86"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="28" StartY="82"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="79"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="34" StartY="78"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="33" StartY="81"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="39" StartY="78"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="77"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="38" StartY="80"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="43" StartY="77"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="38" StartY="86"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="43" StartY="84"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="41" StartY="82"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="27" StartY="94"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="32" StartY="91"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="84"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="42" StartY="90"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="44" StartY="87"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="30" StartY="78"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="38" StartY="92"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="40" StartY="98"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="101" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="33" StartY="103" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="38" StartY="89"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="42" StartY="105" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="42" StartY="99"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="35" StartY="105" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="93"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="28" StartY="97"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="84"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="28" StartY="79"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="25" StartY="82"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="76"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="33" StartY="76"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="35" StartY="79"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="31" StartY="80"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="41" StartY="79"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="38" StartY="76"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="36" StartY="81"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="39" StartY="82"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="41" StartY="86"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="42" StartY="94"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="35" StartY="92"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="34" StartY="90"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="38" StartY="101" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="30" StartY="105" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="102" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="28" StartY="100" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="38" StartY="106" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="35" StartY="102" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="42" StartY="102" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="43" StartY="96"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="30" StartY="88"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="25" StartY="91"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="91"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="30" StartY="98"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="41" StartY="93"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="41" StartY="89"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="43" StartY="91"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="39" StartY="95"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="32" StartY="101" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="29" StartY="103" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="33" StartY="105" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="25" StartY="97"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="24" StartY="94"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="27" StartY="88"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="32" StartY="94"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="32" StartY="89"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="36" StartY="92"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="37" StartY="89"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="40" StartY="91"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="38" StartY="99"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="40" StartY="101" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="43" StartY="81"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="36" StartY="76"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="42" StartY="75"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="26" StartY="75"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="24" StartY="80"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="30" StartY="82"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="24" StartY="89"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="24" StartY="86"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="24" StartY="101" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="37" StartY="104" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="41" StartY="96"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="39" StartY="87"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="41" StartY="76"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="38" StartY="84"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="38" StartY="96"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="30" StartY="95"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="32" StartY="78"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="29" StartY="86"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="27" StartY="104" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="40" StartY="104" Dir="6" />
+		<Monster Index="426" Distance="30" StartX="44" StartY="102" Dir="6" />
+		<Monster Index="427" Distance="30" StartX="43" StartY="98"  Dir="6" />
+		<Monster Index="426" Distance="30" StartX="39" StartY="93"  Dir="6" />
+		<Monster Index="427" Distance="30" StartX="41" StartY="84"  Dir="6" />	
+	</Castle>
+</MonsterList>

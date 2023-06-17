@@ -1,0 +1,39 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### NoticeManager::Notice ###
+//	Type: Mode of viewing the news.
+//		 0: Center of the screen. 
+//		 1: Left of the screen.
+//	RepeatTime: Interval time the news will be displayed, seconds
+//	Line1: Message of the news, First line, max 128 characters
+//	Line2: Message of the news, second line, max 128 characters
+//	Line3: Message of the news, Third line, max 128 characters
+//
+// ### ConnectionNotice::Notice ###
+//	AccountLevel: Account level required to display the message, -1 all
+//	GameMasterLevel: Level of game master to show the message, -1 only common users.
+//	Type: Mode of viewing the news.
+//		 0: Center of the screen. 
+//		 1: Left of the screen.
+//	OnlineText: Message that will be displayed when connected
+//	OfflineText: Message that will be displayed at disconnect
+-->
+
+<NoticeManager>
+	<Notice Type="0" RepeatTime="300" Line1="Mu Online Server" Line2="Season 6 Episode 3" Line3="Developed by SetecSoft" />
+</NoticeManager>
+
+<ConnectionNotice>
+	<Notice AccountLevel="-1" GameMasterLevel="-1" Type="1" OnlineText="[USER] %s connected!" OfflineText="[USER] %s disconnected!" />
+	<Notice AccountLevel="-1" GameMasterLevel="8" Type="0" OnlineText="[MODERATOR] %s connected!" OfflineText="[MODERATOR] %s disconnected!" />
+	<Notice AccountLevel="-1" GameMasterLevel="32" Type="0" OnlineText="[ADMINISTRATOR] %s connected!" OfflineText="[ADMINISTRATOR] %s disconnected!" />
+</ConnectionNotice>

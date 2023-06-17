@@ -1,0 +1,109 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### MapManager::Map ###
+//	Index: Number of a map, server side starts from 0, unique in the file
+//	NonPK: Allows to set specified map a PvP or Non-PvP
+//		  -1: Depend on the configuration of the gameserver.
+//		   0: PVP.
+//		   1: Non PvP
+//		   2: PVP. (Even if gameserver does not allow it.)
+//	ViewRange: Maximum range of vision
+//	ExperienceRate: Final experience rate received.
+//	MasterExperienceRate: Final master experience rate received.
+//	ItemDropRate: Common item drop rate
+//	ExcItemDropRate: Excellent item drop rate
+//	SetItemDropRate: Set item drop rate
+//	SocketItemDrop: Socket item drop rate
+//	HelperEnable: Allow the use of Helper 0-1
+//	GensBattle: Allow Gens battle 0-1
+//	Terrain: Terrain file to load for the map from \Data\Terrain folder
+//	Name: Name of map.
+-->
+<MapManager>
+	<Map Index="0"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Lorencia.att" Name="Lorencia" />
+	<Map Index="1"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Dungeon.att" Name="Dungeon" />
+	<Map Index="2"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Devias.att" Name="Devias" />
+	<Map Index="3"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Noria.att" Name="Noria" />
+	<Map Index="4"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="LostTower.att" Name="Lost Tower" />
+	<Map Index="6"  NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Arena.att" Name="Arena" />
+	<Map Index="7"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Atlans.att" Name="Atlans" />
+	<Map Index="8"  NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Tarkan.att" Name="Tarkan" />
+	<Map Index="9"  NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="DevilSquare.att" Name="Devil Square (1~4)" />
+	<Map Index="10" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Icarus.att" Name="Icarus" />
+	<Map Index="11" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 1" />
+	<Map Index="12" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 2" />
+	<Map Index="13" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 3" />
+	<Map Index="14" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 4" />
+	<Map Index="15" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 5" />
+	<Map Index="16" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 6" />
+	<Map Index="17" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 7" />
+	<Map Index="18" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 1" />
+	<Map Index="19" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 2" />
+	<Map Index="20" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 3" />
+	<Map Index="21" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 4" />
+	<Map Index="22" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 5" />
+	<Map Index="23" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 6" />
+	<Map Index="24" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 1" />
+	<Map Index="25" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 2" />
+	<Map Index="26" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 3" />
+	<Map Index="27" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 4" />
+	<Map Index="28" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 5" />
+	<Map Index="29" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Kalima 6" />
+	<Map Index="30" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="ValleyOfLoren.att" Name="Valley of Loren" />
+	<Map Index="31" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="1000" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="LandOfTrial.att" Name="Land of Trials" />
+	<Map Index="32" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="DevilSquare.att" Name="Devil Square (5~7)" />
+	<Map Index="33" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Aida.att" Name="Aida" />
+	<Map Index="34" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Crywolf.att" Name="Crywolf Fortress" />
+	<Map Index="36" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kalima.att" Name="Lost Kalima" />
+	<Map Index="37" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Kanturu.att" Name="Kanturu Ruins" />
+	<Map Index="38" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="KanturuRemain.att" Name="Kanturu Remain" />
+	<Map Index="39" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="KanturuBoss.att" Name="Kanturu Refinery" />
+	<Map Index="40" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Silent.att" Name="Silent Map" />
+	<Map Index="41" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BalgassBarracks.att" Name="Barracks of Balgass" />
+	<Map Index="42" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BalgassRefuge.att" Name="Balgass Refuge" />
+	<Map Index="45" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 1" />
+	<Map Index="46" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 2" />
+	<Map Index="47" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 3" />
+	<Map Index="48" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 4" />
+	<Map Index="49" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 5" />
+	<Map Index="50" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="IllusionTemple.att" Name="Illusion Temple 6" />
+	<Map Index="51" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Elbeland.att" Name="Elbeland" />
+	<Map Index="52" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="BloodCastle.att" Name="Blood Castle 8" />
+	<Map Index="53" NonPK="-1" ViewRange="10" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="ChaosCastle.att" Name="Chaos Castle 7" />
+	<Map Index="56" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="SwampOfCalmness.att" Name="Swamp of Calmness" />
+	<Map Index="57" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="1" HelperEnable="1" GensBattle="0" Terrain="Raklion.att" Name="Raklion" />
+	<Map Index="58" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="1" HelperEnable="1" GensBattle="0" Terrain="RaklionBoss.att" Name="Raklion Boss" />
+	<Map Index="62" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="SantaTown.att" Name="Santa Village" />
+	<Map Index="63" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="1" Terrain="Vulcanus.att" Name="Vulcanus" />
+	<Map Index="64" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="0" GensBattle="0" Terrain="DuelArena.att" Name="Duel Arena" />
+	<Map Index="65" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Doppelganger1.att" Name="Double Goer 1" />
+	<Map Index="66" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Doppelganger2.att" Name="Double Goer 2" />
+	<Map Index="67" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Doppelganger3.att" Name="Double Goer 3" />
+	<Map Index="68" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Doppelganger4.att" Name="Double Goer 4" />
+	<Map Index="69" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="ImperialGuardian1.att" Name="Imperial Guardian 1" />
+	<Map Index="70" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="ImperialGuardian2.att" Name="Imperial Guardian 2" />
+	<Map Index="71" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="ImperialGuardian3.att" Name="Imperial Guardian 3" />
+	<Map Index="72" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="ImperialGuardian4.att" Name="Imperial Guardian 4" />
+	<Map Index="79" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="LorenMarket.att" Name="Loren Market" />
+	<Map Index="80" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Karutan1.att" Name="Karutan 1" />
+	<Map Index="81" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Karutan2.att" Name="Karutan 2" />
+	<!-- Custom Maps -->
+	<Map Index="82" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 1" />
+	<Map Index="83" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 2" />
+	<Map Index="84" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 3" />
+	<Map Index="85" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 4" />
+	<Map Index="86" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 5" />
+	<Map Index="87" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 6" />
+	<Map Index="88" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 7" />
+	<Map Index="89" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 8" />
+	<Map Index="90" NonPK="-1" ViewRange="12" ExperienceRate="100" MasterExperienceRate="100" ItemDropRate="100" ExcItemDropRate="1000" SetItemDropRate="0" SocketItemDrop="0" HelperEnable="1" GensBattle="0" Terrain="Empty.att" Name="Custom Map 9" />
+</MapManager>

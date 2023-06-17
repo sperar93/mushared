@@ -1,0 +1,48 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ResetTable::Range ###
+//	MinReset: Start range of resets count to apply the rule
+//	MaxReset: End range of resets count to apply the rule
+//
+// ### ResetTable::Range:Rule ###
+//	AccountLevel: Account level to apply this rules 0-3
+//	Level: Level to apply the rule, -1: Use settings from 'GameServerInfo - Command.dat'
+//	Money: Money required to reset, -1: Use settings from 'GameServerInfo - Command.dat'
+//	WCoinC: WCoinC required to reset, -1: Use settings from 'GameServerInfo - Command.dat'
+//	WCoinP: WCoinP required to reset, -1: Use settings from 'GameServerInfo - Command.dat'
+//	GoblinPoint: GoblinPoint required to reset , -1: Use settings from 'GameServerInfo - Command.dat'
+//	Points: Points delivered after reset, -1: Use settings from 'GameServerInfo - Command.dat'
+-->
+
+<ResetTable>
+<!-- First rule match a player requirements will be applied, therefore order of entries matters -->
+	<Range MinReset="0" MaxReset="3">
+		<Rule AccountLevel="0" Level="350" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="1" Level="350" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="2" Level="350" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="3" Level="350" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+	</Range>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<Range MinReset="3" MaxReset="6">
+		<Rule AccountLevel="0" Level="380" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="1" Level="380" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="2" Level="380" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="3" Level="380" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+	</Range>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<Range MinReset="6" MaxReset="9">
+		<Rule AccountLevel="0" Level="400" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="1" Level="400" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="2" Level="400" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+		<Rule AccountLevel="3" Level="400" Money="-1" WCoinC="-1" WCoinP="-1" GoblinPoint="-1" Points="-1" />
+	</Range>
+</ResetTable>

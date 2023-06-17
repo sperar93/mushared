@@ -1,0 +1,99 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<ItemHarmonyType>
+	<Item Cat="0"  Index="0"  RequiredLevel="4" Name="Kris" />
+	<Item Cat="0"  Index="1"  RequiredLevel="4" Name="Short Sword" />
+	<Item Cat="0"  Index="2"  RequiredLevel="4" Name="Rapier" />
+	<Item Cat="0"  Index="4"  RequiredLevel="4" Name="Sword of Assassin" />
+	<Item Cat="1"  Index="0"  RequiredLevel="4" Name="Small Axe" />	
+	<Item Cat="1"  Index="1"  RequiredLevel="4" Name="Hand Axe" />	
+	<Item Cat="1"  Index="2"  RequiredLevel="4" Name="Double Axe" />
+	<Item Cat="2"  Index="0"  RequiredLevel="4" Name="Mace" />
+	<Item Cat="2"  Index="1"  RequiredLevel="4" Name="Morning Star" />
+	<Item Cat="2"  Index="2"  RequiredLevel="4" Name="Flail" />
+	<Item Cat="3"  Index="5"  RequiredLevel="4" Name="Double Axe" />
+	<Item Cat="3"  Index="2"  RequiredLevel="4" Name="Dragon Lance" />
+	<Item Cat="3"  Index="6"  RequiredLevel="4" Name="Halberd" />	
+	<Item Cat="3"  Index="1"  RequiredLevel="4" Name="Spear" />
+	<Item Cat="3"  Index="3"  RequiredLevel="4" Name="Giant Trident" />
+	<Item Cat="4"  Index="0"  RequiredLevel="4" Name="Short Bow" />	
+	<Item Cat="4"  Index="1"  RequiredLevel="4" Name="Bow" />
+	<Item Cat="4"  Index="2"  RequiredLevel="4" Name="Elven Bow" />	
+	<Item Cat="4"  Index="3"  RequiredLevel="4" Name="Battle Bow" />
+	<Item Cat="4"  Index="8"  RequiredLevel="4" Name="Crossbow" />	
+	<Item Cat="4"  Index="9"  RequiredLevel="4" Name="Golden Crossbow" />
+	<Item Cat="4"  Index="10" RequiredLevel="4" Name="Arquebus" />	
+	<Item Cat="4"  Index="11" RequiredLevel="4" Name="Light Crossbow" />
+	<Item Cat="5"  Index="0"  RequiredLevel="4" Name="Skull Staff" />
+	<Item Cat="5"  Index="1"  RequiredLevel="4" Name="Angelic Staff" />
+	<Item Cat="5"  Index="2"  RequiredLevel="4" Name="Serpent Staff" />
+	<Item Cat="6"  Index="0"  RequiredLevel="4" Name="Round Shield" />
+	<Item Cat="6"  Index="1"  RequiredLevel="4" Name="Horn Shield" />
+	<Item Cat="6"  Index="2"  RequiredLevel="4" Name="Kite Shield" />
+	<Item Cat="6"  Index="3"  RequiredLevel="4" Name="Elven Shield" />
+	<Item Cat="6"  Index="4"  RequiredLevel="4" Name="Buckler" />	
+	<Item Cat="6"  Index="6"  RequiredLevel="4" Name="Skull Shield" />
+	<Item Cat="6"  Index="7"  RequiredLevel="4" Name="Spiked Shield" />
+	<Item Cat="6"  Index="9"  RequiredLevel="4" Name="Plate Shield" />
+	<Item Cat="6"  Index="10" RequiredLevel="4" Name="Large Round Shield" />
+	<Item Cat="7"  Index="0"  RequiredLevel="4" Name="Bronze Helm" />
+	<Item Cat="7"  Index="2"  RequiredLevel="4" Name="Pad Helm" />	
+	<Item Cat="7"  Index="4"  RequiredLevel="4" Name="Bone Helm" />	
+	<Item Cat="7"  Index="5"  RequiredLevel="4" Name="Leather Helm" />
+	<Item Cat="7"  Index="6"  RequiredLevel="4" Name="Scale Helm" />
+	<Item Cat="7"  Index="7"  RequiredLevel="4" Name="Sphinx Helm" />
+	<Item Cat="7"  Index="8"  RequiredLevel="4" Name="Brass Helm" />
+	<Item Cat="7"  Index="10" RequiredLevel="4" Name="Vine Helm" />	
+	<Item Cat="7"  Index="11" RequiredLevel="4" Name="Silk Helm" />	
+	<Item Cat="7"  Index="12" RequiredLevel="4" Name="Helm of Wind" />
+	<Item Cat="8"  Index="0"  RequiredLevel="4" Name="Bronze Armor" />
+	<Item Cat="8"  Index="2"  RequiredLevel="4" Name="Pad Armor" />	
+	<Item Cat="8"  Index="4"  RequiredLevel="4" Name="Bone Armor" />
+	<Item Cat="8"  Index="5"  RequiredLevel="4" Name="Leather Armor" />
+	<Item Cat="8"  Index="6"  RequiredLevel="4" Name="Scale Armor" />
+	<Item Cat="8"  Index="7"  RequiredLevel="4" Name="Sphinx Armor" />
+	<Item Cat="8"  Index="8"  RequiredLevel="4" Name="Brass Armor" />
+	<Item Cat="8"  Index="10" RequiredLevel="4" Name="Vine Armor" />
+	<Item Cat="8"  Index="11" RequiredLevel="4" Name="Silk Armor" />
+	<Item Cat="8"  Index="12" RequiredLevel="4" Name="Armor of Wind" />
+	<Item Cat="9"  Index="0"  RequiredLevel="4" Name="Bronze Pants" />
+	<Item Cat="9"  Index="2"  RequiredLevel="4" Name="Pad Pants" />	
+	<Item Cat="9"  Index="4"  RequiredLevel="4" Name="Bone Pants" />
+	<Item Cat="9"  Index="5"  RequiredLevel="4" Name="Leather Pants" />
+	<Item Cat="9"  Index="6"  RequiredLevel="4" Name="Scale Pants" />
+	<Item Cat="9"  Index="7"  RequiredLevel="4" Name="Sphinx Pants" />
+	<Item Cat="9"  Index="8"  RequiredLevel="4" Name="Brass Pants" />
+	<Item Cat="9"  Index="10" RequiredLevel="4" Name="Vine Pants" />
+	<Item Cat="9"  Index="11" RequiredLevel="4" Name="Silk Pants" />
+	<Item Cat="9"  Index="12" RequiredLevel="4" Name="Pants of Wind" />
+	<Item Cat="10" Index="0"  RequiredLevel="4" Name="Bronze Gloves" />
+	<Item Cat="10" Index="2"  RequiredLevel="4" Name="Pad Gloves" />
+	<Item Cat="10" Index="4"  RequiredLevel="4" Name="Bone Gloves" />
+	<Item Cat="10" Index="5"  RequiredLevel="4" Name="Leather Gloves" />
+	<Item Cat="10" Index="6"  RequiredLevel="4" Name="Scale Gloves" />
+	<Item Cat="10" Index="7"  RequiredLevel="4" Name="Sphinx Gloves" />
+	<Item Cat="10" Index="8"  RequiredLevel="4" Name="Brass Gloves" />
+	<Item Cat="10" Index="10" RequiredLevel="4" Name="Vine Gloves" />
+	<Item Cat="10" Index="11" RequiredLevel="4" Name="Silk Gloves" />
+	<Item Cat="10" Index="12" RequiredLevel="4" Name="Gloves of Wind" />
+	<Item Cat="11" Index="0"  RequiredLevel="4" Name="Bronze Boots" />
+	<Item Cat="11" Index="2"  RequiredLevel="4" Name="Pad Boots" />	
+	<Item Cat="11" Index="4"  RequiredLevel="4" Name="Bone Boots" />
+	<Item Cat="11" Index="5"  RequiredLevel="4" Name="Leather Boots" />
+	<Item Cat="11" Index="6"  RequiredLevel="4" Name="Scale Boots" />
+	<Item Cat="11" Index="7"  RequiredLevel="4" Name="Sphinx Boots" />
+	<Item Cat="11" Index="8"  RequiredLevel="4" Name="Brass Boots" />
+	<Item Cat="11" Index="10" RequiredLevel="4" Name="Vine Boots" />
+	<Item Cat="11" Index="11" RequiredLevel="4" Name="Silk Boots" />
+	<Item Cat="11" Index="12" RequiredLevel="4" Name="Boots of Wind" />
+</ItemHarmonyType>

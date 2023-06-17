@@ -1,0 +1,4 @@
+//Index   Type    Name                ModelName      Size  
+//700       1       "Custom Monster 1"  "Monster181"   1.50
+//701       1       "Custom Monster 2"  "Monster581"   2.50
+end

@@ -1,0 +1,35 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<MoveSummonList>
+	<Move MapNumber="0"  Name="Lorencia" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="1"  Name="Dungeon" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="2"  Name="Devias" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="3"  Name="Noria" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="4"  Name="Lost Tower" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="6"  Name="Arena" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="7"  Name="Atlans" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="8"  Name="Tarkan" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="10" Name="Icarus" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="30" Name="Valley of Loren" 	StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="33" Name="Aida" 				StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="34" Name="Crywolf" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="37" Name="Kanturu Ruins" 		StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="38" Name="Kanturu 1 (Remain)" 	StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="41" Name="Barracks of Balgass" StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="42" Name="Balgass Refuge" 		StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="51" Name="Elbeland" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="56" Name="Swamp of Calmness" 	StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="57" Name="LaCleon" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="80" Name="Karutan1" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+	<Move MapNumber="81" Name="Karutan2" 			StartPosX="1" StartPosY="1" EndPosX="255" EndPosY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="0" />
+</MoveSummonList>

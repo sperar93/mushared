@@ -1,0 +1,456 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### MessageList::MsgGroup ###
+//	Index: Unique ID of group message
+//	Description: Description used for in-file description purpose, logs and tools
+//
+// ### MessageList::MsgGroup::Msg ###
+//	ID: Unique ID of text message
+//	Text: The text to display, max 128 characters
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~ Texts contain special markers as %s and %d etc
+//~~ It is important to keep count and order of the markers same if translating
+//~~ or changing the text, otherwise mistake will result in Game Server crash
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<MessageList>
+	<MsgGroup Index="0" Description="Blood Castle" >
+		<Msg ID="0" Text="Blood Castle will be closed after %d minute(s)" />
+		<Msg ID="1" Text="Blood Castle is closed. Try again next time." />
+		<Msg ID="2" Text="Blood Castle %d will start in %d minute(s)" />
+		<Msg ID="3" Text="Blood Castle has started!" />
+		<Msg ID="4" Text="Blood Castle has finished" />
+		<Msg ID="5" Text="Monsters eliminated!! Destroy the castle gates!" />
+		<Msg ID="6" Text="%s has demolished the castle gates!" />
+		<Msg ID="7" Text="Kundun's minions have been subdued! Destroy the crystal statue!" />
+		<Msg ID="8" Text="%s has demolished the crystal statue!" />
+		<Msg ID="9" Text="%s has acquired the Absolute Weapon of Archangel!" />
+		<Msg ID="10" Text="%s has droped the Absolute Weapon of Archangel!" />
+		<Msg ID="11" Text="Blood Castle has been successfully completed by %s!" />
+		<Msg ID="12" Text="You're not strong enough to enter Blood Castle." />
+	</MsgGroup>
+	<MsgGroup Index="1" Description="Bonus Manager" >
+		<Msg ID="0" Text="Happy Hour Start" />
+		<Msg ID="1" Text="Happy Hour End" />
+	</MsgGroup>
+	<MsgGroup Index="2" Description="Chaos Castle" >
+		<Msg ID="0" Text="Chaos Castle will be closed after %d minute(s)" />
+		<Msg ID="1" Text="Chaos Castle is closed. Try again next time." />
+		<Msg ID="2" Text="Chaos Castle %d will start in %d minute(s)" />
+		<Msg ID="3" Text="Chaos Castle has started!" />
+		<Msg ID="4" Text="Chaos Castle has finished." />
+		<Msg ID="5" Text="Not enough warriors to start the Chaos Castle!" />
+		<Msg ID="6" Text="You're not strong enough to enter Chaos Castle." />
+	</MsgGroup>	
+	<MsgGroup Index="3" Description="Devil Square" >
+		<Msg ID="0" Text="Devil Square will close in %d minute(s)" />
+		<Msg ID="1" Text="Devil Square is closed. Try again next time." />
+		<Msg ID="2" Text="Devil Square %d will start in %d minute(s)" />
+		<Msg ID="3" Text="Devil Square has started." />
+		<Msg ID="4" Text="Devil Square has finished." />
+		<Msg ID="5" Text="You're not strong enough to enter Devil Square." />
+	</MsgGroup>
+	<MsgGroup Index="4" Description="Command Manager" >
+		<Msg ID="0" Text="You must be at least level %d to use %s" />
+		<Msg ID="1" Text="You need to have a maximum of %d level to use %s" />
+		<Msg ID="2" Text="You must be at least %d resets to use %s" />
+		<Msg ID="3" Text="You need to have a maximum of %d resets to use %s" />
+		<Msg ID="4" Text="You have to wait %d seconds to use %s" />
+		<Msg ID="5" Text="You do not have permission to use %s" />
+		<Msg ID="6" Text="You must be at least %d Money to use %s" />
+		<Msg ID="7" Text="You must be at least %d WCoinC to use %s" />
+		<Msg ID="8" Text="You must be at least %d WCoinP to use %s" />
+		<Msg ID="9" Text="You must be at least %d GoblinPoint to use %s" />
+		<Msg ID="10" Text="Requests received: On" />
+		<Msg ID="11" Text="Requests received: Off" />
+		<Msg ID="12" Text="Requests received: Auto" />
+		<Msg ID="13" Text="[POST] %s" />
+		<Msg ID="14" Text="Exclusive Command Dark Lord" />
+		<Msg ID="15" Text="You do not have enough points to add" />
+		<Msg ID="16" Text="You added %d points, remaining %d points to be distributed" />
+		<Msg ID="17" Text="Automatic points add: On (%d)" />
+		<Msg ID="18" Text="Automatic points add: Off" />
+		<Msg ID="19" Text="You're not PK" />
+		<Msg ID="20" Text="You cleared your PK" />
+		<Msg ID="21" Text="You can not evolve more" />
+		<Msg ID="22" Text="You successfully evolved" />
+		<Msg ID="23" Text="You can not change chest at moment" />
+		<Msg ID="24" Text="You have entered an invalid chest to change" />
+		<Msg ID="25" Text="You moved to chest %d successfully" />
+		<Msg ID="26" Text="You can not reset at time" />
+		<Msg ID="27" Text="You must be at least level %d to reset" />
+		<Msg ID="28" Text="You must have at least %d Zen to reset" />
+		<Msg ID="29" Text="You can not have more than %d resets" />
+		<Msg ID="30" Text="You can not reset with items equipped" />
+		<Msg ID="31" Text="You successfully reseted, and now have %d resets" />
+		<Msg ID="32" Text="Automatic reset: On" />
+		<Msg ID="33" Text="Automatic Reset: Off" />
+		<Msg ID="34" Text="You can only reset %d times a day" />
+		<Msg ID="35" Text="You can only reset %d times a week" />
+		<Msg ID="36" Text="You can only reset %d times a month" />
+		<Msg ID="37" Text="You must have at least %d WCoinC to reset" />
+		<Msg ID="38" Text="You must have at least %d WCoinP to reset" />
+		<Msg ID="39" Text="You must have at least %d GoblinPoint to reset" />
+		<Msg ID="40" Text="You can not master reset at time" />
+		<Msg ID="41" Text="You must be at least level %d to master reset" />
+		<Msg ID="42" Text="You must be at least %d reset to master reset" />
+		<Msg ID="43" Text="You must have at least %d Zen to master reset" />
+		<Msg ID="44" Text="You can not have more than %d master resets" />
+		<Msg ID="45" Text="You can not master reset with items equipped" />
+		<Msg ID="46" Text="You successfully reseted, and now have %d master resets" />
+		<Msg ID="47" Text="You can only master reset %d times a day" />
+		<Msg ID="48" Text="You can only master reset %d times a week" />
+		<Msg ID="49" Text="You can only master reset %d times a month" />
+		<Msg ID="50" Text="You must have at least %d WCoinC to master reset" />
+		<Msg ID="51" Text="You must have at least %d WCoinP to master reset" />
+		<Msg ID="52" Text="You must have at least %d GoblinPoint to master reset" />
+		<Msg ID="53" Text="You cleared your inventory" />
+		<Msg ID="54" Text="Points restored successfully!" />
+		<Msg ID="55" Text="You can only enter the values 1, 10, 100 or 1000" />
+		<Msg ID="56" Text="You don't have that amount to pack" />
+		<Msg ID="57" Text="Pack created successfully!" />
+		<Msg ID="58" Text="Target player not found or not connected!" />
+		<Msg ID="59" Text="You successfully created item" />
+		<Msg ID="60" Text="Character edited successfully!" />
+		<Msg ID="61" Text="You were edited by game master %s!" />
+		<Msg ID="62" Text="The game master %s has modified your coins!" />
+		<Msg ID="63" Text="Coins edited successfully!" />
+		<Msg ID="64" Text="Level of PK established!" />
+		<Msg ID="65" Text="Your account level was modified!" />
+		<Msg ID="66" Text="Account level established!" />
+		<Msg ID="67" Text="Target guild not found!" />
+		<Msg ID="68" Text="Only master level characters can use this command." />
+		<Msg ID="69" Text="You have entered an invalid tree to reset" />
+		<Msg ID="70" Text="You tree has been reset successfully!" />
+		<Msg ID="71" Text="You can not create monsters in the safe zone!" />
+		<Msg ID="72" Text="The creation of the monster has failed!" />
+		<Msg ID="73" Text="You can not create NPC." />
+	</MsgGroup>
+	<MsgGroup Index="5" Description="Loren Deep" >
+		<Msg ID="0" Text="Loren Deep will start in 5 minutes" />
+		<Msg ID="1" Text="Loren Deep Invasion has started." />
+		<Msg ID="2" Text="Loren Deep Invasion has finished." />
+		<Msg ID="3" Text="%s was killed by %s" />
+	</MsgGroup>
+	<MsgGroup Index="6" Description="Illusion Temple" >
+		<Msg ID="0" Text="Illusion Temple will close in %d minute(s)" />
+		<Msg ID="1" Text="Illusion Temple is closed. Try again next time." />
+		<Msg ID="2" Text="Illusion Temple %d will start in %d minute(s)" />
+		<Msg ID="3" Text="Illusion Temple has started." />
+		<Msg ID="4" Text="Illusion Temple has finished." />
+		<Msg ID="5" Text="%s has acquired the artifact." />
+		<Msg ID="6" Text="%s has droped the artifact." />
+		<Msg ID="7" Text="You do not have the entrance ticket to enter Illusion Temple." />
+		<Msg ID="8" Text="Not enough warriors to start Illusion Temple." />
+		<Msg ID="9" Text="You're not strong enough to enter Illusion Temple" />
+	</MsgGroup>
+	<MsgGroup Index="7" Description="Double Goer" >
+		<Msg ID="0" Text="Ice Walker appeared!" />
+		<Msg ID="1" Text="Ice Walker was defeated!" />
+		<Msg ID="2" Text="You're not strong enough to enter in Double Goer" />
+	</MsgGroup>
+	<MsgGroup Index="8" Description="Imperial Guardian" >
+		<Msg ID="0" Text="You're not strong enough to enter in Imperial Guardian" />
+	</MsgGroup>
+	<MsgGroup Index="9" Description="Kanturu" >
+		<Msg ID="0" Text="Will lead to tower of the refinement road after 1 hour again seal." />
+		<Msg ID="1" Text="After 20 minutes will force to return the village security area." />
+		<Msg ID="2" Text="Kanturu The Gateway Machine opens in 1 minute." />
+		<Msg ID="3" Text="Kanturu Battle against Maya will start soon, get ready" />
+		<Msg ID="4" Text="Kanturu Next battle will start in 1 minute." />
+		<Msg ID="5" Text="Defeat the Nightmare that controls the Maya to gain entrance to the Refinery." />
+		<Msg ID="6" Text="Has defeated the Nightmare Boss. You may now proceed to the Refinery Tower." />
+		<Msg ID="7" Text="Because will limit the time crossed, will force to return the ridge security area." />
+	</MsgGroup>
+	<MsgGroup Index="10" Description="Raklion" >
+		<Msg ID="0" Text="Selupan has appeared. The Hatchery Gates will be closed in %d minute(s)." />
+		<Msg ID="1" Text="The Hatchery Gate is closed, you cannot enter." />
+		<Msg ID="2" Text="%s killed Selupan!" />
+		<Msg ID="3" Text="Hatchery Gates will open in %d minute(s)." />
+		<Msg ID="4" Text="The Hatchery Gate is opened." />
+		<Msg ID="5" Text="Hatchery Gate is closed." />
+	</MsgGroup>
+	<MsgGroup Index="11" Description="Moss Merchant" >
+		<Msg ID="0" Text="Moss Merchant appeared!" />
+		<Msg ID="1" Text="Moss Merchant left!" />
+		<Msg ID="2" Text="Moss Merchan was retired since you can not buy!" />
+		<Msg ID="3" Text="You do not have enough space in the inventory." />
+	</MsgGroup>
+	<MsgGroup Index="12" Description="Reward Master (Custom)" >
+		<Msg ID="0" Text="Reward Master appears in %d minute(s)" />
+		<Msg ID="1" Text="Reward Master appeared in %s!" />
+		<Msg ID="2" Text="Find it to get a reward!" />
+		<Msg ID="3" Text="Reward Master left, nobody got lucky." />
+		<Msg ID="4" Text="You are lucky, here your reward!" />
+		<Msg ID="5" Text="Reward Master was found by %s!" />
+	</MsgGroup>
+	<MsgGroup Index="13" Description="Golden Archer (Custom)" >
+		<Msg ID="0" Text="You do not have permission to use Golden Archer!" />
+		<Msg ID="1" Text="Come back when you have at least %d %s!" />
+	</MsgGroup>
+	<MsgGroup Index="14" Description="Duel" >
+		<Msg ID="0" Text="Target player is not online" />
+		<Msg ID="1" Text="You can not duel at this time" />
+		<Msg ID="2" Text="Target player refused his duel application automatically" />
+		<Msg ID="3" Text="Have you ever asked or been asked to duel" />
+		<Msg ID="4" Text="Target player ever asked or been asked to duel" />
+		<Msg ID="5" Text="You can not duel being in Guild War" />
+		<Msg ID="6" Text="Target player can not duel in Guild War" />
+		<Msg ID="7" Text="You can not duel in this map" />
+		<Msg ID="8" Text="You can not duel during Castle Siege" />
+		<Msg ID="9" Text="Target player name is invalid" />
+		<Msg ID="10" Text="You can not duel with Self Defense" />
+		<Msg ID="11" Text="Player can not target duel Self Defense" />
+		<Msg ID="12" Text="Target player refused his request duel" />
+		<Msg ID="13" Text="All arenas are full at moment" />
+		<Msg ID="14" Text="Duel between %s and %s started!" />
+		<Msg ID="15" Text="Player %s won %s duel!" />
+	</MsgGroup>
+	<MsgGroup Index="15" Description="Move" >
+		<Msg ID="0" Text="You must be at least level %d to move" />
+		<Msg ID="1" Text="You must be at least %d zen to move" />
+		<Msg ID="2" Text="You can not move at this time time" />
+		<Msg ID="3" Text="Assassins can not move" />
+		<Msg ID="4" Text="You do not have correct equipment to move" />
+		<Msg ID="5" Text="Only members of families of gens can move" />
+		<Msg ID="6" Text="You need to be max level %d to move" />
+		<Msg ID="7" Text="You must be at least %d resets to move" />
+		<Msg ID="8" Text="You need to have a maximum of %d resets to move" />
+	</MsgGroup>
+	<MsgGroup Index="16" Description="Crywolf Fortress" >
+		<Msg ID="0" Text="Balgass has join forces with Kundun's army and preparing to attack Crywolf Fortress" />
+		<Msg ID="1" Text="The army of Balgass is ready to attack Crywolf Fortress" />
+		<Msg ID="2" Text="The army of Balgass is marching towards Crywolf Fortress" />
+		<Msg ID="3" Text="The army of Balgass is approaching towards Crywolf Fortress" />
+		<Msg ID="4" Text="Without the protection of the Muses, the statue of holy wolf will be stolen" />
+		<Msg ID="5" Text="Balgass will be alive till the end of the battle" />
+		<Msg ID="6" Text="Defending has failed! The statue of holy wolf has been taken over by Balgass" />
+		<Msg ID="7" Text="Defending has been successful! The statue of holy wolf has been protected." />
+		<Msg ID="8" Text="Wolf Altar contraction starts in %d second(s)" />
+		<Msg ID="9" Text="Wolf Altar contraction begins in %d minute(s)" />
+		<Msg ID="10" Text="Balgass's army will begin attack in %d second(s)" />
+		<Msg ID="11" Text="Balgass's army will attack in %d minute(s)." />
+		<Msg ID="12" Text="Without protection of elven statue of holy wolf was unprotected" />
+		<Msg ID="13" Text="Balgass is coming! Protect the statue of holy wolf" />
+		<Msg ID="14" Text="Balgass's army starts attacking the statue of holy wolf" />
+		<Msg ID="15" Text="Balgass has been defeated with the help of heroes" />
+		<Msg ID="16" Text="MvP rank: (%d)" />
+		<Msg ID="17" Text="MvP rank: experience points (%d)" />
+		<Msg ID="18" Text="Balgass has been killed by %s!" />
+		<Msg ID="19" Text="Balgass is dead!" />
+		<Msg ID="20" Text="Dark Elf (%d) of Balgass's army was killed by %s" />
+		<Msg ID="21" Text="Current MvP point is : %d" />
+		<Msg ID="22" Text="Connected to the pedestal (%d) of the Holy wolf" />
+		<Msg ID="23" Text="(%s) connected the Muse to the pedestal (%d)" />
+		<Msg ID="24" Text="The pedestal (%d) of Holy wolf has been connected" />
+		<Msg ID="25" Text="The connecting time of pedestal (%d) has not started yet" />
+		<Msg ID="26" Text="The time for connecting to pedestal (%d) of the holy wolf is over" />
+		<Msg ID="27" Text="The position to connect to pedestal (%d) of the holy wolf is incorrect. Try again" />
+		<Msg ID="28" Text="%s is trying to contract altar %d!" />
+		<Msg ID="29" Text="You can start connecting in 5 seconds" />
+		<Msg ID="30" Text="Do not move until the connecting is completed." />
+		<Msg ID="31" Text="Connecting to the pedestal (%d) is cancelled." />
+		<Msg ID="32" Text="The barrier of the holy wolf statue has disappeared" />
+		<Msg ID="33" Text="Statistics of Muses in the holy wolf statue's barrier is %d, HP: %d" />
+		<Msg ID="34" Text="The barrier of the Holy Wolf statue has been created." />
+		<Msg ID="35" Text="Connection requires a Muse level %d or higher" />
+	</MsgGroup>
+	<MsgGroup Index="17" Description="Castle Siegue" >
+		<Msg ID="0" Text="Siege Warfare has been concluded." />
+		<Msg ID="1" Text="Siege Warfare registration period commences." />
+		<Msg ID="2" Text="All participating guilds for Siege Warfare: please register your Emblem of Lord." />
+		<Msg ID="3" Text="The Guild selection period for Siege Warfare commences." />
+		<Msg ID="4" Text="Guilds have now been selected for Siege Warfare." />
+		<Msg ID="5" Text="The Siege Warfare preparation period begins! All the guild members, please get ready." />
+		<Msg ID="6" Text="Siege Warfare will start in %d minute(s)" />
+		<Msg ID="7" Text="Siege Warfare is being waged!" />
+		<Msg ID="8" Text="%s guild has succeeded in defending the castle." />
+		<Msg ID="9" Text="%s guild became a new castle lord." />
+		<Msg ID="10" Text="The castle lord has not been assigned." />
+		<Msg ID="11" Text="Only the Guardian statue has been left." />
+		<!-- Life Stone -->
+		<Msg ID="12" Text="You can not invoke Life Stone outside castle." />
+		<Msg ID="13" Text="Only offensive alliance can invoke Life Stone." />
+		<Msg ID="14" Text="A Life Stone has been invoked." />
+		<Msg ID="15" Text="You can not invoke Life Stone inside Dragon Tower." />
+		<Msg ID="16" Text="A Life Stone was successfully invoked." />
+		<Msg ID="17" Text="A Life Stone failed to be invoked." />
+		<!-- Mercenary -->
+		<Msg ID="18" Text="You can not invoke soldier out of castle." />
+		<Msg ID="19" Text="Only defensive alliance can invoke soldier." />
+		<Msg ID="20" Text="Only guild leader and his assistant can invoke soldier." />
+		<Msg ID="21" Text="Maximum number of soldiers has been exceeded." />
+		<Msg ID="22" Text="Soldier has been successfully invoked." />
+		<Msg ID="23" Text="Soldier failed to be invoked." />
+		<!-- NPC Talk -->
+		<Msg ID="24" Text="Senior is not currently active" />
+		<Msg ID="25" Text="Senior does not work during Siege Warfare" />
+		<Msg ID="26" Text="You have to be in guild owner of castle to use Senior" />
+		<Msg ID="27" Text="You must be owner of guild to use Senior" />
+		<Msg ID="28" Text="Guardsman does not work during Siege Warfare" />
+	</MsgGroup>
+	<MsgGroup Index="18" Description="Guild" >
+		<Msg ID="0" Text="%s's position has been changed to Assistant Master." />
+		<Msg ID="1" Text="%s's position has been changed to Battle Master." />
+		<Msg ID="2" Text="%s's position has been changed to Guild Member." />
+		<Msg ID="3" Text="Type of guild %s was changed to %d" />
+		<Msg ID="4" Text="Guild has entered alliance %s" />
+		<Msg ID="5" Text="Guild is now enemy of guild %s" />
+		<Msg ID="6" Text="Guild %s entered alliance %s" />
+		<Msg ID="7" Text="Guild withdrew from alliance" />
+		<Msg ID="8" Text="Guild %s withdrew from alliance %s" />
+		<Msg ID="9" Text="Guild is not more alliance %s" />
+		<Msg ID="10" Text="Guild is not more enemy guild %s" />
+		<Msg ID="11" Text="Alliance was undone %s" />
+		<Msg ID="12" Text="You are already in a guild" />
+		<Msg ID="13" Text="You must be at least level %d to create a guild" />
+		<Msg ID="14" Text="You must be at least %d resets to create a guild" />
+		<Msg ID="15" Text="Game will start automatically in 10 seconds(s)" />
+	</MsgGroup>
+	<MsgGroup Index="19" Description="Shop" >
+		<Msg ID="0" Text="This store is not selling for now!" />
+		<Msg ID="1" Text="This store is only for Game Masters." />
+		<Msg ID="2" Text="You do not have permission to buy here!" />
+		<Msg ID="3" Text="Obtained WCoinC:(%d) WCoinP:(%d) GoblinPoints:(%d)" />
+	</MsgGroup>
+	<MsgGroup Index="20" Description="Custom Monster" >
+	</MsgGroup>
+	<MsgGroup Index="21" Description="General" >
+		<Msg ID="0" Text="You must be at least level 40 to use ring" />
+		<Msg ID="1" Text="You must be at least level 80 to use ring" />
+		<Msg ID="2" Text="You can not pick up this item at this time" />
+		<Msg ID="3" Text="You can not leave game with an open Trade" />
+		<Msg ID="4" Text="You can not leave game with an open Chest" />
+		<Msg ID="5" Text="You can not leave game with Chaos Machine open" />
+		<Msg ID="6" Text="You can not leave game with an open Trainer" />
+		<Msg ID="7" Text="You can not quit game being in Self Defense" />
+		<Msg ID="8" Text="You're at maximum level" />
+		<Msg ID="9" Text="You're at maximum level master" />
+		<Msg ID="10" Text="You can only add %d points" />
+		<Msg ID="11" Text="You can not talk during %d seconds" />
+		<Msg ID="12" Text="You can not send message to yourself" />
+		<Msg ID="13" Text="It was not possible to carry out teleportation" />
+		<Msg ID="14" Text="You will be teleported in %d second(s)" />
+		<Msg ID="15" Text="You can not move this map with mount" />
+		<Msg ID="16" Text="You can not move to this map without wing" />
+		<Msg ID="17" Text="Welcome back %s!" />
+		<Msg ID="18" Text="Account Type: Free" />
+		<Msg ID="19" Text="Account Type: Bronze (%s)" />
+		<Msg ID="20" Text="Account Type: Silver (%s)" />
+		<Msg ID="21" Text="Account Type: Golden (%s)" />
+	</MsgGroup>
+	<MsgGroup Index="22" Description="Server" >
+		<Msg ID="0" Text="GameServer closed" />
+		<Msg ID="1" Text="Server will close automatically in %d second(s)" />
+		<Msg ID="2" Text="This is a duplicate item, please contact with administrator." />
+		<Msg ID="3" Text="Your chat lockout ended" />
+		<Msg ID="4" Text="You will quit game in %d second(s)" />
+		<Msg ID="5" Text="Self defense against %s started" />
+		<Msg ID="6" Text="Self defense against %s finished" />
+		<Msg ID="7" Text="Server will close automatically in %d minute(s)" />
+	</MsgGroup>
+	<MsgGroup Index="23" Description="Custom Store" >
+		<Msg ID="0" Text=".::BLESS STORE::." />
+		<Msg ID="1" Text=".::SOUL STORE::." />
+		<Msg ID="2" Text=".::CHAOS STORE::." />
+		<Msg ID="3" Text=".::WCC STORE::." />
+		<Msg ID="4" Text=".::WCP STORE::." />
+		<Msg ID="5" Text=".::GP STORE::." />
+		<Msg ID="6" Text="You do not have permission to open Personal Store here" />
+		<Msg ID="7" Text="You can only activate the command in the safe zone" />
+		<Msg ID="8" Text="You need to open the Personal Store before" />
+		<Msg ID="9" Text="ATTENTION!! All items in this store are sold for Jewel of Bless" />
+		<Msg ID="10" Text="ATTENTION!! All items in this store are sold for Jewel of Soul" />
+		<Msg ID="11" Text="ATTENTION!! All items in this store are sold for Jewel of Chaos" />
+		<Msg ID="12" Text="ATTENTION!! All items in this store are sold for WCoinC" />
+		<Msg ID="13" Text="ATTENTION!! All items in this store are sold for WCoinP" />
+		<Msg ID="14" Text="ATTENTION!! All items in this store are sold for GoblinPoint" />
+	</MsgGroup>
+	<MsgGroup Index="24" Description="Custom Arena" >
+		<Msg ID="0" Text="%s will be closed after %d minute(s)" />
+		<Msg ID="1" Text="%s is closed. Try again next time." />
+		<Msg ID="2" Text="%s will start in %d minute(s)" />
+		<Msg ID="3" Text="%s has started!" />
+		<Msg ID="4" Text="%s has finished" />
+		<Msg ID="5" Text="%s %s is the winner" />
+		<Msg ID="6" Text="You got in the %d position with %d points" />
+		<Msg ID="7" Text="You can not enter the arena" />
+		<Msg ID="8" Text="No Arena is available at this time!" />
+		<Msg ID="9" Text="Exceeded maximum number of players" />
+		<Msg ID="10" Text="You must be at least Level %d" />
+		<Msg ID="11" Text="You must be a maximum of Level %d" />
+		<Msg ID="12" Text="You must be at least Master Level %d" />
+		<Msg ID="13" Text="You must be at most Master Level %d" />
+		<Msg ID="14" Text="You must be at least %d Resets" />
+		<Msg ID="15" Text="You need to have a maximum of %d Resets" />
+		<Msg ID="16" Text="You must be at least %d Master Resets" />
+		<Msg ID="17" Text="You need to have a maximum of %d Master Resets" />
+		<Msg ID="18" Text="His class is not allowed in the arena" />
+		<Msg ID="19" Text="Not enough warriors to start %s!" />
+		<Msg ID="20" Text="You require %s to enter %s!" />
+	</MsgGroup>
+	<MsgGroup Index="25" Description="Custom Attack" >
+		<Msg ID="0" Text="You can't use the command in this location" />
+		<Msg ID="1" Text="You don't have the required spell to use the command" />
+	</MsgGroup>
+	<MsgGroup Index="26" Description="Custom Event Drop" >
+		<Msg ID="0" Text="%s will be closed after %d minute(s)" />
+		<Msg ID="1" Text="%s has started!" />
+		<Msg ID="2" Text="%s has finished" />
+	</MsgGroup>
+	<MsgGroup Index="27" Description="Gift System" >
+		<Msg ID="0" Text="The gift entered was not found!" />
+		<Msg ID="1" Text="You do not have the minimum level required to receive this gift." />
+		<Msg ID="2" Text="You have exceeded the maximum level to receive this gift." />
+		<Msg ID="3" Text="You do not have the minimum resets required to receive this gift." />
+		<Msg ID="4" Text="You have exceeded the maximum resets to receive this gift." />
+		<Msg ID="5" Text="You can not receive this gift!" />
+		<Msg ID="6" Text="You can no longer receive this gift!" />
+		<Msg ID="7" Text="Gift received successfully!" />
+	</MsgGroup>
+	<MsgGroup Index="28" Description="Marriage System">
+		<Msg ID="0" Text="You can not marry yourself!" />
+		<Msg ID="1" Text="You can not marry at this moment!" />
+		<Msg ID="2" Text="You are already married to %s!" />
+		<Msg ID="3" Text="%s is already married!" />
+		<Msg ID="4" Text="Homosexual marriages are not allowed." />
+		<Msg ID="5" Text="Both must be in front of the altar of the church in Devias!" />
+		<Msg ID="6" Text="Both require %d %s+%d to get married!" />
+		<Msg ID="7" Text="[MARRIAGE] Your marriage proposal was sent!" />
+		<Msg ID="8" Text="[MARRIAGE] %s wants to marry you!" />
+		<Msg ID="9" Text="The time to accept the petition expired." />
+		<Msg ID="10" Text="Your couple is gone." />
+		<Msg ID="11" Text="Congratulations! You married with %s!" />
+		<Msg ID="12" Text="Congratulations %s and %s who got married!" />
+		<Msg ID="13" Text="You can not divorce at this time!" />
+		<Msg ID="14" Text="You require %d %s+%d to get divorce!" />
+		<Msg ID="15" Text="His divorce was successful, good luck next time." />
+		<Msg ID="16" Text="Your couple is not connected at this time!" />
+		<Msg ID="17" Text="You can not go with your couple at this time!" />	
+	</MsgGroup>
+	<MsgGroup Index="29" Description="Custom Buy Vip" >
+		<Msg ID="0" Text="The plan entered was not found!" />
+		<Msg ID="1" Text="You can not acquire this plan!" />
+		<Msg ID="2" Text="You must be at least %d Money to acquire this plan!" />
+		<Msg ID="3" Text="You must be at least %d WCoinC to acquire this plan!" />
+		<Msg ID="4" Text="You must be at least %d WCoinP to acquire this plan!" />
+		<Msg ID="5" Text="You must be at least %d GoblinPoint to acquire this plan!" />
+		<Msg ID="6" Text="Plan acquired successfully!" />
+	</MsgGroup>
+	<MsgGroup Index="30" Description="Bot System" >
+		<Msg ID="0" Text="Give me Jewels and in return I will give you an item at random." />
+		<Msg ID="1" Text="You do not have enough space in your inventory!" />
+		<Msg ID="2" Text="This time you did not have luck!" />
+		<Msg ID="3" Text="Thank you, I hope to see you soon!" />
+	</MsgGroup>	
+</MessageList>

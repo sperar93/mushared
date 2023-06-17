@@ -1,0 +1,589 @@
+12:42:37 [SocketManager] Server started at port [55901]
+12:42:43 [Blood Castle] Sync Start Time. [107] min remain
+12:42:43 [Chaos Castle] Sync Start Time. [17] min remain
+12:42:43 [Devil Square] Sync Start Time. [57] min remain
+12:42:43 [Illusion Temple] Sync Start Time. [217] min remain
+12:42:43 [Moss Merchant] Sync Start Time. [197] min remain
+12:42:43 [ RAKLION ] State(0) -> END
+12:42:43 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:42:43 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:42:43 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:42:43 [Reward Master] Sync Start Time. [317] min remain
+12:42:44 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:42:44 [ KANTURU ] State(0) -> STANDBY
+12:42:44 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:42:44 [ RAKLION ] State(10) -> IDLE
+12:44:19 [ObjectManager][9000] Account Login (test)
+12:44:23 [ObjectManager][9000] Character Login (TestBM)
+12:44:39 [ObjectManager][9001] Account Login (admin)
+12:44:41 [ObjectManager][9001] Character Login (ADMIN)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 118,Y: 186)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 82,Y: 208)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 123,Y: 108)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 213,Y: 122)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 223,Y: 154)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 113,Y: 145)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 85,Y: 227)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 116,Y: 151)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 119,Y: 91)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Aida, X: 58,Y: 44)
+12:50:05 [ObjectManager][9000] Character Logout (TestBM)
+12:50:05 [ObjectManager][9000] Account Logout (test)
+12:50:05 [ObjectManager][9001] Character Logout (ADMIN)
+12:50:05 [ObjectManager][9001] Account Logout (admin)
+12:50:30 [SocketManager] Server started at port [55901]
+12:50:31 [Blood Castle] Sync Start Time. [99] min remain
+12:50:31 [Chaos Castle] Sync Start Time. [9] min remain
+12:50:31 [Devil Square] Sync Start Time. [49] min remain
+12:50:31 [Illusion Temple] Sync Start Time. [209] min remain
+12:50:31 [Moss Merchant] Sync Start Time. [189] min remain
+12:50:31 [ RAKLION ] State(0) -> END
+12:50:31 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:50:31 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:50:31 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:50:31 [Reward Master] Sync Start Time. [309] min remain
+12:50:32 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:50:32 [ KANTURU ] State(0) -> STANDBY
+12:50:32 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:50:32 [ RAKLION ] State(10) -> IDLE
+12:54:34 [SocketManager] Server started at port [55901]
+12:54:35 [Blood Castle] Sync Start Time. [95] min remain
+12:54:35 [Chaos Castle] Sync Start Time. [5] min remain
+12:54:35 [Devil Square] Sync Start Time. [45] min remain
+12:54:35 [Illusion Temple] Sync Start Time. [205] min remain
+12:54:35 [Moss Merchant] Sync Start Time. [185] min remain
+12:54:35 [ RAKLION ] State(0) -> END
+12:54:35 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:54:35 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:54:35 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:54:35 [Reward Master] Sync Start Time. [305] min remain
+12:54:36 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:54:36 [ KANTURU ] State(0) -> STANDBY
+12:54:36 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:54:36 [ RAKLION ] State(10) -> IDLE
+12:54:39 [ CRYWOLF ] SYNC Occupation: 0
+12:55:23 [ObjectManager][9000] Account Login (teste)
+12:55:37 [ObjectManager][9000] Character Login (teste)
+12:55:42 [ObjectManager][9001] Account Login (test)
+12:55:49 [ObjectManager][9001] Character Login (TestBM)
+12:56:16 [ObjectManager][9002] Account Login (admin)
+12:56:18 [ObjectManager][9002] Character Login (ADMIN)
+12:57:48 [ObjectManager][9002] Character Logout (ADMIN)
+12:57:51 [ObjectManager][9002] Character Login (ADMIN)
+12:58:05 [ObjectManager][9002] Character Logout (ADMIN)
+12:58:05 [ObjectManager][9002] Account Logout (admin)
+12:58:06 [ObjectManager][9001] Character Logout (TestBM)
+12:58:06 [ObjectManager][9001] Account Logout (test)
+12:58:07 [ObjectManager][9000] Character Logout (teste)
+12:58:07 [ObjectManager][9000] Account Logout (teste)
+12:58:41 [ObjectManager][9002] Account Login (admin)
+12:58:43 [ObjectManager][9002] Character Login (ADMIN)
+12:58:50 [ObjectManager][9002] Character Logout (ADMIN)
+12:58:50 [ObjectManager][9002] Account Logout (admin)
+12:59:15 [ObjectManager][9001] Account Login (admin)
+12:59:17 [ObjectManager][9001] Character Login (ADMIN)
+12:59:57 [ObjectManager][9001] Character Logout (ADMIN)
+12:59:57 [ObjectManager][9001] Account Logout (admin)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 221,Y: 40)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 46,Y: 38)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 96,Y: 62)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 179,Y: 22)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 143,Y: 132)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 229,Y: 102)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 189,Y: 147)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 145,Y: 144)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 174,Y: 177)
+13:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Kanturu Ruins, X: 115,Y: 35)
+13:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+13:03:19 [ServerInfo] Common loaded successfully
+13:03:46 [SocketManager] Server started at port [55901]
+13:03:47 [Blood Castle] Sync Start Time. [86] min remain
+13:03:47 [Chaos Castle] Sync Start Time. [56] min remain
+13:03:47 [Devil Square] Sync Start Time. [36] min remain
+13:03:47 [Illusion Temple] Sync Start Time. [196] min remain
+13:03:47 [Moss Merchant] Sync Start Time. [176] min remain
+13:03:47 [ RAKLION ] State(0) -> END
+13:03:47 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:03:47 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:03:47 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:03:47 [Reward Master] Sync Start Time. [296] min remain
+13:03:48 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:03:48 [ KANTURU ] State(0) -> STANDBY
+13:03:48 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:03:48 [ RAKLION ] State(10) -> IDLE
+13:03:51 [ CRYWOLF ] SYNC Occupation: 0
+13:05:57 [SocketManager] Server started at port [55901]
+13:05:58 [Blood Castle] Sync Start Time. [84] min remain
+13:05:58 [Chaos Castle] Sync Start Time. [54] min remain
+13:05:58 [Devil Square] Sync Start Time. [34] min remain
+13:05:58 [Illusion Temple] Sync Start Time. [194] min remain
+13:05:58 [Moss Merchant] Sync Start Time. [174] min remain
+13:05:58 [ RAKLION ] State(0) -> END
+13:05:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:05:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:05:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:05:58 [Reward Master] Sync Start Time. [294] min remain
+13:05:59 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:05:59 [ KANTURU ] State(0) -> STANDBY
+13:05:59 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:05:59 [ RAKLION ] State(10) -> IDLE
+13:06:01 [ CRYWOLF ] SYNC Occupation: 0
+13:06:53 [SocketManager] Server started at port [55901]
+13:06:53 [Blood Castle] Sync Start Time. [83] min remain
+13:06:53 [Chaos Castle] Sync Start Time. [53] min remain
+13:06:53 [Devil Square] Sync Start Time. [33] min remain
+13:06:53 [Illusion Temple] Sync Start Time. [193] min remain
+13:06:53 [Moss Merchant] Sync Start Time. [173] min remain
+13:06:53 [ RAKLION ] State(0) -> END
+13:06:53 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:06:53 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:06:53 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:06:53 [Reward Master] Sync Start Time. [293] min remain
+13:06:54 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:06:54 [ KANTURU ] State(0) -> STANDBY
+13:06:54 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:06:54 [ RAKLION ] State(10) -> IDLE
+13:06:57 [ CRYWOLF ] SYNC Occupation: 0
+13:10:26 [SocketManager] Server started at port [55901]
+13:10:27 [Blood Castle] Sync Start Time. [79] min remain
+13:10:27 [Chaos Castle] Sync Start Time. [49] min remain
+13:10:27 [Devil Square] Sync Start Time. [29] min remain
+13:10:27 [Illusion Temple] Sync Start Time. [189] min remain
+13:10:27 [Moss Merchant] Sync Start Time. [169] min remain
+13:10:27 [ RAKLION ] State(0) -> END
+13:10:27 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:10:27 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:10:27 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:10:27 [Reward Master] Sync Start Time. [289] min remain
+13:10:28 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:10:28 [ KANTURU ] State(0) -> STANDBY
+13:10:28 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:10:28 [ RAKLION ] State(10) -> IDLE
+13:10:30 [ CRYWOLF ] SYNC Occupation: 0
+13:10:46 [ObjectManager][9000] Account Login (teste)
+13:10:50 [ObjectManager][9000] Character Login (teste)
+13:11:36 [ObjectManager][9001] Account Login (test)
+13:11:37 [ObjectManager][9001] Character Login (TestBM)
+13:12:17 [ObjectManager][9000] Character Logout (teste)
+13:12:17 [ObjectManager][9000] Account Logout (teste)
+13:12:20 [ObjectManager][9001] Character Logout (TestBM)
+13:12:20 [ObjectManager][9001] Account Logout (test)
+13:14:24 [ObjectManager][9000] Account Login (teste)
+13:14:27 [ObjectManager][9000] Character Login (teste)
+13:14:41 [ObjectManager][9001] Account Login (test)
+13:14:42 [ObjectManager][9001] Character Login (TestBM)
+13:15:13 [ObjectManager][9001] Character Logout (TestBM)
+13:15:13 [ObjectManager][9001] Account Logout (test)
+13:15:14 [ObjectManager][9000] Character Logout (teste)
+13:15:14 [ObjectManager][9000] Account Logout (teste)
+13:15:47 [ObjectManager][9001] Account Login (teste)
+13:15:49 [ObjectManager][9001] Character Login (teste)
+13:16:06 [ObjectManager][9001] Character Logout (teste)
+13:16:06 [ObjectManager][9001] Account Logout (teste)
+13:16:12 [ObjectManager][9000] Account Login (teste)
+13:16:15 [ObjectManager][9000] Character Login (teste)
+13:16:31 [ObjectManager][9001] Account Login (test)
+13:16:34 [ObjectManager][9001] Character Login (TestBM)
+13:16:46 [ObjectManager][9000] Character Logout (teste)
+13:16:46 [ObjectManager][9000] Account Logout (teste)
+13:16:48 [ObjectManager][9001] Character Logout (TestBM)
+13:16:48 [ObjectManager][9001] Account Logout (test)
+13:17:21 [ObjectManager][9000] Account Login (test)
+13:17:25 [ObjectManager][9000] Character Login (TestBM)
+13:17:45 [ObjectManager][9001] Account Login (teste)
+13:17:47 [ObjectManager][9001] Character Login (teste)
+13:18:13 [ObjectManager][9002] Account Login (admin)
+13:18:16 [ObjectManager][9002] Character Login (ADMIN)
+13:19:37 [ObjectManager][9001] Character Logout (teste)
+13:19:37 [ObjectManager][9001] Account Logout (teste)
+13:19:39 [ObjectManager][9000] Character Logout (TestBM)
+13:19:39 [ObjectManager][9000] Account Logout (test)
+13:19:41 [ObjectManager][9002] Character Logout (ADMIN)
+13:19:41 [ObjectManager][9002] Account Logout (admin)
+13:22:57 [ObjectManager][9001] Account Login (admin)
+13:23:00 [ObjectManager][9001] Character Login (ADMIN)
+13:23:39 [ObjectManager][9000] Account Login (test)
+13:23:44 [ObjectManager][9000] Character Login (TestBM)
+13:24:04 [ObjectManager][9000] Character Logout (TestBM)
+13:24:04 [ObjectManager][9000] Account Logout (test)
+13:24:05 [ObjectManager][9001] Character Logout (ADMIN)
+13:24:05 [ObjectManager][9001] Account Logout (admin)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 181,Y: 121)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 178,Y: 124)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 180,Y: 123)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 179,Y: 119)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 179,Y: 123)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 182,Y: 121)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 180,Y: 128)
+13:25:00 [Invasion Manager] SetMonster (Monster: 561) (Map: Swamp of Calmness, X: 179,Y: 128)
+13:26:41 [ObjectManager][9002] Account Login (admin)
+13:26:43 [ObjectManager][9002] Character Login (ADMIN)
+13:29:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:30:26 [ KANTURU ][ BattleStanby ] State(2) -> END
+13:30:26 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+13:30:26 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+13:30:26 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+13:30:26 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+13:30:28 [Marlon] Teleport Map:Atlans X:17 Y:25
+13:30:32 [ObjectManager][9002] Character Logout (ADMIN)
+13:30:32 [ObjectManager][9002] Account Logout (admin)
+13:31:00 [ObjectManager][9000] Account Login (admin)
+13:31:02 [ObjectManager][9000] Character Login (ADMIN)
+13:31:20 [ObjectManager][9000] Character Logout (ADMIN)
+13:31:20 [ObjectManager][9000] Account Logout (admin)
+13:32:49 [SocketManager] Server started at port [55901]
+13:32:49 [Blood Castle] Sync Start Time. [57] min remain
+13:32:49 [Chaos Castle] Sync Start Time. [27] min remain
+13:32:49 [Devil Square] Sync Start Time. [7] min remain
+13:32:49 [Illusion Temple] Sync Start Time. [167] min remain
+13:32:49 [Moss Merchant] Sync Start Time. [147] min remain
+13:32:49 [ RAKLION ] State(0) -> END
+13:32:49 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:32:49 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:32:49 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:32:49 [Reward Master] Sync Start Time. [267] min remain
+13:32:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:32:50 [ KANTURU ] State(0) -> STANDBY
+13:32:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:32:50 [ RAKLION ] State(10) -> IDLE
+13:32:53 [ CRYWOLF ] SYNC Occupation: 0
+13:33:20 [ObjectManager][9000] Account Login (admin)
+13:33:23 [ObjectManager][9000] Character Login (ADMIN)
+13:37:42 [ObjectManager][9000] Character Logout (ADMIN)
+13:37:42 [ObjectManager][9000] Account Logout (admin)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 58,Y: 40)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 122,Y: 14)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 116,Y: 77)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 231,Y: 14)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 74,Y: 27)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 41,Y: 183)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 19,Y: 232)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 25,Y: 45)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 172,Y: 188)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Atlans, X: 166,Y: 12)
+13:40:01 [Devil Square] Sync Start Time. [239] min remain
+13:40:31 [ObjectManager][9000] Account Login (admin)
+13:40:32 [ObjectManager][9000] Character Login (ADMIN)
+13:41:15 [ObjectManager][9000] Character Logout (ADMIN)
+13:41:15 [ObjectManager][9000] Account Logout (admin)
+13:46:41 [ObjectManager][9000] Account Login (admin)
+13:46:43 [ObjectManager][9000] Character Login (ADMIN)
+13:46:56 [ObjectManager][9000] Character Logout (ADMIN)
+13:46:56 [ObjectManager][9000] Account Logout (admin)
+13:47:31 [ObjectManager][9000] Account Login (admin)
+13:47:32 [ObjectManager][9000] Character Login (ADMIN)
+13:47:56 [ObjectManager][9000] Character Logout (ADMIN)
+13:47:56 [ObjectManager][9000] Account Logout (admin)
+13:51:42 [ObjectManager][9000] Account Login (admin)
+13:51:44 [ObjectManager][9000] Character Login (ADMIN)
+13:51:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:52:48 [ KANTURU ][ BattleStanby ] State(2) -> END
+13:52:48 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+13:52:48 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+13:52:48 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+13:52:48 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+13:52:50 [Marlon] Teleport Map:Atlans X:17 Y:25
+13:53:54 [ObjectManager][9000] Character Logout (ADMIN)
+13:53:54 [ObjectManager][9000] Account Logout (admin)
+13:54:37 [ObjectManager][9000] Account Login (teste)
+13:54:39 [ObjectManager][9000] Character Login (teste)
+13:54:48 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+13:54:48 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+13:54:48 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+13:54:48 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+13:54:50 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+13:54:50 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+13:54:50 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+13:54:50 [ KANTURU ] State(2) -> END
+13:54:50 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+13:54:50 [ KANTURU ] State(5) -> NONE
+13:54:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:54:50 [ KANTURU ] State(0) -> STANDBY
+13:54:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:54:58 [ObjectManager][9000] Character Logout (teste)
+13:54:58 [ObjectManager][9000] Account Logout (teste)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 116,Y: 221)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 29,Y: 225)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 51,Y: 159)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 139,Y: 100)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 109,Y: 215)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 63,Y: 160)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 68,Y: 153)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 100,Y: 207)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 126,Y: 126)
+14:00:00 [Invasion Manager] SetMonster (Monster: 365) (Map: Raklion, X: 166,Y: 181)
+14:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+21:18:57 [SocketManager] Server started at port [55901]
+21:18:57 [Blood Castle] Sync Start Time. [71] min remain
+21:18:57 [Chaos Castle] Sync Start Time. [41] min remain
+21:18:58 [Devil Square] Sync Start Time. [21] min remain
+21:18:58 [Illusion Temple] Sync Start Time. [181] min remain
+21:18:58 [Moss Merchant] Sync Start Time. [161] min remain
+21:18:58 [ RAKLION ] State(0) -> END
+21:18:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:18:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:18:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+21:18:58 [Reward Master] Sync Start Time. [641] min remain
+21:18:59 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+21:18:59 [ KANTURU ] State(0) -> STANDBY
+21:18:59 [ KANTURU ][ BattleStanby ] State(0) -> START
+21:18:59 [ RAKLION ] State(10) -> IDLE
+21:20:08 [ObjectManager][9000] Account Login (admin)
+21:20:10 [ObjectManager][9000] Character Login (ADMIN)
+21:21:19 [ObjectManager][9001] Account Login (test)
+21:21:20 [ObjectManager][9001] Character Login (TestBM)
+21:22:59 [ObjectManager][9000] Character Logout (ADMIN)
+21:22:59 [ObjectManager][9000] Account Logout (admin)
+21:23:11 [ObjectManager][9002] Account Login (admin)
+21:23:12 [ObjectManager][9002] Character Login (ADMIN)
+21:23:33 [ObjectManager][9002] Character Logout (ADMIN)
+21:23:33 [ObjectManager][9002] Account Logout (admin)
+21:26:14 [ObjectManager][9001] Character Logout (TestBM)
+21:26:14 [ObjectManager][9001] Account Logout (test)
+21:37:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:38:57 [ KANTURU ][ BattleStanby ] State(2) -> END
+21:38:57 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+21:38:57 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+21:38:57 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+21:38:57 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+21:38:59 [Marlon] Teleport Map:Atlans X:17 Y:25
+21:40:01 [Devil Square] Sync Start Time. [239] min remain
+21:40:56 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+21:40:56 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+21:40:56 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+21:40:56 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+21:40:58 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+21:40:58 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+21:40:58 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+21:40:58 [ KANTURU ] State(2) -> END
+21:40:58 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+21:40:58 [ KANTURU ] State(5) -> NONE
+21:40:58 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+21:40:58 [ KANTURU ] State(0) -> STANDBY
+21:40:58 [ KANTURU ][ BattleStanby ] State(0) -> START
+21:50:01 [SocketManager] Server started at port [55901]
+21:50:01 [Blood Castle] Sync Start Time. [39] min remain
+21:50:01 [Chaos Castle] Sync Start Time. [9] min remain
+21:50:01 [Devil Square] Sync Start Time. [229] min remain
+21:50:01 [Illusion Temple] Sync Start Time. [149] min remain
+21:50:01 [Moss Merchant] Sync Start Time. [129] min remain
+21:50:01 [ RAKLION ] State(0) -> END
+21:50:01 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+21:50:01 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+21:50:01 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+21:50:01 [Reward Master] Sync Start Time. [609] min remain
+21:50:03 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+21:50:03 [ KANTURU ] State(0) -> STANDBY
+21:50:03 [ KANTURU ][ BattleStanby ] State(0) -> START
+21:50:03 [ RAKLION ] State(10) -> IDLE
+21:50:43 [ObjectManager][9000] Account Login (admin)
+21:50:45 [ObjectManager][9000] Character Login (ADMIN)
+21:50:49 [ObjectManager][9001] Account Login (test)
+21:50:53 [ObjectManager][9001] Character Login (TestBM)
+21:51:27 [ObjectManager][9000] Character Logout (ADMIN)
+21:51:27 [ObjectManager][9000] Account Logout (admin)
+21:51:41 [ObjectManager][9002] Account Login (admin)
+21:51:43 [ObjectManager][9002] Character Login (ADMIN)
+21:52:05 [ObjectManager][9002] Character Logout (ADMIN)
+21:52:05 [ObjectManager][9002] Account Logout (admin)
+21:52:19 [ObjectManager][9000] Account Login (admin)
+21:52:20 [ObjectManager][9000] Character Login (ADMIN)
+21:55:05 [ObjectManager][9000] Character Logout (ADMIN)
+21:55:05 [ObjectManager][9000] Account Logout (admin)
+21:55:06 [ObjectManager][9001] Character Logout (TestBM)
+21:55:06 [ObjectManager][9001] Account Logout (test)
+22:03:46 [SocketManager] Server started at port [55901]
+22:03:46 [Blood Castle] Sync Start Time. [26] min remain
+22:03:46 [Chaos Castle] Sync Start Time. [56] min remain
+22:03:46 [Devil Square] Sync Start Time. [216] min remain
+22:03:46 [Illusion Temple] Sync Start Time. [136] min remain
+22:03:46 [Moss Merchant] Sync Start Time. [116] min remain
+22:03:46 [ RAKLION ] State(0) -> END
+22:03:46 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:03:46 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:03:46 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+22:03:46 [Reward Master] Sync Start Time. [596] min remain
+22:03:48 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:03:48 [ KANTURU ] State(0) -> STANDBY
+22:03:48 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:03:48 [ RAKLION ] State(10) -> IDLE
+22:04:03 [ObjectManager][9000] Account Login (admin)
+22:04:09 [ObjectManager][9000] Character Login (ADMIN)
+22:04:17 [ObjectManager][9001] Account Login (test)
+22:04:20 [ObjectManager][9001] Character Login (TestBM)
+22:04:54 [ObjectManager][9000] Character Logout (ADMIN)
+22:04:54 [ObjectManager][9000] Account Logout (admin)
+22:04:55 [ObjectManager][9001] Character Logout (TestBM)
+22:04:55 [ObjectManager][9001] Account Logout (test)
+22:15:08 [SocketManager] Server started at port [55901]
+22:15:09 [Blood Castle] Sync Start Time. [14] min remain
+22:15:09 [Chaos Castle] Sync Start Time. [44] min remain
+22:15:09 [Devil Square] Sync Start Time. [204] min remain
+22:15:09 [Illusion Temple] Sync Start Time. [124] min remain
+22:15:09 [Moss Merchant] Sync Start Time. [104] min remain
+22:15:09 [ RAKLION ] State(0) -> END
+22:15:09 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:15:09 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:15:09 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+22:15:09 [Reward Master] Sync Start Time. [584] min remain
+22:15:10 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:15:10 [ KANTURU ] State(0) -> STANDBY
+22:15:10 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:15:10 [ RAKLION ] State(10) -> IDLE
+22:15:25 [ObjectManager][9000] Account Login (test)
+22:15:27 [ObjectManager][9000] Character Login (TestBM)
+22:15:37 [ObjectManager][9001] Account Login (admin)
+22:15:39 [ObjectManager][9001] Character Login (ADMIN)
+22:16:17 [ObjectManager][9001] Character Logout (ADMIN)
+22:16:17 [ObjectManager][9001] Account Logout (admin)
+22:16:20 [ObjectManager][9000] Character Logout (TestBM)
+22:16:20 [ObjectManager][9000] Account Logout (test)
+22:30:01 [Blood Castle] Sync Start Time. [119] min remain
+22:34:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:35:08 [ KANTURU ][ BattleStanby ] State(2) -> END
+22:35:08 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+22:35:08 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+22:35:08 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+22:35:08 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+22:35:10 [Marlon] Teleport Map:Atlans X:17 Y:25
+22:36:33 [ObjectManager][9001] Account Login (test)
+22:36:35 [ObjectManager][9001] Character Login (TestBM)
+22:36:50 [ObjectManager][9000] Account Login (admin)
+22:36:51 [ObjectManager][9000] Character Login (ADMIN)
+22:37:07 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+22:37:07 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+22:37:07 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+22:37:07 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+22:37:09 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+22:37:09 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+22:37:09 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+22:37:09 [ KANTURU ] State(2) -> END
+22:37:09 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+22:37:09 [ KANTURU ] State(5) -> NONE
+22:37:09 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:37:09 [ KANTURU ] State(0) -> STANDBY
+22:37:09 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:37:10 [ObjectManager][9001] Character Logout (TestBM)
+22:37:11 [ObjectManager][9001] Character Login (TestBM)
+22:37:21 [ObjectManager][9000] Character Logout (ADMIN)
+22:37:22 [ObjectManager][9000] Character Login (ADMIN)
+22:38:26 [ObjectManager][9001] Character Logout (TestBM)
+22:38:28 [ObjectManager][9000] Character Logout (ADMIN)
+22:38:28 [ObjectManager][9001] Character Login (TestBM)
+22:38:33 [ObjectManager][9000] Character Login (ADMIN)
+22:39:16 [ObjectManager][9000] Character Logout (ADMIN)
+22:39:16 [ObjectManager][9000] Account Logout (admin)
+22:39:17 [ObjectManager][9001] Character Logout (TestBM)
+22:39:17 [ObjectManager][9001] Account Logout (test)
+22:39:55 [ObjectManager][9000] Account Login (test)
+22:39:56 [ObjectManager][9000] Character Login (TestBM)
+22:40:02 [ObjectManager][9001] Account Login (admin)
+22:40:04 [ObjectManager][9001] Character Login (ADMIN)
+22:40:26 [ObjectManager][9000] Character Logout (TestBM)
+22:40:27 [ObjectManager][9001] Character Logout (ADMIN)
+22:40:28 [ObjectManager][9001] Character Login (ADMIN)
+22:40:29 [ObjectManager][9000] Character Login (TestBM)
+22:40:35 [ObjectManager][9000] Character Logout (TestBM)
+22:40:36 [ObjectManager][9000] Character Login (TestBM)
+22:41:59 [ObjectManager][9001] Character Logout (ADMIN)
+22:41:59 [ObjectManager][9001] Account Logout (admin)
+22:42:02 [ObjectManager][9000] Character Logout (TestBM)
+22:42:02 [ObjectManager][9000] Account Logout (test)
+22:43:12 [SocketManager] Server started at port [55901]
+22:43:12 [Blood Castle] Sync Start Time. [106] min remain
+22:43:12 [Chaos Castle] Sync Start Time. [16] min remain
+22:43:12 [Devil Square] Sync Start Time. [176] min remain
+22:43:12 [Illusion Temple] Sync Start Time. [96] min remain
+22:43:12 [Moss Merchant] Sync Start Time. [76] min remain
+22:43:12 [ RAKLION ] State(0) -> END
+22:43:12 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:43:12 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:43:12 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+22:43:12 [Reward Master] Sync Start Time. [556] min remain
+22:43:13 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:43:13 [ KANTURU ] State(0) -> STANDBY
+22:43:13 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:43:13 [ RAKLION ] State(10) -> IDLE
+22:43:31 [ObjectManager][9000] Account Login (test)
+22:43:35 [ObjectManager][9000] Character Login (TestBM)
+22:43:43 [ObjectManager][9001] Account Login (admin)
+22:43:44 [ObjectManager][9001] Character Login (ADMIN)
+22:45:00 [ObjectManager][9001] Character Logout (ADMIN)
+22:45:03 [ObjectManager][9001] Character Login (ADMIN)
+22:46:46 [ObjectManager][9001] Character Logout (ADMIN)
+22:46:48 [ObjectManager][9000] Character Logout (TestBM)
+22:46:49 [ObjectManager][9000] Character Login (TestBM)
+22:46:51 [ObjectManager][9001] Character Login (ADMIN)
+22:51:29 [ObjectManager][9001] Character Logout (ADMIN)
+22:51:29 [ObjectManager][9001] Account Logout (admin)
+22:51:30 [ObjectManager][9000] Character Logout (TestBM)
+22:51:30 [ObjectManager][9000] Account Logout (test)
+23:03:53 [SocketManager] Server started at port [55901]
+23:03:53 [Blood Castle] Sync Start Time. [86] min remain
+23:03:53 [Chaos Castle] Sync Start Time. [56] min remain
+23:03:53 [Devil Square] Sync Start Time. [156] min remain
+23:03:53 [Illusion Temple] Sync Start Time. [76] min remain
+23:03:53 [Moss Merchant] Sync Start Time. [56] min remain
+23:03:53 [ RAKLION ] State(0) -> END
+23:03:53 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+23:03:53 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+23:03:53 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+23:03:53 [Reward Master] Sync Start Time. [536] min remain
+23:03:54 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:03:54 [ KANTURU ] State(0) -> STANDBY
+23:03:54 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:03:54 [ RAKLION ] State(10) -> IDLE
+23:04:32 [ObjectManager][9000] Account Login (test)
+23:04:34 [ObjectManager][9000] Character Login (TestBM)
+23:04:45 [ObjectManager][9000] Character Logout (TestBM)
+23:04:45 [ObjectManager][9000] Account Logout (test)
+23:06:05 [ObjectManager][9000] Account Login (test)
+23:06:07 [ObjectManager][9000] Character Login (TestBM)
+23:06:19 [ObjectManager][9000] Character Logout (TestBM)
+23:06:19 [ObjectManager][9000] Account Logout (test)
+23:08:32 [ObjectManager][9000] Account Login (admin)
+23:08:34 [ObjectManager][9000] Character Login (ADMIN)
+23:09:26 [ObjectManager][9000] Character Logout (ADMIN)
+23:09:28 [ObjectManager][9000] Character Login (ADMIN)
+23:10:04 [ObjectManager][9000] Character Logout (ADMIN)
+23:10:04 [ObjectManager][9000] Account Logout (admin)
+23:10:11 [ObjectManager][9001] Account Login (admin)
+23:10:13 [ObjectManager][9001] Character Login (ADMIN)
+23:11:27 [ObjectManager][9001] Character Logout (ADMIN)
+23:11:27 [ObjectManager][9001] Account Logout (admin)
+23:11:29 [ObjectManager][9000] Account Login (admin)
+23:11:30 [ObjectManager][9000] Character Login (ADMIN)
+23:12:38 [ObjectManager][9000] Character Logout (ADMIN)
+23:12:38 [ObjectManager][9000] Account Logout (admin)
+23:17:22 [ObjectManager][9001] Account Login (admin)
+23:17:24 [ObjectManager][9001] Character Login (ADMIN)
+23:22:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:23:53 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:23:53 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:23:53 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:23:53 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:23:53 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:23:54 [Marlon] Teleport Map:Atlans X:17 Y:25
+23:25:52 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:25:52 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:25:52 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:25:52 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:25:54 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:25:54 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:25:54 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:25:54 [ KANTURU ] State(2) -> END
+23:25:54 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:25:54 [ KANTURU ] State(5) -> NONE
+23:25:54 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:25:54 [ KANTURU ] State(0) -> STANDBY
+23:25:54 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:31:13 [ObjectManager][9001] Character Logout (ADMIN)
+23:31:13 [ObjectManager][9001] Account Logout (admin)
+23:36:04 [ObjectManager][9000] Account Login (test)
+23:36:06 [ObjectManager][9000] Character Login (TestBM)
+23:36:12 [ObjectManager][9000] Character Logout (TestBM)
+23:36:12 [ObjectManager][9000] Account Logout (test)
+23:38:59 [ObjectManager][9001] Account Login (test)
+23:39:01 [ObjectManager][9001] Character Login (TestBM)
+23:39:36 [ObjectManager][9001] Character Logout (TestBM)
+23:39:36 [ObjectManager][9001] Account Logout (test)

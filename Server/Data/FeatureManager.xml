@@ -1,0 +1,91 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ###FeatureManager:Map###
+//	Number: Map number where the rules apply
+//	ItemDrop: Switch of ItemDrop.xml system on the map, 0/1
+//	PKSystem: Switch of PKSystem.xml system on the map, 0/1
+//	Trade: Switch to trade on a map, 0/1
+//	PShop: Personal shop switch on a map, 0/1
+//	OffStore:
+//	OffAttack:
+//	Name: Name of map, used for in-file description purpose, logs and tools
+-->
+
+<FeatureManager>
+	<Map Number="0"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Lorencia" />
+	<Map Number="1"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Dungeon" />
+	<Map Number="2"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Devias" />
+	<Map Number="3"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Noria" />
+	<Map Number="4"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Lost Tower" />
+	<Map Number="6"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Arena" />
+	<Map Number="7"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Atlans" />
+	<Map Number="8"  ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Tarkan" />
+	<Map Number="9"  ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Devil Square (1~4)" />
+	<Map Number="10" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Icarus" />
+	<Map Number="11" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 1" />
+	<Map Number="12" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 2" />
+	<Map Number="13" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 3" />
+	<Map Number="14" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 4" />
+	<Map Number="15" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 5" />
+	<Map Number="16" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 6" />
+	<Map Number="17" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 7" />
+	<Map Number="18" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 1" />
+	<Map Number="19" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 2" />
+	<Map Number="20" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 3" />
+	<Map Number="21" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 4" />
+	<Map Number="22" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 5" />
+	<Map Number="23" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 6" />
+	<Map Number="24" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 1" />
+	<Map Number="25" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 2" />
+	<Map Number="26" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 3" />
+	<Map Number="27" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 4" />
+	<Map Number="28" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 5" />
+	<Map Number="29" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kalima 6" />
+	<Map Number="30" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Valley of Loren" />
+	<Map Number="31" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Land of Trials" />
+	<Map Number="32" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Devil Square (5~7)" />
+	<Map Number="33" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Aida" />
+	<Map Number="34" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Crywolf Fortress" />
+	<Map Number="36" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Lost Kalima" />
+	<Map Number="37" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kanturu Ruins" />
+	<Map Number="38" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Kanturu Remain" />
+	<Map Number="39" ItemDrop="1" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Kanturu Refinery" />
+	<Map Number="40" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Silent Map" />
+	<Map Number="41" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Barracks of Balgass" />
+	<Map Number="42" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Balgass Refuge" />
+	<Map Number="45" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 1" />
+	<Map Number="46" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 2" />
+	<Map Number="47" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 3" />
+	<Map Number="48" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 4" />
+	<Map Number="49" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 5" />
+	<Map Number="50" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Illusion Temple 6" />
+	<Map Number="51" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Elbeland" />
+	<Map Number="52" ItemDrop="0" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Blood Castle 8" />
+	<Map Number="53" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Chaos Castle 7" />
+	<Map Number="56" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Swamp of Calmness" />
+	<Map Number="57" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Raklion" />
+	<Map Number="58" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Raklion Boss" />
+	<Map Number="62" ItemDrop="0" PKSystem="0" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Santa Village" />
+	<Map Number="63" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Vulcanus" />
+	<Map Number="64" ItemDrop="0" PKSystem="0" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Duel Arena" />
+	<Map Number="65" ItemDrop="1" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Double Goer 1" />
+	<Map Number="66" ItemDrop="1" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Double Goer 2" />
+	<Map Number="67" ItemDrop="1" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Double Goer 3" />
+	<Map Number="68" ItemDrop="1" PKSystem="1" Trade="1" PShop="0" OffStore="1" OffAttack="1" Name="Double Goer 4" />
+	<Map Number="69" ItemDrop="1" PKSystem="1" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Imperial Guardian 1" />
+	<Map Number="70" ItemDrop="1" PKSystem="1" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Imperial Guardian 2" />
+	<Map Number="71" ItemDrop="1" PKSystem="1" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Imperial Guardian 3" />
+	<Map Number="72" ItemDrop="1" PKSystem="1" Trade="0" PShop="0" OffStore="1" OffAttack="1" Name="Imperial Guardian 4" />
+	<Map Number="79" ItemDrop="0" PKSystem="0" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Loren Market" />
+	<Map Number="80" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Karutan 1" />
+	<Map Number="81" ItemDrop="1" PKSystem="1" Trade="1" PShop="1" OffStore="1" OffAttack="1" Name="Karutan 2" />
+</FeatureManager>

@@ -1,0 +1,201 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<LevelOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="0" Lv0="60" Lv1="20" Lv2="10" Lv3="7" Lv4="3" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- Common/Socket Item Drop -->
+	<Option Index="1" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- Exc Item Drop -->
+	<Option Index="2" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- Set Item Drop -->
+	<Option Index="5" Lv0="60" Lv1="20" Lv2="10" Lv3="7" Lv4="3" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- Chaos Item Mix -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" Lv0="0" Lv1="1" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +1 -->
+	<Option Index="11" Lv0="0" Lv1="0" Lv2="1" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +2 -->
+	<Option Index="12" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +3 -->
+	<Option Index="13" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +4 -->
+	<Option Index="14" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +5 -->
+	<Option Index="15" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="1" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +6 -->
+	<Option Index="16" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="1" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +7 -->
+	<Option Index="17" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="1" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +8 -->
+	<Option Index="18" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="1" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +9 -->
+	<Option Index="19" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="1" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +10 -->
+	<Option Index="20" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="1" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +11 -->
+	<Option Index="21" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="1" Lv13="0" Lv14="0" Lv15="0" /> <!-- +12 -->
+	<Option Index="22" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="1" Lv14="0" Lv15="0" /> <!-- +13 -->
+	<Option Index="23" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="1" Lv15="0" /> <!-- +14 -->
+	<Option Index="24" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="1" /> <!-- +15 -->
+	<Option Index="25" Lv0="1" Lv1="1" Lv2="1" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +0 ~ +2 -->
+	<Option Index="26" Lv0="1" Lv1="1" Lv2="1" Lv3="1" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +0 ~ +3 -->
+	<Option Index="27" Lv0="0" Lv1="1" Lv2="1" Lv3="1" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +1 ~ +3 -->
+	<Option Index="28" Lv0="0" Lv1="1" Lv2="1" Lv3="1" Lv4="1" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +1 ~ +4 -->
+	<Option Index="29" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="1" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +2 ~ +4 -->
+	<Option Index="30" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="1" Lv5="1" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +2 ~ +5 -->
+	<Option Index="31" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="1" Lv5="1" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +3 ~ +5 -->
+	<Option Index="32" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="1" Lv5="1" Lv6="1" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +3 ~ +6 -->
+	<Option Index="33" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="1" Lv6="1" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +4 ~ +6 -->
+	<Option Index="34" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="1" Lv6="1" Lv7="1" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +4 ~ +7 -->
+	<Option Index="35" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" Lv6="1" Lv7="1" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +5 ~ +7 -->
+	<Option Index="36" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" Lv6="1" Lv7="1" Lv8="1" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +5 ~ +8 -->
+	<Option Index="37" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="1" Lv7="1" Lv8="1" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +6 ~ +8 -->
+	<Option Index="38" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="1" Lv7="1" Lv8="1" Lv9="1" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +6 ~ +9 -->
+	<Option Index="39" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="1" Lv8="1" Lv9="1" Lv10="0" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +7 ~ +9 -->
+	<Option Index="40" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="1" Lv8="1" Lv9="1" Lv10="1" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +7 ~ +10 -->
+	<Option Index="41" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="1" Lv9="1" Lv10="1" Lv11="0" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +8 ~ +10 -->
+	<Option Index="42" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="1" Lv9="1" Lv10="1" Lv11="1" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +8 ~ +11 -->
+	<Option Index="43" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="1" Lv10="1" Lv11="1" Lv12="0" Lv13="0" Lv14="0" Lv15="0" /> <!-- +9 ~ +11 -->
+	<Option Index="44" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="1" Lv10="1" Lv11="1" Lv12="1" Lv13="0" Lv14="0" Lv15="0" /> <!-- +9 ~ +12 -->
+	<Option Index="45" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="1" Lv11="1" Lv12="1" Lv13="0" Lv14="0" Lv15="0" /> <!-- +10 ~ +12 -->
+	<Option Index="46" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="1" Lv11="1" Lv12="1" Lv13="1" Lv14="0" Lv15="0" /> <!-- +10 ~ +13 -->
+	<Option Index="47" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="1" Lv12="1" Lv13="1" Lv14="0" Lv15="0" /> <!-- +11 ~ +13 -->
+	<Option Index="48" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="1" Lv12="1" Lv13="1" Lv14="1" Lv15="0" /> <!-- +11 ~ +14 -->
+	<Option Index="49" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="1" Lv13="1" Lv14="1" Lv15="0" /> <!-- +12 ~ +14 -->
+	<Option Index="50" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="1" Lv13="1" Lv14="1" Lv15="0" /> <!-- +12 ~ +15 -->
+	<Option Index="51" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" Lv7="0" Lv8="0" Lv9="0" Lv10="0" Lv11="0" Lv12="0" Lv13="1" Lv14="1" Lv15="1" /> <!-- +13 ~ +15 -->
+	<Option Index="52" Lv0="0" Lv1="300" Lv2="200" Lv3="100" Lv4="80" Lv5="70" Lv6="60" Lv7="50" Lv8="25" Lv9="20" Lv10="15" Lv11="10" Lv12="4" Lv13="3" Lv14="2" Lv15="1" /> <!-- Lucky Mix -->
+</LevelOption>
+
+<SkillOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="0"  No="70" Yes="30" /> <!-- Common/Socket Item Drop -->
+	<Option Index="1"  No="80" Yes="20" /> <!-- Exc Item Drop -->
+	<Option Index="2"  No="80" Yes="20" /> <!-- Set Item Drop -->
+	<Option Index="5"  No="50" Yes="50" /> <!-- Chaos Item Mix -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" No="0" Yes="100" /> <!-- Yes -->
+	<Option Index="11" No="50" Yes="50" /> <!-- No ~ Yes -->
+</SkillOption>
+
+<LuckOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="0" No="70" Yes="30" /> <!-- Common/Socket Item Drop -->
+	<Option Index="1" No="80" Yes="20" /> <!-- Exc Item Drop -->
+	<Option Index="2" No="80" Yes="20" /> <!-- Set Item Drop -->
+	<Option Index="5" No="50" Yes="50" /> <!-- Chaos Item Mix -->
+	<Option Index="7" No="60" Yes="40" /> <!-- 1ST Wings Mix -->
+	<Option Index="8" No="70" Yes="30" /> <!-- 2ND Wings Mix -->
+	<Option Index="9" No="80" Yes="20" /> <!-- 3RD Wings Mix -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" No="0" Yes="100" /> <!-- Yes -->
+	<Option Index="11" No="50" Yes="50" /> <!-- No ~ Yes -->
+</LuckOption>
+
+<JoLOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="0" Lv0="70" Lv4="20" Lv8="10" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- Common/Socket Item Drop -->
+	<Option Index="1" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- Exc Item Drop -->
+	<Option Index="2" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- Set Item Drop -->
+	<Option Index="5" Lv0="70" Lv4="20" Lv8="10" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- Chaos Item Mix -->
+	<Option Index="7" Lv0="70" Lv4="20" Lv8="10" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- 1ST Wings Mix -->
+	<Option Index="8" Lv0="80" Lv4="10" Lv8="10" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- 2ND Wings Mix -->
+	<Option Index="9" Lv0="80" Lv4="10" Lv8="10" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- 3RD Wings Mix -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" Lv0="0" Lv4="1" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +4 -->
+	<Option Index="11" Lv0="0" Lv4="0" Lv8="1" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +8 -->
+	<Option Index="12" Lv0="0" Lv4="0" Lv8="0" Lv12="1" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +12 -->
+	<Option Index="13" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="1" Lv20="0" Lv24="0" Lv28="0" /> <!-- +16 -->
+	<Option Index="14" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="1" Lv24="0" Lv28="0" /> <!-- +20 -->
+	<Option Index="15" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="1" Lv28="0" /> <!-- +24 -->
+	<Option Index="16" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="1" /> <!-- +28 -->
+	<Option Index="17" Lv0="1" Lv4="1" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +0 ~ +4 -->
+	<Option Index="18" Lv0="1" Lv4="1" Lv8="1" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +0 ~ +8 -->
+	<Option Index="19" Lv0="0" Lv4="1" Lv8="1" Lv12="0" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +4 ~ +8 -->
+	<Option Index="20" Lv0="0" Lv4="1" Lv8="1" Lv12="1" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +4 ~ +12 -->
+	<Option Index="21" Lv0="0" Lv4="0" Lv8="1" Lv12="1" Lv16="0" Lv20="0" Lv24="0" Lv28="0" /> <!-- +8 ~ +12 -->
+	<Option Index="22" Lv0="0" Lv4="0" Lv8="1" Lv12="1" Lv16="1" Lv20="0" Lv24="0" Lv28="0" /> <!-- +8 ~ +16 -->
+	<Option Index="23" Lv0="0" Lv4="0" Lv8="0" Lv12="1" Lv16="1" Lv20="0" Lv24="0" Lv28="0" /> <!-- +12 ~ +16 -->
+	<Option Index="24" Lv0="0" Lv4="0" Lv8="0" Lv12="1" Lv16="1" Lv20="1" Lv24="0" Lv28="0" /> <!-- +12 ~ +20 -->
+	<Option Index="25" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="1" Lv20="1" Lv24="0" Lv28="0" /> <!-- +16 ~ +20 -->
+	<Option Index="26" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="1" Lv20="1" Lv24="1" Lv28="0" /> <!-- +16 ~ +24 -->
+	<Option Index="27" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="1" Lv24="1" Lv28="0" /> <!-- +20 ~ +24 -->
+	<Option Index="28" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="1" Lv24="1" Lv28="1" /> <!-- +20 ~ +28 -->
+	<Option Index="29" Lv0="0" Lv4="0" Lv8="0" Lv12="0" Lv16="0" Lv20="0" Lv24="1" Lv28="1" /> <!-- +24 ~ +28 -->
+</JoLOption>
+
+<ExcOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="1" Lv0="0" Lv1="90" Lv2="10" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- Exc Item Drop -->
+	<Option Index="6" Lv0="70" Lv1="20" Lv2="10" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- Dinorant Mix -->
+	<Option Index="8" Lv0="90" Lv1="10" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 2ND Wings Mix -->
+	<Option Index="9" Lv0="90" Lv1="10" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 3RD Wings Mix -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" Lv0="0" Lv1="1" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 1 Option -->
+	<Option Index="11" Lv0="0" Lv1="0" Lv2="1" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 2 Options -->
+	<Option Index="12" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="0" Lv5="0" Lv6="0" /> <!-- 3 Options -->
+	<Option Index="13" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="0" Lv6="0" /> <!-- 4 Options -->
+	<Option Index="14" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" Lv6="0" /> <!-- 5 Options -->
+	<Option Index="15" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="1" /> <!-- 6 Options -->
+	<Option Index="16" Lv0="0" Lv1="1" Lv2="1" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 1 Option ~ 2 Options -->
+	<Option Index="17" Lv0="0" Lv1="1" Lv2="1" Lv3="1" Lv4="0" Lv5="0" Lv6="0" /> <!-- 1 Option ~ 3 Options -->
+	<Option Index="18" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="0" Lv5="0" Lv6="0" /> <!-- 2 Option ~ 3 Options -->
+	<Option Index="19" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="1" Lv5="0" Lv6="0" /> <!-- 2 Option ~ 4 Options -->
+	<Option Index="20" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 3 Option ~ 4 Options -->
+	<Option Index="21" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- 3 Option ~ 5 Options -->
+	<Option Index="22" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="1" Lv6="0" /> <!-- 4 Option ~ 5 Options -->
+	<Option Index="23" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="1" Lv6="1" /> <!-- 4 Option ~ 6 Options -->
+	<Option Index="24" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" Lv6="1" /> <!-- 5 Option ~ 6 Options -->
+	<Option Index="25" Lv0="80" Lv1="15" Lv2="5" Lv3="0" Lv4="0" Lv5="0" Lv6="0" /> <!-- Moss Merchant -->
+</ExcOption>
+
+<SetOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="2" Lv0="0" Lv1="80" Lv2="20" /> <!-- Set Item Drop -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" Lv0="0" Lv1="100" Lv2="0" /> <!-- Tier 1 -->
+	<Option Index="11" Lv0="0" Lv1="0" Lv2="100" /> <!-- Tier 2 -->
+	<Option Index="12" Lv0="0" Lv1="50" Lv2="50" /> <!-- Tier 1 ~ Tier 2 -->
+</SetOption>
+
+<SocketOption>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- They can be modified, but they should not be deleted. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="3" Lv0="0" Lv1="90" Lv2="9" Lv3="1" Lv4="0" Lv5="0" /> <!-- Socket Item Drop (1 ~ 3 Slots) -->
+	<Option Index="4" Lv0="0" Lv1="70" Lv2="15" Lv3="10" Lv4="4" Lv5="1" /> <!-- Socket Item Drop (1 ~ 5 Slots) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- Preset options to use in events, boxes and others. -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+	<Option Index="10" Lv0="0" Lv1="1" Lv2="0" Lv3="0" Lv4="0" Lv5="0" /> <!-- 1 Slot -->
+	<Option Index="11" Lv0="0" Lv1="0" Lv2="1" Lv3="0" Lv4="0" Lv5="0" /> <!-- 2 Slot -->
+	<Option Index="12" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="0" Lv5="0" /> <!-- 3 Slot -->
+	<Option Index="13" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="0" /> <!-- 4 Slot -->
+	<Option Index="14" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="1" /> <!-- 5 Slot -->
+	<Option Index="15" Lv0="0" Lv1="1" Lv2="1" Lv3="0" Lv4="0" Lv5="0" /> <!-- 1 Slot ~ 2 Slots -->
+	<Option Index="16" Lv0="0" Lv1="1" Lv2="1" Lv3="1" Lv4="0" Lv5="0" /> <!-- 1 Slot ~ 3 Slots -->
+	<Option Index="17" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="0" Lv5="0" /> <!-- 2 Slot ~ 3 Slots -->
+	<Option Index="18" Lv0="0" Lv1="0" Lv2="1" Lv3="1" Lv4="1" Lv5="0" /> <!-- 2 Slot ~ 4 Slots -->
+	<Option Index="19" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="1" Lv5="0" /> <!-- 3 Slot ~ 4 Slots -->
+	<Option Index="20" Lv0="0" Lv1="0" Lv2="0" Lv3="1" Lv4="1" Lv5="1" /> <!-- 3 Slot ~ 5 Slots -->
+	<Option Index="21" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="1" Lv5="1" /> <!-- 4 Slot ~ 5 Slots -->
+</SocketOption>

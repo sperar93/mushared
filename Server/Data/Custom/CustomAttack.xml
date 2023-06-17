@@ -1,0 +1,111 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### CustomAttack::Class ###
+//	Index:
+//		~ 0: Dark Wizard
+//		~ 1: Dark Knight
+//		~ 2: Fairy Elf
+//		~ 3: Magic Gladiator
+//		~ 4: Dark Lord
+//		~ 5: Summoner
+//		~ 6: Rage Fighter
+//	Name: Name of class, used for in-file description purpose, logs and tools
+//
+// ### CustomAttack::Class::SkillList::Skill ###
+//	Index: Index of the skill, see SkillList.xml
+//	Type:
+//		~ 0: SkillAttack
+//		~ 1: MultiSkillAttack
+//		~ 2: DurationSkillAttack
+//	Name: Name of skill, used for in-file description purpose, logs and tools
+//
+// ### CustomAttack::Class::BuffList::Skill ###
+//	Index: Index of the skill, see SkillList.xml
+//	Type:
+//		~ 0: Buff YourSelf
+//		~ 1: Buff YourSelf + Party Members
+//	Name: Name of skill, used for in-file description purpose, logs and tools
+-->
+
+<CustomAttack>
+	<Class Index="0" Name="Dark Wizard">
+		<SkillList>
+			<Skill Index="9" Type="1" Name="Evil Spirit" />
+			<Skill Index="14" Type="1" Name="Inferno" />
+			<Skill Index="39" Type="2" Name="Ice Storm" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="16" Type="1" Name="Mana Shield" />
+			<Skill Index="233" Type="1" Name="Magic Circle" />
+		</BuffList>
+	</Class>
+	<Class Index="1" Name="Dark Knight">
+		<SkillList>
+			<Skill Index="41" Type="2" Name="Twist Slash" />
+			<Skill Index="43" Type="1" Name="Death Stab" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="48" Type="1" Name="Greater Life" />
+		</BuffList>
+	</Class>
+	<Class Index="2" Name="Fairy Elf">
+		<SkillList>
+			<Skill Index="235" Type="2" Name="Five Shots" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="27" Type="1" Name="Greater Defense" />
+			<Skill Index="28" Type="1" Name="Greater Damage" />
+			<Skill Index="77" Type="0" Name="Infinity Arrow" />
+		</BuffList>
+	</Class>
+	<Class Index="3" Name="Magic Gladiator">
+		<SkillList>
+			<Skill Index="236" Type="2" Name="Sword Slash" />
+			<Skill Index="237" Type="2" Name="Lightning Storm" />
+			<Skill Index="56" Type="2" Name="Power Slash" />
+			<Skill Index="41" Type="2" Name="Twist Slash" />
+			<Skill Index="9" Type="1" Name="Evil Spirit" />
+		</SkillList>
+		<BuffList>
+		</BuffList>
+	</Class>
+	<Class Index="4" Name="Dark Lord">
+		<SkillList>
+			<Skill Index="238" Type="2" Name="Birds" />
+			<Skill Index="61" Type="0" Name="Fire Burst" />
+			<Skill Index="60" Type="0" Name="Force" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="64" Type="1" Name="Greater Critical Damage" />
+		</BuffList>
+	</Class>
+	<Class Index="5" Name="Summoner">
+		<SkillList>
+			<Skill Index="230" Type="2" Name="Red Storm" />
+			<Skill Index="215" Type="0" Name="Chain Lightning" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="217" Type="1" Name="Damage Reflect" />
+		</BuffList>
+	</Class>
+	<Class Index="6" Name="Rage Fighter">
+		<SkillList>
+			<Skill Index="264" Type="2" Name="Dragon Lore" />
+			<Skill Index="260" Type="0" Name="Large Ring Blower" />
+			<Skill Index="270" Type="0" Name="Phoenix Shot" />
+		</SkillList>
+		<BuffList>
+			<Skill Index="266" Type="1" Name="Greater Ignore Damage Rate" />
+			<Skill Index="267" Type="1" Name="Fitness" />
+		</BuffList>
+	</Class>
+</CustomAttack>

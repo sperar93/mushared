@@ -1,0 +1,31 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Shop::Item ###
+//	Cat: Category of an item - refer to '\Item\ItemList.xml'
+//	Index: Index of an Item - refer to 'Item\ItemList.xml'
+//	Level: Level of an item, 0-15
+//	Durability: Durability of an item, 0-255 - NOTE: some Items max durability is lower than maximum possible of 255
+//	Skill: Apply skill to item, 0/1
+//	Luck: Apply Luck on item, 0/1
+//	Option: 0-7 (Opt * 4, example, Opt -> 7 * 4 = Item Option +28
+//	Exc:  0:  No Exc options, or sum of below values (63 - Full of Excellent):
+//	SetItem (item must be added to set items (ancients), otherwise option will be ignored:
+//	SocketCount: Count of Sockets for socket item, values: 0-5
+-->
+
+<Shop>
+	<Item Cat="15" Index="3" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" />
+	<Item Cat="15" Index="10" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" />
+	<Item Cat="15" Index="1" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" />
+	<Item Cat="15" Index="6" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" />
+	<Item Cat="15" Index="20" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" />
+</Shop>

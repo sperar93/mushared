@@ -1,0 +1,76 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ItemStack::Item ###
+//	Cat: Item Category, refer to ItemList.xml
+//	Index: Item index, refer to ItemList.xml
+//	Level: Level the item, -1 all levels, 0~15 
+//	MaxStack: Maximum stack allowed, 1~255
+//	NextCat: Item Category of the item that will be created when completing the MaxStack, refer to ItemList.xml
+//	NextIndex: Item Index of the item that will be created when completing the MaxStack, refer to ItemList.xml
+//	Description: Description of an item, used for in-file description purpose, logs and tools
+-->
+
+<ItemStack>
+<!-- Stack Limiter -->
+	<Item Cat="4"  Index="7"   Level="-1" MaxStack ="255" Description="Bolt" />
+	<Item Cat="4"  Index="15"  Level="-1" MaxStack ="255" Description="Arrow" />
+	<Item Cat="13" Index="32"  Level="-1" MaxStack ="20"  Description="Splinter of Armor" />
+	<Item Cat="13" Index="33"  Level="-1" MaxStack ="20"  Description="Bless of Guardian" />
+	<Item Cat="13" Index="34"  Level="-1" MaxStack ="10"  Description="Claw of Beast" />
+	<Item Cat="14" Index="0"   Level="-1" MaxStack ="255" Description="Apple" />
+	<Item Cat="14" Index="1"   Level="-1" MaxStack ="255" Description="Small Healing Potion" />
+	<Item Cat="14" Index="2"   Level="-1" MaxStack ="255" Description="Healing Potion" />
+	<Item Cat="14" Index="3"   Level="-1" MaxStack ="255" Description="Large Healing Potion" />
+	<Item Cat="14" Index="4"   Level="-1" MaxStack ="255" Description="Small Mana Potion" />
+	<Item Cat="14" Index="5"   Level="-1" MaxStack ="255" Description="Mana Potion" />
+	<Item Cat="14" Index="6"   Level="-1" MaxStack ="255" Description="Large Mana Potion" />
+	<Item Cat="14" Index="7"   Level="-1" MaxStack ="255" Description="Siege Potion" />
+	<Item Cat="14" Index="8"   Level="-1" MaxStack ="255" Description="Antidote" />
+	<Item Cat="14" Index="21"  Level="03" MaxStack ="255" Description="Sign Lord" />
+	<Item Cat="14" Index="35"  Level="-1" MaxStack ="255" Description="Small SD Potion" />
+	<Item Cat="14" Index="36"  Level="-1" MaxStack ="255" Description="SD Potion" />
+	<Item Cat="14" Index="37"  Level="-1" MaxStack ="255" Description="Large SD Potion" />
+	<Item Cat="14" Index="38"  Level="-1" MaxStack ="255" Description="Small Complex Potion" />
+	<Item Cat="14" Index="39"  Level="-1" MaxStack ="255" Description="Complex Potion" />
+	<Item Cat="14" Index="40"  Level="-1" MaxStack ="255" Description="Large Complex Potion" />
+	<Item Cat="14" Index="46"  Level="-1" MaxStack ="3"   Description="Jack O'Lantern Blessings" />
+	<Item Cat="14" Index="47"  Level="-1" MaxStack ="3"   Description="Jack O'Lantern Wrath" />
+	<Item Cat="14" Index="48"  Level="-1" MaxStack ="3"   Description="Jack O'Lantern Cry" />
+	<Item Cat="14" Index="49"  Level="-1" MaxStack ="3"   Description="Jack O'Lantern Food" />
+	<Item Cat="14" Index="50"  Level="-1" MaxStack ="3"   Description="Jack O'Lantern Drink" />
+	<Item Cat="14" Index="70"  Level="-1" MaxStack ="255" Description="Elite Healing Potion" />
+	<Item Cat="14" Index="71"  Level="-1" MaxStack ="255" Description="Elite Mana Potion" />
+	<Item Cat="14" Index="85"  Level="-1" MaxStack ="3"   Description="Cherry Blossom Wine" />
+	<Item Cat="14" Index="86"  Level="-1" MaxStack ="3"   Description="Cherry Blossom Rice Cake" />
+	<Item Cat="14" Index="87"  Level="-1" MaxStack ="3"   Description="Cherry Blossom Flower Petal" />
+	<Item Cat="14" Index="88"  Level="-1" MaxStack ="255" Description="White Cherry Blossom Branch" />
+	<Item Cat="14" Index="89"  Level="-1" MaxStack ="255" Description="Red Cherry Blossom Branch" />
+	<Item Cat="14" Index="90"  Level="-1" MaxStack ="255" Description="Golden Cherry Blossom Branch" />
+	<Item Cat="14" Index="100" Level="-1" MaxStack ="255" Description="Lucky Coin" />
+	<Item Cat="14" Index="133" Level="-1" MaxStack ="255" Description="Elite SD Potion" />
+<!-- ConvertByStack -->
+	<Item Cat="13" Index="145" Level="-1" MaxStack="5" NextCat="13" NextIndex="146" Description="Spirit Map Fragment ~ Spirit Map" />
+	<Item Cat="14" Index="29"  Level="-1" MaxStack="5" NextCat="14" NextIndex="28"  Description="Symbol of Kundun ~ Lost Map" />
+	<Item Cat="14" Index="101" Level="-1" MaxStack="5" NextCat="14" NextIndex="102" Description="Suspicious Scrap of Paper ~ Gaion's Order" />
+	<Item Cat="14" Index="110" Level="-1" MaxStack="5" NextCat="14" NextIndex="111" Description="Sign of Dimensions ~ Mirror of Dimensions" />
+	
+<!-- Custom -->
+	<Item Cat="14" Index="200" Level="-1" MaxStack="10" NextCat="14" NextIndex="201" Description="WCoinC Package 1 ~ WCoinC Package 10" />
+	<Item Cat="14" Index="201" Level="-1" MaxStack="10" NextCat="14" NextIndex="202" Description="WCoinC Package 10 ~ WCoinC Package 100" />
+	<Item Cat="14" Index="202" Level="-1" MaxStack="10" NextCat="14" NextIndex="203" Description="WCoinC Package 100 ~ WCoinC Package 1000" />
+	<Item Cat="14" Index="204" Level="-1" MaxStack="10" NextCat="14" NextIndex="205" Description="WCoinP Package 1 ~ WCoinP Package 10" />
+	<Item Cat="14" Index="205" Level="-1" MaxStack="10" NextCat="14" NextIndex="206" Description="WCoinP Package 10 ~ WCoinP Package 100" />
+	<Item Cat="14" Index="206" Level="-1" MaxStack="10" NextCat="14" NextIndex="207" Description="WCoinP Package 100 ~ WCoinP Package 1000" />
+	<Item Cat="14" Index="208" Level="-1" MaxStack="10" NextCat="14" NextIndex="209" Description="GoblinPoint Package 1 ~ GoblinPoint Package 10" />
+	<Item Cat="14" Index="209" Level="-1" MaxStack="10" NextCat="14" NextIndex="210" Description="GoblinPoint Package 10 ~ GoblinPoint Package 100" />
+	<Item Cat="14" Index="210" Level="-1" MaxStack="10" NextCat="14" NextIndex="211" Description="GoblinPoint Package 100 ~ GoblinPoint Package 1000" />
+</ItemStack>

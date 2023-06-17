@@ -1,0 +1,76 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### MapServerInfo ### - each server added in this server must be referenced in MapServer::ServerMapping section
+//	Version: A version used to control Game Client versioning, same value must be configured in ServerInfo.bmd, format: n.nn.nn
+//	Serial: Sixteen (16) alphanumerical characters used for verification of Game Client validity, same value must be used in ServerInfo.bmd
+//	CustomerName: Thirty (30) Alphanumerical characters used for aditional verification of Game Client validity, same value must be used in ServerInfo.bmd
+//	MHPEncDecKey1: Primary encryption key of MHP (0: disabled) 0-255
+//	MHPEncDecKey2: Secundary encryption key of MHP (0: disabled) 0-255
+//
+// ### MapServerInfo::ServerList:Server ###
+//	Code: Unique code of server used to identity specific server. Values must match among '%GS%\DATA\GameServerInfo - Common.dat'
+//	Group: Group of servers, allowing to define a bunch of servers belonging to specified group. Moving between servers of different groups is not allowed, start value is 0
+//	Initiation: 1 ~ allows to move to any map which is located outside specified server, 0 ~ limits moves among maps defined within ServerMapping for the server
+//	IP: Address of the Server, WAN (External) address type for usual configuration type, allowed values: IP (version 4) or DNS Names - (maximum 15 characters)
+//	Port: Port of the server, value must match configuration of the server in '%GS%\DATA\GameServerInfo - Common.dat' of the server
+//	Name: Name of the Server, used for in-file description purpose helping easier recognition of server
+//
+// ### MapServerInfo::ServerMapping::Mapping ###
+//	OriginServer: defines a Server of a specified code for which Mapping will be configured
+//	DestinationServer: Tells to which Server code character should be moved to in case of a move request to configured map number, value -1 is used for server code the map exist on
+//					In other meaning server cannot move character to itself, DestServerCode -1 value goes in pair with MoveAble value 1
+//	TargetMap: Map number to configure mapping rules for
+//	ChangeServer: 1 ~ reserves a map for the server it is configured for, 0 ~ defines that the map does not exist on specific server
+-->
+
+<MapServerInfo Version="1.04.05" Serial="TbYehR2hFUPBKgZj" CustomerName="SetectSoft" MHPEncDecKey1="0" MHPEncDecKey2="0" >
+	<ServerList>
+		<Server Code="0"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55901" Name="GameServer01" />
+		<Server Code="1"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55902" Name="GameServer02" />
+		<Server Code="2"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55903" Name="GameServer03" />
+		<Server Code="19" Group="0" Initiation="0" IP="192.168.1.9" Port="55919" Name="GameServerCS" />
+	</ServerList>
+	
+	<ServerMapping>
+		<!-- GameServer ► GameServerCS -->
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="30" ChangeServer="1" />
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="31" ChangeServer="1" />
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="34" ChangeServer="1" />
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="41" ChangeServer="1" />
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="42" ChangeServer="1" />
+		<Mapping OriginServer="0" DestinationServer="19" TargetMap="79" ChangeServer="1" />
+	
+	<!-- GameServer ► GameServerCS -->
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="30" ChangeServer="1" />
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="31" ChangeServer="1" />
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="34" ChangeServer="1" />
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="41" ChangeServer="1" />
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="42" ChangeServer="1" />
+		<Mapping OriginServer="1" DestinationServer="19" TargetMap="79" ChangeServer="1" />
+	
+	<!-- GameServer ► GameServerCS -->
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="30" ChangeServer="1" />
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="31" ChangeServer="1" />
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="34" ChangeServer="1" />
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="41" ChangeServer="1" />
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="42" ChangeServer="1" />
+		<Mapping OriginServer="2" DestinationServer="19" TargetMap="79" ChangeServer="1" />
+		
+		<!-- GameServerCS ► GameServer -->
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="30" ChangeServer="0" />
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="31" ChangeServer="0" />
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="34" ChangeServer="0" />
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="41" ChangeServer="0" />
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="42" ChangeServer="0" />
+		<Mapping OriginServer="19" DestinationServer="-1" TargetMap="79" ChangeServer="0" />
+	</ServerMapping>
+</MapServerInfo>

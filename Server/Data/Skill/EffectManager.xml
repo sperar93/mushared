@@ -1,0 +1,171 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<EffectManager>
+	<Effect Index="1"   Group="1"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Attack Power" />
+	<Effect Index="2"   Group="2"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Defense" />
+	<Effect Index="3"   Group="3"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Shadow Phantom effect" />
+	<Effect Index="4"   Group="4"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Soul Barrier" />
+	<Effect Index="5"   Group="5"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Critical Damage increase" />
+	<Effect Index="6"   Group="6"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Infinity Arrow" />
+	<Effect Index="7"   Group="7"   ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="AG recovery speed increase" />
+	<Effect Index="8"   Group="8"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Swell Life" />
+	<Effect Index="9"   Group="9"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Swell Mana" />
+	<Effect Index="10"  Group="10"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Potion of Blessing" />
+	<Effect Index="11"  Group="11"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Potion of Soul" />
+	<Effect Index="12"  Group="12"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Abolish Magic" />
+	<Effect Index="13"  Group="13"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Gate Open/Close Status" />
+	<Effect Index="14"  Group="14"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Watchtower" />
+	<Effect Index="15"  Group="14"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Besiegement Guild1" />
+	<Effect Index="16"  Group="14"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Besiegement Guild2" />
+	<Effect Index="17"  Group="14"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Besiegement Guild3" />
+	<Effect Index="18"  Group="15"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Invisibility" />
+	<Effect Index="19"  Group="16"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Dark Rod Battle Skill" />
+	<Effect Index="20"  Group="17"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Crown Registration Status" />
+	<Effect Index="21"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf contract enabled" />
+	<Effect Index="22"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf contract disabled" />
+	<Effect Index="23"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf contract Status" />
+	<Effect Index="24"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf contract attempt" />
+	<Effect Index="25"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf besiegement Status" />
+	<Effect Index="26"  Group="18"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Altar of Wolf hero contract Status" />
+	<Effect Index="27"  Group="19"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf NPC transparency" />
+	<Effect Index="28"  Group="20"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="1" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="GM" />
+	<Effect Index="29"  Group="60"  ItemCat="13" ItemIndex="43"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Ascension" />
+	<Effect Index="30"  Group="61"  ItemCat="13" ItemIndex="44"  Save="1" Type="2" Flag="0" Power1="100" Power2="50" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Wealth" />
+	<Effect Index="31"  Group="62"  ItemCat="13" ItemIndex="45"  Save="1" Type="2" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Sustenance" />
+	<Effect Index="32"  Group="22"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Temple - Spell of Quickness" />
+	<Effect Index="33"  Group="22"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Temple - Spell of Sublimation" />
+	<Effect Index="34"  Group="22"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Spell of Protection" />
+	<Effect Index="35"  Group="23"  ItemCat="14" ItemIndex="46"  Save="1" Type="1" Flag="0" Power1="10" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Jack O'Lantern Blessings" />
+	<Effect Index="36"  Group="23"  ItemCat="14" ItemIndex="47"  Save="1" Type="1" Flag="0" Power1="25" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Wrath of Jack O’Lantern" />
+	<Effect Index="37"  Group="23"  ItemCat="14" ItemIndex="48"  Save="1" Type="1" Flag="0" Power1="100" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Jack O'Lantern Cry" />
+	<Effect Index="38"  Group="23"  ItemCat="14" ItemIndex="49"  Save="1" Type="1" Flag="0" Power1="500" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Jack O'Lantern Food" />
+	<Effect Index="39"  Group="23"  ItemCat="14" ItemIndex="50"  Save="1" Type="1" Flag="0" Power1="600" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Jack O'Lantern Drink" />
+	<Effect Index="40"  Group="60"  ItemCat="13" ItemIndex="43"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Ascension" />
+	<Effect Index="41"  Group="61"  ItemCat="13" ItemIndex="44"  Save="1" Type="2" Flag="0" Power1="100" Power2="50" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Wealth" />
+	<Effect Index="42"  Group="65"  ItemCat="13" ItemIndex="45"  Save="1" Type="2" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Sustenance" />
+	<Effect Index="43"  Group="57"  ItemCat="13" ItemIndex="59"  Save="1" Type="2" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Mobility" />
+	<Effect Index="44"  Group="67"  ItemCat="14" ItemIndex="72"  Save="1" Type="2" Flag="0" Power1="15" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Quickness" />
+	<Effect Index="45"  Group="68"  ItemCat="14" ItemIndex="73"  Save="1" Type="2" Flag="0" Power1="60" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Defense" />
+	<Effect Index="46"  Group="69"  ItemCat="14" ItemIndex="74"  Save="1" Type="2" Flag="0" Power1="30" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Wrath" />
+	<Effect Index="47"  Group="70"  ItemCat="14" ItemIndex="75"  Save="1" Type="2" Flag="0" Power1="30" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Wizardry" />
+	<Effect Index="48"  Group="71"  ItemCat="14" ItemIndex="76"  Save="1" Type="2" Flag="0" Power1="200" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Health" />
+	<Effect Index="49"  Group="72"  ItemCat="14" ItemIndex="77"  Save="1" Type="2" Flag="0" Power1="300" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Mana" />
+	<Effect Index="50"  Group="26"  ItemCat="14" ItemIndex="78"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Elixir of Strength" />
+	<Effect Index="51"  Group="26"  ItemCat="14" ItemIndex="79"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Elixir of Agility" />
+	<Effect Index="52"  Group="26"  ItemCat="14" ItemIndex="80"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Elixir of Health" />
+	<Effect Index="53"  Group="26"  ItemCat="14" ItemIndex="81"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Elixir of Energy" />
+	<Effect Index="54"  Group="26"  ItemCat="14" ItemIndex="82"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Elixir of Control" />
+	<Effect Index="55"  Group="27"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Poison" />
+	<Effect Index="56"  Group="28"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Ice" />
+	<Effect Index="57"  Group="29"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Iced Arrow" />
+	<Effect Index="58"  Group="30"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Defensibility reduction" />
+	<Effect Index="59"  Group="31"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Attack power reduction" />
+	<Effect Index="60"  Group="32"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Wizardry increase reduction" />
+	<Effect Index="61"  Group="33"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Stun" />
+	<Effect Index="62"  Group="34"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Magic Defense" />
+	<Effect Index="63"  Group="35"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Monster Magic Attack Resistance" />
+	<Effect Index="64"  Group="36"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Monster Chemistry Attack Resistance" />
+	<Effect Index="65"  Group="37"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Spell of Restriction" />
+	<Effect Index="66"  Group="38"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf Divine Protection Status" />
+	<Effect Index="67"  Group="38"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf Divine Protection Status" />
+	<Effect Index="68"  Group="38"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf Divine Protection Status" />
+	<Effect Index="69"  Group="38"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf Divine Protection Status" />
+	<Effect Index="70"  Group="38"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cry Wolf Divine Protection Status" />
+	<Effect Index="71"  Group="39"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Damage Reflection" />
+	<Effect Index="72"  Group="40"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Sleep" />
+	<Effect Index="73"  Group="40"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Blind" />
+	<Effect Index="74"  Group="41"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Requiem" />
+	<Effect Index="75"  Group="42"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Explosion" />
+	<Effect Index="76"  Group="43"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Weakness" />
+	<Effect Index="77"  Group="44"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Innovation" />
+	<Effect Index="78"  Group="23"  ItemCat="14" ItemIndex="85"  Save="1" Type="1" Flag="0" Power1="700" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Cherry Blossom Wine" />
+	<Effect Index="79"  Group="23"  ItemCat="14" ItemIndex="86"  Save="1" Type="1" Flag="0" Power1="700" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Cherry Blossom Rice Cake" />
+	<Effect Index="80"  Group="23"  ItemCat="14" ItemIndex="87"  Save="1" Type="1" Flag="0" Power1="40" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Cherry Blossom Flower Petal" />
+	<Effect Index="81"  Group="21"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Berserker" />
+	<Effect Index="82"  Group="45"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Expansion of Wizardry" />
+	<Effect Index="83"  Group="46"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Flame Strike" />
+	<Effect Index="84"  Group="47"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Gigantic Storm" />
+	<Effect Index="85"  Group="48"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Lightning Shock" />
+	<Effect Index="86"  Group="49"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Cold" />
+	<Effect Index="87"  Group="13"  ItemCat="13" ItemIndex="62"  Save="1" Type="2" Flag="0" Power1="50" Power2="5" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Healing" />
+	<Effect Index="88"  Group="13"  ItemCat="13" ItemIndex="63"  Save="1" Type="2" Flag="0" Power1="50" Power2="5" Power3="-1" Power4="-1" Duration="1800" Name="Seal of Divinity" />
+	<Effect Index="89"  Group="73"  ItemCat="14" ItemIndex="97"  Save="1" Type="2" Flag="0" Power1="20" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Battle" />
+	<Effect Index="90"  Group="74"  ItemCat="14" ItemIndex="98"  Save="1" Type="2" Flag="0" Power1="20" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Strength" />
+	<Effect Index="91"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Blessing of Christmas" />
+	<Effect Index="92"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="500" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Healing" />
+	<Effect Index="93"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="500" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Protection" />
+	<Effect Index="94"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="30" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Strengthener" />
+	<Effect Index="95"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="100" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Defense" />
+	<Effect Index="96"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="15" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Quickness" />
+	<Effect Index="97"  Group="23"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="1" Flag="0" Power1="5" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Santa Fortune" />
+	<Effect Index="98"  Group="50"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Duel Arena Watch" />
+	<Effect Index="99"  Group="52"  ItemCat="13" ItemIndex="81"  Save="1" Type="2" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Talisman of Protection" />
+	<Effect Index="100" Group="53"  ItemCat="13" ItemIndex="82"  Save="1" Type="2" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Talisman of Item Protection" />
+	<Effect Index="101" Group="60"  ItemCat="13" ItemIndex="93"  Save="1" Type="2" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Master Seal of Ascension" />
+	<Effect Index="102" Group="61"  ItemCat="13" ItemIndex="94"  Save="1" Type="2" Flag="0" Power1="100" Power2="50" Power3="-1" Power4="-1" Duration="1800" Name="Master Seal of Wealth" />
+	<Effect Index="103" Group="51"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Gladiator's Honor" />
+	<Effect Index="105" Group="54"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Ascension" />
+	<Effect Index="112" Group="24"  ItemCat="13" ItemIndex="103" Save="1" Type="2" Flag="0" Power1="90" Power2="10" Power3="-1" Power4="-1" Duration="1800" Name="Party EXP Bonus Item" />
+	<Effect Index="113" Group="58"  ItemCat="13" ItemIndex="104" Save="1" Type="2" Flag="0" Power1="10" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Max AG Boost Aura" />
+	<Effect Index="114" Group="58"  ItemCat="13" ItemIndex="105" Save="1" Type="2" Flag="0" Power1="10" Power2="-1" Power3="-1" Power4="-1" Duration="1800" Name="Max SD Boost Aura" />
+	<Effect Index="121" Group="75"  ItemCat="14" ItemIndex="140" Save="1" Type="2" Flag="0" Power1="3" Power2="100" Power3="-1" Power4="-1" Duration="1800" Name="Scroll of Healing" />
+	<Effect Index="122" Group="76"  ItemCat="13" ItemIndex="128" Save="0" Type="1" Flag="0" Power1="10" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Hawk Figurine" />
+	<Effect Index="123" Group="76"  ItemCat="13" ItemIndex="129" Save="0" Type="1" Flag="0" Power1="10" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Goat Figurine" />
+	<Effect Index="124" Group="77"  ItemCat="13" ItemIndex="130" Save="0" Type="1" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Oak Charm" />
+	<Effect Index="125" Group="77"  ItemCat="13" ItemIndex="131" Save="0" Type="1" Flag="0" Power1="50" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Maple Charm" />
+	<Effect Index="126" Group="77"  ItemCat="13" ItemIndex="132" Save="0" Type="1" Flag="0" Power1="100" Power2="500" Power3="-1" Power4="-1" Duration="-1" Name="Golden Oak Charm" />
+	<Effect Index="127" Group="77"  ItemCat="13" ItemIndex="133" Save="0" Type="1" Flag="0" Power1="120" Power2="50" Power3="-1" Power4="-1" Duration="-1" Name="Golden Maple Charm" />
+	<Effect Index="128" Group="78"  ItemCat="13" ItemIndex="134" Save="0" Type="1" Flag="0" Power1="20" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Worn Horseshoe" />
+	<Effect Index="129" Group="79"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Ignore Enemy's Defense" />
+	<Effect Index="130" Group="80"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Health" />
+	<Effect Index="131" Group="81"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Defense Rate" />
+	<Effect Index="134" Group="84"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Iron Defense" />
+	<Effect Index="135" Group="8"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Swell Life" />
+	<Effect Index="136" Group="8"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Swell Life" />
+	<Effect Index="137" Group="85"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Bleeding" />
+	<Effect Index="138" Group="45"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Expansion of Wizardry" />
+	<Effect Index="139" Group="45"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Expansion of Wizardry" />
+	<Effect Index="140" Group="4"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Soul Barrier" />
+	<Effect Index="141" Group="86"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Reduce attack speed" />
+	<Effect Index="142" Group="87"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Bless" />
+	<Effect Index="143" Group="6"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Infinity Arrow" />
+	<Effect Index="144" Group="88"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Blind" />
+	<Effect Index="145" Group="89"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Vampiric" />
+	<Effect Index="146" Group="90"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Freeze" />
+	<Effect Index="147" Group="91"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Earth Binds" />
+	<Effect Index="148" Group="5"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Critical Damage increase" />
+	<Effect Index="149" Group="5"   ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Critical Damage increase" />
+	<Effect Index="150" Group="21"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Berserker" />
+	<Effect Index="151" Group="21"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Berserker" />
+	<Effect Index="152" Group="21"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Berserker" />
+	<Effect Index="153" Group="81"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Defense Success Rate" />
+	<Effect Index="154" Group="81"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase Defense Success Rate" />
+	<Effect Index="155" Group="80"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Increase HP" />
+	<Effect Index="157" Group="92"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Fire" />
+	<Effect Index="158" Group="93"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Frost" />
+	<Effect Index="159" Group="94"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Poison" />
+	<Effect Index="160" Group="94"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Poison" />
+	<Effect Index="161" Group="87"  ItemCat="-1" ItemIndex="-1"  Save="0" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Bless" />
+	<Effect Index="162" Group="43"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Weaken" />
+	<Effect Index="163" Group="44"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Innovate" />
+	<Effect Index="164" Group="30"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Decrease Defense Rate" />
+	<Effect Index="165" Group="84"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Iron Defense" />
+	<Effect Index="166" Group="95"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Blood Howl" />
+	<Effect Index="167" Group="95"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="0" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Blood Howl" />
+	<Effect Index="174" Group="98"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Fire" />
+	<Effect Index="175" Group="99"  ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Frost" />
+	<Effect Index="176" Group="100" ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Tornado" />
+	<Effect Index="177" Group="101" ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Bind" />
+	<Effect Index="178" Group="102" ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Darkness" />
+	<Effect Index="186" Group="109" ItemCat="-1" ItemIndex="-1"  Save="1" Type="0" Flag="1" Power1="-1" Power2="-1" Power3="-1" Power4="-1" Duration="-1" Name="Confusion"/>
+</EffectManager>

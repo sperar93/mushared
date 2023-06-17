@@ -1,0 +1,53 @@
+[GameServerInfo]
+;==================================================================================
+; Bonus Manager Settings
+;==================================================================================
+BonusManagerSwitch = 1
+
+;==================================================================================
+; Castle Siege Event Settings
+;==================================================================================
+CastleSiegeEvent = 1
+;----------------------------------------------------------------------------------
+CastleSiegeCycleStartYear =0
+CastleSiegeCycleStartMonth =0
+CastleSiegeCycleStartDay =0
+;----------------------------------------------------------------------------------
+CastleSiegeSpecificState =0
+;----------------------------------------------------------------------------------
+CastleSiegeStateStartYear =0
+CastleSiegeStateStartMonth =0
+CastleSiegeStateStartDay =0
+CastleSiegeStateStartHour =0
+CastleSiegeStateStartMinute =0
+;----------------------------------------------------------------------------------
+CastleSiegeOffensiveWeaponDamage = 300
+CastleSiegeDefensiveWeaponDamage = 200
+;----------------------------------------------------------------------------------
+CastleSiegeLowerAccumulatedTimeValue = 0
+CastleSiegeDecayAccumulatedTimeValue = 0
+
+;==================================================================================
+; Crywolf Event Settings
+;==================================================================================
+CrywolfEvent = 1
+;----------------------------------------------------------------------------------
+CrywolfBenefitSwitch = 1
+CrywolfBenefitChaosRate = 10
+CrywolfBenefitMonsterLife = 80
+;----------------------------------------------------------------------------------
+CrywolfPenaltySwitch = 0
+CrywolfPenaltyJewelDrop = 70
+CrywolfPenaltyExperience = 70
+
+;==================================================================================
+; Invasion Manager Settings
+;==================================================================================
+InvasionManagerSwitch = 1
+
+;==================================================================================
+; Loren Deep Event Settings
+;==================================================================================
+LorenDeepEvent = 1
+;----------------------------------------------------------------------------------
+LorenDeepEventTime = 30

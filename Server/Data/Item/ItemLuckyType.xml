@@ -1,0 +1,94 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ItemLuckyType::Item ###
+//	Cat: Item category, refer to ItemList.xml
+//	Index: Item index, refer to ItemList.xml
+//	LevelOption: Item level option, refer to ItemOptionRate.xml [ItemOptionRate::LevelOption::Option::Index] -1: No option
+//	SkillOption: Item skill option, refer to ItemOptionRate.xml [ItemOptionRate::SkillOption::Option::Index] -1: No option
+//	LuckOption: Item luck option, refer to ItemOptionRate.xml [ItemOptionRate::LuckOption::Option::Index] -1: No option
+//	JoLOption: Item JoL option, refer to ItemOptionRate.xml [ItemOptionRate::JoLOption::Option::Index] -1: No option
+//	ExcOption: Item exc option, refer to ItemOptionRate.xml [ItemOptionRate::ExcOption::Option::Index]  -1: No option
+//	SetOption: Item set option, refer to ItemOptionRate.xml [ItemOptionRate::SetOption::Option::Index] -1: No option
+//	SocketOption: socket level option, refer to ItemOptionRate.xml [ItemOptionRate::SocketOption::Option::Index] -1: No option
+//	ClassIndex: Class of character allowed to get specified item
+//		~ 0: Dark Wizard
+//		~ 1: Dark Knight
+//		~ 2: Fairy Elf
+//		~ 3: Magic Gladiator
+//		~ 4: Dark Lord
+//		~ 5: Summoner
+//		~ 6: Rage Fighter
+//	TicketLevel: Ticket that is required to obtain this item.
+//	Decay: Duration of the durability of item.
+//	Name: Name of an item, used for in-file description purpose, logs and tools
+-->
+
+<ItemLuckyType>
+	<!-- Helm -->
+	<Item Cat="7" Index="64" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="0" Decay="2400" Name="Lucky Sphinx Helm" />
+	<Item Cat="7" Index="62" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="0" Decay="2400" Name="Lucky Scale Helm" />
+	<Item Cat="7" Index="63" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="0" Decay="2400" Name="Lucky Silk Helm" />
+	<Item Cat="7" Index="65" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="0" Decay="2400" Name="Lucky Violent Wind Helm" />
+	<Item Cat="7" Index="69" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="1" Decay="2400" Name="Lucky Legendary Helm" />
+	<Item Cat="7" Index="67" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="1" Decay="2400" Name="Lucky Dragon Helm" />
+	<Item Cat="7" Index="68" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="1" Decay="2400" Name="Lucky Guardian Helm" />
+	<Item Cat="7" Index="66" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="4" TicketLevel="1" Decay="2400" Name="Lucky Dark Soul Helm" />
+	<Item Cat="7" Index="70" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="1" Decay="2400" Name="Lucky Red Wing Helm" />
+	<Item Cat="7" Index="72" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="6" TicketLevel="1" Decay="2400" Name="Lucky Storm Jahad Helm" />
+	<!-- Armor -->
+	<Item Cat="8" Index="64" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="0" Decay="2400" Name="Lucky Sphinx Armor" />
+	<Item Cat="8" Index="62" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="0" Decay="2400" Name="Lucky Scale Armor" />
+	<Item Cat="8" Index="63" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="0" Decay="2400" Name="Lucky Silk Armor" />
+	<Item Cat="8" Index="65" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="0" Decay="2400" Name="Lucky Violent Wind Armor" />
+	<Item Cat="8" Index="69" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="1" Decay="2400" Name="Lucky Legendary Armor" />
+	<Item Cat="8" Index="67" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="1" Decay="2400" Name="Lucky Dragon Armor" />
+	<Item Cat="8" Index="68" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="1" Decay="2400" Name="Lucky Guardian Armor" />
+	<Item Cat="8" Index="71" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="3" TicketLevel="1" Decay="2400" Name="Lucky Atlans Armor" />
+	<Item Cat="8" Index="66" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="4" TicketLevel="1" Decay="2400" Name="Lucky Dark Soul Armor" />
+	<Item Cat="8" Index="70" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="1" Decay="2400" Name="Lucky Red Wing Armor" />
+	<Item Cat="8" Index="72" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="6" TicketLevel="1" Decay="2400" Name="Lucky Storm Jahad Armor" />
+	<!-- Pants -->
+	<Item Cat="9" Index="64" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="0" Decay="2400" Name="Lucky Sphinx Pants" />
+	<Item Cat="9" Index="62" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="0" Decay="2400" Name="Lucky Scale Pants" />
+	<Item Cat="9" Index="63" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="0" Decay="2400" Name="Lucky Silk Pants" />
+	<Item Cat="9" Index="65" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="0" Decay="2400" Name="Lucky Violent Wind Pants" />
+	<Item Cat="9" Index="69" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="1" Decay="2400" Name="Lucky Legendary Pants" />
+	<Item Cat="9" Index="67" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="1" Decay="2400" Name="Lucky Dragon Pants" />
+	<Item Cat="9" Index="68" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="1" Decay="2400" Name="Lucky Guardian Pants" />
+	<Item Cat="9" Index="71" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="3" TicketLevel="1" Decay="2400" Name="Lucky Atlans Pants" />
+	<Item Cat="9" Index="66" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="4" TicketLevel="1" Decay="2400" Name="Lucky Dark Soul Pants" />
+	<Item Cat="9" Index="70" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="1" Decay="2400" Name="Lucky Red Wing Pants" />
+	<Item Cat="9" Index="72" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="6" TicketLevel="1" Decay="2400" Name="Lucky Storm Jahad Pants" />
+	<!-- Gloves -->
+	<Item Cat="10" Index="64" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="0" Decay="2400" Name="Lucky Sphinx Gloves" />
+	<Item Cat="10" Index="62" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="0" Decay="2400" Name="Lucky Scale Gloves" />
+	<Item Cat="10" Index="63" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="0" Decay="2400" Name="Lucky Silk Gloves" />
+	<Item Cat="10" Index="65" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="0" Decay="2400" Name="Lucky Violent Wind Gloves" />
+	<Item Cat="10" Index="69" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="1" Decay="2400" Name="Lucky Legendary Gloves" />
+	<Item Cat="10" Index="67" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="1" Decay="2400" Name="Lucky Dragon Gloves" />
+	<Item Cat="10" Index="68" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="1" Decay="2400" Name="Lucky Guardian Gloves" />
+	<Item Cat="10" Index="71" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="3" TicketLevel="1" Decay="2400" Name="Lucky Atlans Gloves" />
+	<Item Cat="10" Index="66" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="4" TicketLevel="1" Decay="2400" Name="Lucky Dark Soul Gloves" />
+	<Item Cat="10" Index="70" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="1" Decay="2400" Name="Lucky Red Wing Gloves" />
+	<!-- Boots -->
+	<Item Cat="11" Index="64" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="0" Decay="2400" Name="Lucky Sphinx Boots" />
+	<Item Cat="11" Index="62" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="0" Decay="2400" Name="Lucky Scale Boots" />
+	<Item Cat="11" Index="63" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="0" Decay="2400" Name="Lucky Silk Boots" />
+	<Item Cat="11" Index="65" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="0" Decay="2400" Name="Lucky Violent Wind Boots" />
+	<Item Cat="11" Index="69" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="0" TicketLevel="1" Decay="2400" Name="Lucky Legendary Boots" />
+	<Item Cat="11" Index="67" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="1" TicketLevel="1" Decay="2400" Name="Lucky Dragon Boots" />
+	<Item Cat="11" Index="68" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="2" TicketLevel="1" Decay="2400" Name="Lucky Guardian Boots" />
+	<Item Cat="11" Index="71" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="3" TicketLevel="1" Decay="2400" Name="Lucky Atlans Boots" />
+	<Item Cat="11" Index="66" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="4" TicketLevel="1" Decay="2400" Name="Lucky Dark Soul Boots" />
+	<Item Cat="11" Index="70" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="5" TicketLevel="1" Decay="2400" Name="Lucky Red Wing Boots" />
+	<Item Cat="11" Index="72" LevelOption="52" SkillOption="-1" LuckOption="-1" JoLOption="20" ExcOption="-1" SetOption="12" SocketOption="-1" ClassIndex="6" TicketLevel="1" Decay="2400" Name="Lucky Storm Jahad Boots" />
+</ItemLuckyType>

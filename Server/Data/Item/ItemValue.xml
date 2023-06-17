@@ -1,0 +1,257 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ItemValue::Item ###
+//	Name: Name of an item, used for in-file description purpose, logs and tools
+//	Cat: Item Category, refer to ItemList.xml
+//	Index: Item index, refer to ItemList.xml
+//	Level: Level the item should be dropped with, -1 all levels 0~15 
+//	Grade: Excellent grade item. -1 all grades.
+//	BuyPrice: Price that the user will pay when buying this in an NPC.
+//	SellPrice: Money you will receive when selling this in an NPC. (-1: BuyPrice / 3 )
+//
+// ### ItemValueCoin::Item ###
+//	Name: Name of an item, used for in-file description purpose, logs and tools
+//	Cat: Item Category, refer to ItemList.xml
+//	Index: Item index, refer to ItemList.xml
+//	Level: Level the item should be dropped with, -1 all levels 0~15 
+//	WCoinC: Amount of coins that are paid when selling in the store
+//	WCoinP: Amount of coins that are paid when selling in the store
+//	GoblinPoint: Amount of coins that are paid when selling in the store
+-->
+
+<ItemValue>	
+	<Item Name="Bolt +0"						Cat="4"  Index="7"   Level="0"  Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Bolt +1"						Cat="4"  Index="7"   Level="1"  Grade="-1" BuyPrice="1400" SellPrice="-1" />
+	<Item Name="Bolt +2"						Cat="4"  Index="7"   Level="2"  Grade="-1" BuyPrice="2200" SellPrice="-1" />
+	<Item Name="Bolt +3"						Cat="4"  Index="7"   Level="3"  Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Arrow +0"						Cat="4"  Index="15"  Level="0"  Grade="-1" BuyPrice="70" SellPrice="-1" />
+	<Item Name="Arrow +1"						Cat="4"  Index="15"  Level="1"  Grade="-1" BuyPrice="1200" SellPrice="-1" />
+	<Item Name="Arrow +2"						Cat="4"  Index="15"  Level="2"  Grade="-1" BuyPrice="2000" SellPrice="-1" />
+	<Item Name="Arrow +3"						Cat="4"  Index="15"  Level="3"  Grade="-1" BuyPrice="2800" SellPrice="-1" />
+	<Item Name="Jewel of Chaos"					Cat="12" Index="15"  Level="-1" Grade="-1" BuyPrice="810000" SellPrice="-1" />
+	<Item Name="Gem of Secret"					Cat="12" Index="26"  Level="0"  Grade="-1" BuyPrice="60000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Bless 1"		Cat="12" Index="30"  Level="0"  Grade="-1" BuyPrice="90000000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Bless 2"		Cat="12" Index="30"  Level="1"  Grade="-1" BuyPrice="180000000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Bless 3"		Cat="12" Index="30"  Level="2"  Grade="-1" BuyPrice="270000000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Soul 1"		Cat="12" Index="31"  Level="0"  Grade="-1" BuyPrice="60000000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Soul 2"		Cat="12" Index="31"  Level="1"  Grade="-1" BuyPrice="120000000" SellPrice="-1" />
+	<Item Name="Bundle of Jewel of Soul 3"		Cat="12" Index="31"  Level="2"  Grade="-1" BuyPrice="180000000" SellPrice="-1" />
+	<Item Name="Small Cape of Lord"				Cat="12" Index="130" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Small Wing of Curse"			Cat="12" Index="131" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Small Wings of Elf"				Cat="12" Index="132" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Small Wings of Heaven"			Cat="12" Index="133" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Small Wings of Satan"			Cat="12" Index="134" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Little Warrior's Cloak"			Cat="12" Index="135" Level="-1" Grade="-1" BuyPrice="100" SellPrice="-1" />
+	<Item Name="Jewel of Life Bundle 10"		Cat="12" Index="136" Level="0"  Grade="-1" BuyPrice="450000000" SellPrice="-1" />
+	<Item Name="Jewel of Life Bundle 20"		Cat="12" Index="136" Level="1"  Grade="-1" BuyPrice="900000000" SellPrice="-1" />
+	<Item Name="Jewel of Life Bundle 30"		Cat="12" Index="136" Level="2"  Grade="-1" BuyPrice="1350000000" SellPrice="-1" />
+	<Item Name="Jewel of Creation Bundle 10"	Cat="12" Index="137" Level="0"  Grade="-1" BuyPrice="360000000" SellPrice="-1" />
+	<Item Name="Jewel of Creation Bundle 20"	Cat="12" Index="137" Level="1"  Grade="-1" BuyPrice="720000000" SellPrice="-1" />
+	<Item Name="Jewel of Creation Bundle 30"	Cat="12" Index="137" Level="2"  Grade="-1" BuyPrice="1080000000" SellPrice="-1" />
+	<Item Name="Jewel of Guardian Bundle 10"	Cat="12" Index="138" Level="0"  Grade="-1" BuyPrice="600000000" SellPrice="-1" />
+	<Item Name="Jewel of Guardian Bundle 20"	Cat="12" Index="138" Level="1"  Grade="-1" BuyPrice="1200000000" SellPrice="-1" />
+	<Item Name="Jewel of Guardian Bundle 30"	Cat="12" Index="138" Level="2"  Grade="-1" BuyPrice="1800000000" SellPrice="-1" />
+	<Item Name="Jewel of Chaos Bundle 10"		Cat="12" Index="141" Level="0"  Grade="-1" BuyPrice="8100000" SellPrice="-1" />
+	<Item Name="Jewel of Chaos Bundle 20"		Cat="12" Index="141" Level="1"  Grade="-1" BuyPrice="16200000" SellPrice="-1" />
+	<Item Name="Jewel of Chaos Bundle 30"		Cat="12" Index="141" Level="2"  Grade="-1" BuyPrice="24300000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="0"  BuyPrice="960000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="1"  BuyPrice="1260000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="2"  BuyPrice="1260000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="4"  BuyPrice="1260000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="3"  BuyPrice="1560000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="5"  BuyPrice="1560000" SellPrice="-1" />
+	<Item Name="Horn of Dinorant"				Cat="13" Index="3"   Level="-1" Grade="6"  BuyPrice="1560000" SellPrice="-1" />
+	<Item Name="Contract (Summon)"				Cat="13" Index="7"   Level="0"  Grade="-1" BuyPrice="1500000" SellPrice="-1" />
+	<Item Name="Contract (Summon)"				Cat="13" Index="7"   Level="1"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Order Life Stone"				Cat="13" Index="11"  Level="1"  Grade="-1" BuyPrice="2400000" SellPrice="-1" />
+	<Item Name="Loch's Feather"					Cat="13" Index="14"  Level="0"  Grade="-1" BuyPrice="180000" SellPrice="-1" />
+	<Item Name="Crest of Monarch"				Cat="13" Index="14"  Level="1"  Grade="-1" BuyPrice="7500000" SellPrice="-1" />
+	<Item Name="Fruits"							Cat="13" Index="15"  Level="-1" Grade="-1" BuyPrice="33000000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +1"			Cat="13" Index="16"  Level="1"  Grade="-1" BuyPrice="10000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +2"			Cat="13" Index="16"  Level="2"  Grade="-1" BuyPrice="50000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +3"			Cat="13" Index="16"  Level="3"  Grade="-1" BuyPrice="100000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +4"			Cat="13" Index="16"  Level="4"  Grade="-1" BuyPrice="300000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +5"			Cat="13" Index="16"  Level="5"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +6"			Cat="13" Index="16"  Level="6"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +7"			Cat="13" Index="16"  Level="7"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Scroll of Archangel +8"			Cat="13" Index="16"  Level="8"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Blood Bone 1"					Cat="13" Index="17"  Level="1"  Grade="-1" BuyPrice="10000" SellPrice="-1" />
+	<Item Name="Blood Bone 2"					Cat="13" Index="17"  Level="2"  Grade="-1" BuyPrice="50000" SellPrice="-1" />
+	<Item Name="Blood Bone 3"					Cat="13" Index="17"  Level="3"  Grade="-1" BuyPrice="100000" SellPrice="-1" />
+	<Item Name="Blood Bone 4"					Cat="13" Index="17"  Level="4"  Grade="-1" BuyPrice="300000" SellPrice="-1" />
+	<Item Name="Blood Bone 5"					Cat="13" Index="17"  Level="5"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Blood Bone 6"					Cat="13" Index="17"  Level="6"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Blood Bone 7"					Cat="13" Index="17"  Level="7"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Blood Bone 8"					Cat="13" Index="17"  Level="8"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +1"			Cat="13" Index="18"  Level="1"  Grade="-1" BuyPrice="150000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +2"			Cat="13" Index="18"  Level="2"  Grade="-1" BuyPrice="660000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +3"			Cat="13" Index="18"  Level="3"  Grade="-1" BuyPrice="720000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +4"			Cat="13" Index="18"  Level="4"  Grade="-1" BuyPrice="780000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +5"			Cat="13" Index="18"  Level="5"  Grade="-1" BuyPrice="840000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +6"			Cat="13" Index="18"  Level="6"  Grade="-1" BuyPrice="900000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +7"			Cat="13" Index="18"  Level="7"  Grade="-1" BuyPrice="960000" SellPrice="-1" />
+	<Item Name="Invisibility Cloak +8"			Cat="13" Index="18"  Level="8"  Grade="-1" BuyPrice="1020000" SellPrice="-1" />
+	<Item Name="Wizards Ring"					Cat="13" Index="20"  Level="0"  Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Armor of Guardsman"				Cat="13" Index="29"  Level="-1" Grade="-1" BuyPrice="5000" SellPrice="-1" />
+	<Item Name="Spirit"							Cat="13" Index="31"  Level="0"  Grade="-1" BuyPrice="30000000" SellPrice="-1" />
+	<Item Name="Spirit"							Cat="13" Index="31"  Level="1"  Grade="-1" BuyPrice="15000000" SellPrice="-1" />
+	<Item Name="Splinter of Armor"				Cat="13" Index="32"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Bless of Guardian"				Cat="13" Index="33"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Claw of Beast"					Cat="13" Index="34"  Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Fragment of Horn"				Cat="13" Index="35"  Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Broken Horn"					Cat="13" Index="36"  Level="-1" Grade="-1" BuyPrice="90000" SellPrice="-1" />
+	<Item Name="Horn of Fenrir"					Cat="13" Index="37"  Level="-1" Grade="-1" BuyPrice="50000" SellPrice="-1" />
+	<Item Name="Moonstone Pendant"				Cat="13" Index="38"  Level="-1" Grade="-1" BuyPrice="9300" SellPrice="-1" />
+	<Item Name="Old Scroll 1"					Cat="13" Index="49"  Level="1"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Old Scroll 2"					Cat="13" Index="49"  Level="2"  Grade="-1" BuyPrice="600000" SellPrice="-1" />
+	<Item Name="Old Scroll 3"					Cat="13" Index="49"  Level="3"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Old Scroll 4"					Cat="13" Index="49"  Level="4"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Old Scroll 5"					Cat="13" Index="49"  Level="5"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Old Scroll 6"					Cat="13" Index="49"  Level="6"  Grade="-1" BuyPrice="1400000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +1"			Cat="13" Index="50"  Level="1"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +2"			Cat="13" Index="50"  Level="2"  Grade="-1" BuyPrice="600000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +3"			Cat="13" Index="50"  Level="3"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +4"			Cat="13" Index="50"  Level="4"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +5"			Cat="13" Index="50"  Level="5"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Illusion Covenant +6"			Cat="13" Index="50"  Level="6"  Grade="-1" BuyPrice="1400000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 1"				Cat="13" Index="51"  Level="1"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 2"				Cat="13" Index="51"  Level="2"  Grade="-1" BuyPrice="600000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 3"				Cat="13" Index="51"  Level="3"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 4"				Cat="13" Index="51"  Level="4"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 5"				Cat="13" Index="51"  Level="5"  Grade="-1" BuyPrice="1200000" SellPrice="-1" />
+	<Item Name="Scroll of Blood 6"				Cat="13" Index="51"  Level="6"  Grade="-1" BuyPrice="1400000" SellPrice="-1" />
+	<Item Name="Condor Flame"					Cat="13" Index="52"  Level="-1" Grade="-1" BuyPrice="3000000" SellPrice="-1" />
+	<Item Name="Condor Feather"					Cat="13" Index="53"  Level="-1" Grade="-1" BuyPrice="3000000" SellPrice="-1" />
+	<Item Name="Demon"							Cat="13" Index="64"  Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Spirit of Guardian"				Cat="13" Index="65"  Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Sword/Mace/Spear"				Cat="13" Index="71"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Staff"							Cat="13" Index="72"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Bow/Crossbow"					Cat="13" Index="73"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Scepter"						Cat="13" Index="74"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Stick"							Cat="13" Index="75"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Panda Ring"						Cat="13" Index="76"  Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Brown Panda Ring"				Cat="13" Index="77"  Level="-1" Grade="-1" BuyPrice="100000000" SellPrice="-1" />
+	<Item Name="Pink Panda Ring"				Cat="13" Index="78"  Level="-1" Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Pet Panda"						Cat="13" Index="80"  Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Sapphire Ring"					Cat="13" Index="109" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Ruby Ring"						Cat="13" Index="110" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Topaz Ring"						Cat="13" Index="111" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Amethyst Ring"					Cat="13" Index="112" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Ruby Necklace"					Cat="13" Index="113" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Emerald Necklace"				Cat="13" Index="114" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Sapphire Necklace"				Cat="13" Index="115" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Skeleton Transformation Ring"	Cat="13" Index="122" Level="-1" Grade="-1" BuyPrice="6000" SellPrice="-1" />
+	<Item Name="Pet Skeleton"					Cat="13" Index="123" Level="-1" Grade="-1" BuyPrice="6000" SellPrice="-1" />
+	<Item Name="Siege Potion"					Cat="14" Index="7"   Level="0"  Grade="-1" BuyPrice="900000" SellPrice="-1" />
+	<Item Name="Siege Potion"					Cat="14" Index="7"   Level="1"  Grade="-1" BuyPrice="450000" SellPrice="-1" />
+	<Item Name="Ale"							Cat="14" Index="9"   Level="1"  Grade="-1" BuyPrice="750" SellPrice="-1" />
+	<Item Name="Jewel of Bless"					Cat="14" Index="13"  Level="-1" Grade="-1" BuyPrice="9000000" SellPrice="-1" />
+	<Item Name="Jewel of Soul"					Cat="14" Index="14"  Level="-1" Grade="-1" BuyPrice="6000000" SellPrice="-1" />
+	<Item Name="Jewel of Life"					Cat="14" Index="16"  Level="-1" Grade="-1" BuyPrice="45000000" SellPrice="-1" />
+	<Item Name="Devil's Eye 1"					Cat="14" Index="17"  Level="1"  Grade="-1" BuyPrice="10000" SellPrice="-1" />
+	<Item Name="Devil's Eye 2"					Cat="14" Index="17"  Level="2"  Grade="-1" BuyPrice="50000" SellPrice="-1" />
+	<Item Name="Devil's Eye 3"					Cat="14" Index="17"  Level="3"  Grade="-1" BuyPrice="100000" SellPrice="-1" />
+	<Item Name="Devil's Eye 4"					Cat="14" Index="17"  Level="4"  Grade="-1" BuyPrice="300000" SellPrice="-1" />
+	<Item Name="Devil's Eye 5"					Cat="14" Index="17"  Level="5"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Devil's Eye 6"					Cat="14" Index="17"  Level="6"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Devil's Eye 7"					Cat="14" Index="17"  Level="7"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Devil's Key 1"					Cat="14" Index="18"  Level="1"  Grade="-1" BuyPrice="10000" SellPrice="-1" />
+	<Item Name="Devil's Key 2"					Cat="14" Index="18"  Level="2"  Grade="-1" BuyPrice="50000" SellPrice="-1" />
+	<Item Name="Devil's Key 3"					Cat="14" Index="18"  Level="3"  Grade="-1" BuyPrice="100000" SellPrice="-1" />
+	<Item Name="Devil's Key 4"					Cat="14" Index="18"  Level="4"  Grade="-1" BuyPrice="300000" SellPrice="-1" />
+	<Item Name="Devil's Key 5"					Cat="14" Index="18"  Level="5"  Grade="-1" BuyPrice="500000" SellPrice="-1" />
+	<Item Name="Devil's Key 6"					Cat="14" Index="18"  Level="6"  Grade="-1" BuyPrice="800000" SellPrice="-1" />
+	<Item Name="Devil's Key 7"					Cat="14" Index="18"  Level="7"  Grade="-1" BuyPrice="1000000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 1"			Cat="14" Index="19"  Level="1"  Grade="-1" BuyPrice="60000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 2"			Cat="14" Index="19"  Level="2"  Grade="-1" BuyPrice="84000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 3"			Cat="14" Index="19"  Level="3"  Grade="-1" BuyPrice="120000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 4"			Cat="14" Index="19"  Level="4"  Grade="-1" BuyPrice="180000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 5"			Cat="14" Index="19"  Level="5"  Grade="-1" BuyPrice="240000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 6"			Cat="14" Index="19"  Level="6"  Grade="-1" BuyPrice="300000" SellPrice="-1" />
+	<Item Name="Devil's Invitation 7"			Cat="14" Index="19"  Level="7"  Grade="-1" BuyPrice="180000" SellPrice="-1" />
+	<Item Name="Remedy of Love"					Cat="14" Index="20"  Level="-1" Grade="-1" BuyPrice="900" SellPrice="-1" />
+	<Item Name="Rena"							Cat="14" Index="21"  Level="0"  Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Mark of Lord"					Cat="14" Index="21"  Level="3"  Grade="-1" BuyPrice="3900" SellPrice="-1" />
+	<Item Name="Jewel of Creation"				Cat="14" Index="22"  Level="-1" Grade="-1" BuyPrice="36000000" SellPrice="-1" />
+	<Item Name="Scroll of the Emperor"			Cat="14" Index="23"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Broken Sword"					Cat="14" Index="24"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Tear of Elf"					Cat="14" Index="25"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Soul Shard of Wizard"			Cat="14" Index="26"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Lost Map"						Cat="14" Index="28"  Level="-1" Grade="-1" BuyPrice="600000" SellPrice="-1" />
+	<Item Name="Symbol of Kundun"				Cat="14" Index="29"  Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Jewel of Guardian"				Cat="14" Index="31"  Level="-1" Grade="-1" BuyPrice="60000000" SellPrice="-1" />
+	<Item Name="Small SD Potion"				Cat="14" Index="35"  Level="-1" Grade="-1" BuyPrice="2000" SellPrice="-1" />
+	<Item Name="SD Potion"						Cat="14" Index="36"  Level="-1" Grade="-1" BuyPrice="4000" SellPrice="-1" />
+	<Item Name="Large SD Potion"				Cat="14" Index="37"  Level="-1" Grade="-1" BuyPrice="6000" SellPrice="-1" />
+	<Item Name="Small Complex Potion"			Cat="14" Index="38"  Level="-1" Grade="-1" BuyPrice="2500" SellPrice="-1" />
+	<Item Name="Complex Potion"					Cat="14" Index="39"  Level="-1" Grade="-1" BuyPrice="5000" SellPrice="-1" />
+	<Item Name="Large Complex Potion"			Cat="14" Index="40"  Level="-1" Grade="-1" BuyPrice="7500" SellPrice="-1" />
+	<Item Name="Pumpkin of Luck"				Cat="14" Index="45"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Jack O'Lantern Blessings"		Cat="14" Index="46"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Jack O'Lantern Wrath"			Cat="14" Index="47"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Jack O'Lantern Cry"				Cat="14" Index="48"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Jack O'Lantern Food"			Cat="14" Index="49"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Jack O'Lantern Drink"			Cat="14" Index="50"  Level="-1" Grade="-1" BuyPrice="150" SellPrice="-1" />
+	<Item Name="Chistmas Star"					Cat="14" Index="51"  Level="-1" Grade="-1" BuyPrice="200000" SellPrice="-1" />
+	<Item Name="Green Chaos Box"				Cat="14" Index="55"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Red Chaos Box"					Cat="14" Index="56"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Purple Chaos Box"				Cat="14" Index="57"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Firecracker"					Cat="14" Index="63"  Level="-1" Grade="-1" BuyPrice="200000" SellPrice="-1" />
+	<Item Name="Cursed Castle Water"			Cat="14" Index="64"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Death-beam Knight Flame"		Cat="14" Index="65"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Hell-Miner Horn"				Cat="14" Index="66"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Dark Phoenix Feather"			Cat="14" Index="67"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Abyssal Eye"					Cat="14" Index="68"  Level="-1" Grade="-1" BuyPrice="9000" SellPrice="-1" />
+	<Item Name="Cherry Blossom Wine"			Cat="14" Index="85"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Cherry Blossom Rice Cake"		Cat="14" Index="86"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Cherry Blossom Flower Petal"	Cat="14" Index="87"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="White Cherry Blossom Branch"	Cat="14" Index="88"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Red Cherry Blossom Branch"		Cat="14" Index="89"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Golden Cherry Blossom Branch"	Cat="14" Index="90"  Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Lucky Coin"						Cat="14" Index="100" Level="-1" Grade="-1" BuyPrice="300" SellPrice="-1" />
+	<Item Name="Suspicious Scrap of Paper"		Cat="14" Index="101" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Gaion's Order"					Cat="14" Index="102" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="First Secromicon Fragment"		Cat="14" Index="103" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Second Secromicon Fragment"		Cat="14" Index="104" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Third Secromicon Fragment"		Cat="14" Index="105" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Fourth Secromicon Fragment"		Cat="14" Index="106" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Fifth Secromicon Fragment"		Cat="14" Index="107" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Sixth Secromicon Fragment"		Cat="14" Index="108" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Complete Secromicon"			Cat="14" Index="109" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Sign of Dimensions"				Cat="14" Index="110" Level="-1" Grade="-1" BuyPrice="30000" SellPrice="-1" />
+	<Item Name="Mirror of Dimensions"			Cat="14" Index="111" Level="-1" Grade="-1" BuyPrice="600000" SellPrice="-1" />
+	<Item Name="Silver Key"						Cat="14" Index="112" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Golden Key"						Cat="14" Index="113" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Sealed Golden Box"				Cat="14" Index="121" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Sealed Silver Box"				Cat="14" Index="122" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Golden Box"						Cat="14" Index="123" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Silver Box"						Cat="14" Index="124" Level="-1" Grade="-1" BuyPrice="3000" SellPrice="-1" />
+	<Item Name="Shining Jewelry Case"			Cat="14" Index="141" Level="-1" Grade="-1" BuyPrice="672000" SellPrice="-1" />
+	<Item Name="Elegant Jewelry Case"			Cat="14" Index="142" Level="-1" Grade="-1" BuyPrice="546000" SellPrice="-1" />
+	<Item Name="Steel Jewelry Case"				Cat="14" Index="143" Level="-1" Grade="-1" BuyPrice="471000" SellPrice="-1" />
+	<Item Name="Old Jewelry Case"				Cat="14" Index="144" Level="-1" Grade="-1" BuyPrice="363000" SellPrice="-1" />
+</ItemValue>
+
+<ItemValueCoin>
+	<Item Name="WCoinC Package 1"				Cat="14" Index="200" Level="-1" WCoinC="1" WCoinP="0" GoblinPoint="0" />
+	<Item Name="WCoinC Package 10"				Cat="14" Index="201" Level="-1" WCoinC="10" WCoinP="0" GoblinPoint="0" />
+	<Item Name="WCoinC Package 100"				Cat="14" Index="202" Level="-1" WCoinC="100" WCoinP="0" GoblinPoint="0" />
+	<Item Name="WCoinC Package 1000"			Cat="14" Index="203" Level="-1" WCoinC="1000" WCoinP="0" GoblinPoint="0" />
+	<Item Name="WCoinP Package 1"				Cat="14" Index="204" Level="-1" WCoinC="0" WCoinP="1" GoblinPoint="0" />
+	<Item Name="WCoinP Package 10"				Cat="14" Index="205" Level="-1" WCoinC="0" WCoinP="10" GoblinPoint="0" />
+	<Item Name="WCoinP Package 100"				Cat="14" Index="206" Level="-1" WCoinC="0" WCoinP="100" GoblinPoint="0" />
+	<Item Name="WCoinP Package 1000"			Cat="14" Index="207" Level="-1" WCoinC="0" WCoinP="1000" GoblinPoint="0" />
+	<Item Name="GoblinPoint Package 1"			Cat="14" Index="208" Level="-1" WCoinC="0" WCoinP="0" GoblinPoint="1" />
+	<Item Name="GoblinPoint Package 10"			Cat="14" Index="209" Level="-1" WCoinC="0" WCoinP="0" GoblinPoint="10" />
+	<Item Name="GoblinPoint Package 100"		Cat="14" Index="210" Level="-1" WCoinC="0" WCoinP="0" GoblinPoint="100" />
+	<Item Name="GoblinPoint Package 1000"		Cat="14" Index="211" Level="-1" WCoinC="0" WCoinP="0" GoblinPoint="1000" />
+</ItemValueCoin>

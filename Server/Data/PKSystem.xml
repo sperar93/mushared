@@ -1,0 +1,41 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### PKItemDrop::PK ###
+//	Level: Level of PK, do not change the configuration of Level attribute
+//	ItemLoseRateOnMonsterKill: Chance of dropping off part of equipment on being killed by Monster at specified PK Level, 0-100 (%)
+//	ItemLoseRateOnPlayerKill: Chance of dropping off part of equipment on being killed by Player at specified PK Level, 0-100 (%)
+//	ItemMinLevel: Item of level minimum to the value will not drop off from the PK upon kill, 0-15
+//	ItemMaxLevel: Item of level above to the value will not drop off from the PK upon kill, 0-15
+//	DropExc: Defines whether to drop excellent items off from PK upon kill, 0/1
+//	DropSet: Defines whether to drop ancient items off from PK upon kill, 0/1
+//	DropSocket: Defines whether to drop socket items off from PK upon kill, 0/1
+//	DropHarmony: Defines whether to drop harmony items off from PK upon kill, 0/1
+//
+// ### PKSafeZone::Rule ###
+//	MapNumber: Number of the map where the rule applies
+//	StartPosX: Start range X to apply the rule
+//	StartPosY: Start range Y to apply the rule
+//	EndPosX: End range X to apply the rule
+//	EndPosY: End range X to apply the rule
+//	Description: Used for in-file, log and tools description purpose
+-->
+
+<PKItemDrop>
+	<PK Level="4" ItemLoseRateOnMonsterKill="10" ItemLoseRateOnPlayerKill="25" ItemMinLevel="0" ItemMaxLevel="9" DropExc="1" DropSet="0" DropSocket="0" DropHarmony="0" />
+	<PK Level="5" ItemLoseRateOnMonsterKill="20" ItemLoseRateOnPlayerKill="35" ItemMinLevel="0" ItemMaxLevel="11" DropExc="1" DropSet="1" DropSocket="0" DropHarmony="0" />
+	<PK Level="6" ItemLoseRateOnMonsterKill="30" ItemLoseRateOnPlayerKill="45" ItemMinLevel="0" ItemMaxLevel="13" DropExc="1" DropSet="1" DropSocket="1" DropHarmony="0" />
+	<PK Level="7" ItemLoseRateOnMonsterKill="40" ItemLoseRateOnPlayerKill="55" ItemMinLevel="0" ItemMaxLevel="15" DropExc="1" DropSet="1" DropSocket="1" DropHarmony="1" />
+</PKItemDrop>
+
+<PKSafeZone>
+	<Rule MapNumber="0" StartPosX="176" StartPosY="120" EndPosX="180" EndPosY="130" Description="Lorencia Exit"/>
+</PKSafeZone>

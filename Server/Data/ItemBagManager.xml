@@ -1,0 +1,158 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### ItemBagManager::Bag ###
+//	EventIndex: Index of event (Do not touch). (Only Event mode)
+//	EventIndex="-1" ItemCat: Category of an item - refer to 'Data\Item\ItemList.xml' (Only ItemBag mode)
+//	ItemIndex: Index of an Item - refer to 'Data\Item\ItemList.xml' (Only ItemBag mode)
+//	ItemLevel: Level of an item, 0-15 (Use: -1 for all levels) (Only ItemBag mode)
+//	MonsterIndex: Index of monster, refer to 'Monster\MonsterList.xml' (Only MonsterBag mode)
+//	MonsterIndex="-1" FileName: Name of file located in '\Data\EventItemBag'
+-->
+
+<ItemBagManager>
+<!-- Events Bags -->
+	<Bag EventIndex="0" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="2" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="3" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="4" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="5" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(6)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="6" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(7)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="7" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_BloodCastle(8)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="8" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="9" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="10" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="11" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="12" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="13" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(6)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="14" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ChaosCastle(7)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="15" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="16" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="17" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="18" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="19" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="20" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_IllusionTemple(6)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="21" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordSilverChest(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="22" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordSilverChest(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="23" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordSilverChest(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="24" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordSilverChest(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="25" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordSilverChest(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="26" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordGoldenChest(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="27" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordGoldenChest(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="28" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordGoldenChest(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="29" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordGoldenChest(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="30" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_DoubleGordGoldenChest(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="31" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianSideBoss(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="32" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianSideBoss(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="33" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianSideBoss(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="34" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianSideBoss(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="35" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianSideBoss(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="36" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianMainBoss(1)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="37" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianMainBoss(2)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="38" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianMainBoss(3)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="39" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianMainBoss(4)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="40" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_ImperialGuardianMainBoss(5)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="41" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_Crywolf_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="42" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="NPC_(371)_LeoTheHelper_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="43" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="NPC_(465)_SantaClause_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="44" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_LuckyCoin(10)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="45" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_LuckyCoin(20)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="46" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_LuckyCoin(30)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="47" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_Senior_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="48" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_Cherry_Blossom_Red_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="49" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_Cherry_Blossom_White_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="50" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_Cherry_Blossom_Gold_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="51" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_ChaosCard_Reward.xml" />
+	<Bag EventIndex="52" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_ChaosCardGold_Reward.xml" />
+	<Bag EventIndex="53" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_ChaosCardRare_Reward.xml" />
+	<Bag EventIndex="54" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Mix_ChaosCardMini_Reward.xml" />
+	<Bag EventIndex="55" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Item_WarriorRing(40)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="56" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Item_WarriorRing(80)_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="57" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_Custom_Arena_Reward.xml" /> <!-- OK -->
+	<Bag EventIndex="58" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="-1" FileName="Event_Reward_Master_Reward.xml" /> <!-- OK -->
+<!-- Item Bags -->
+	<Bag EventIndex="-1" ItemCat="12" ItemIndex="32" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(12,32,0)_Red_Ribbon_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="12" ItemIndex="33" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(12,33,0)_Green_Ribbon_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="12" ItemIndex="34" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(12,34,0)_Blue_Ribbon_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="0" MonsterIndex="-1" FileName="Item_(14,11,0)_Box_Of_Luck.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="1" MonsterIndex="-1" FileName="Item_(14,11,1)_Star_Of_Christmas.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="2" MonsterIndex="-1" FileName="Item_(14,11,2)_Firecracker.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="3" MonsterIndex="-1" FileName="Item_(14,11,3)_Heart_Of_Love.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="5" MonsterIndex="-1" FileName="Item_(14,11,5)_Silven_Medal.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="6" MonsterIndex="-1" FileName="Item_(14,11,6)_Golden_Medal.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="7" MonsterIndex="-1" FileName="Item_(14,11,7)_Box_Of_Heaven.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="8" MonsterIndex="-1" FileName="Item_(14,11,8)_Box_Of_Kundun1.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="9" MonsterIndex="-1" FileName="Item_(14,11,9)_Box_Of_Kundun2.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="10" MonsterIndex="-1" FileName="Item_(14,11,10)_Box_Of_Kundun3.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="11" MonsterIndex="-1" FileName="Item_(14,11,11)_Box_Of_Kundun4.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="12" MonsterIndex="-1" FileName="Item_(14,11,12)_Box_Of_Kundun5.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="14" MonsterIndex="-1" FileName="Item_(14,11,14)_Luck_Blue_Pouch.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="11" ItemLevel="15" MonsterIndex="-1" FileName="Item_(14,11,15)_Luck_Red_Pouch.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="32" ItemLevel="0" MonsterIndex="-1" FileName="Item_(14,32,0)_Pink_Chocolate_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="32" ItemLevel="1" MonsterIndex="-1" FileName="Item_(14,32,1)_Lilac_Candy_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="33" ItemLevel="0" MonsterIndex="-1" FileName="Item_(14,33,0)_Red_Chocolate_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="33" ItemLevel="1" MonsterIndex="-1" FileName="Item_(14,33,1)_Orange_Candy_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="34" ItemLevel="0" MonsterIndex="-1" FileName="Item_(14,34,0)_Blue_Chocolate_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="34" ItemLevel="1" MonsterIndex="-1" FileName="Item_(14,34,1)_Navy_Candy_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="45" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,45,0)_Pumpkin_Of_Luck.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="52" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,52,0)_GM_Gift.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="55" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,55,0)_Green_Chaos_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="56" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,56,0)_Red_Chaos_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="57" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,57,0)_Purple_Chaos_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="84" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,84,0)_Cherry_Blossom_PlayBox.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="123" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,123,0)_Golden_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="124" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,124,0)_Silver_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="141" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,141,0)_Shiny_Jewelry_Case.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="142" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,142,0)_Elegant_Jewelry_Case.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="143" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,143,0)_Steel_Jewelry_Case.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="144" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,144,0)_Old_Jewelry_Case.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="157" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,157,0)_Green_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="158" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,158,0)_Red_Box.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="14" ItemIndex="159" ItemLevel="-1" MonsterIndex="-1" FileName="Item_(14,159,0)_Purple_Box.xml" /> <!-- OK -->
+	<!-- Monster Bags -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="42" FileName="Monster_(42)_Dragon_Red.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="43" FileName="Monster_(43)_Golden_Budge_Dragon.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="53" FileName="Monster_(53)_Golden_Titan.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="54" FileName="Monster_(54)_Golden_Soldier.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="55" FileName="Monster_(55)_Death_King.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="78" FileName="Monster_(78)_Golden_Goblin.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="79" FileName="Monster_(79)_Golden_Derkon.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="80" FileName="Monster_(80)_Golden_Lizard_King.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="81" FileName="Monster_(81)_Golden_Vepar.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="82" FileName="Monster_(82)_Golden_Tantalos.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="83" FileName="Monster_(83)_Golden_Iron_Wheel.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="135" FileName="Monster_(135)_White_Wizard.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="136" FileName="Monster_(136)_Orc_Soldier_Of_Doom.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="275" FileName="Monster_(275)_Kundun.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="295" FileName="Monster_(295)_Erohim.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="340" FileName="Monster_(340)_Dark_Elf.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="349" FileName="Monster_(349)_Balgass.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="361" FileName="Monster_(361)_Nightmare.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="362" FileName="Monster_(362)_Maya_Hand_Left.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="363" FileName="Monster_(363)_Maya_Hand_Right.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="365" FileName="Monster_(365)_Pouch_Of_Blessing.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="413" FileName="Monster_(413)_Lunnar_Rabbit.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="459" FileName="Monster_(459)_Selupan.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="463" FileName="Monster_(463)_Fire_Flame_Ghost.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="493" FileName="Monster_(493)_Golden_Dark_Knight.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="494" FileName="Monster_(494)_Golden_Devil.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="495" FileName="Monster_(495)_Golden_Stone_Golem.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="496" FileName="Monster_(496)_Golden_Crust.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="497" FileName="Monster_(497)_Golden_Satyros.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="498" FileName="Monster_(498)_Golden_Twin_Tail.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="499" FileName="Monster_(499)_Golden_Iron_Knight.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="500" FileName="Monster_(500)_Golden_Napin.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="501" FileName="Monster_(501)_Golden_Great_Dragon.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="502" FileName="Monster_(502)_Golden_Rabbit.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="560" FileName="Monster_(560)_Sapi_Queen.xml" /> <!-- OK -->
+	<Bag EventIndex="-1" ItemCat="-1" ItemIndex="-1" ItemLevel="-1" MonsterIndex="561" FileName="Monster_(561)_Medusa.xml" /> <!-- OK -->
+</ItemBagManager>

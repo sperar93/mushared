@@ -1,0 +1,27 @@
+-> Edit file "MainInfo.ini"
+
+-> Change CustomerName in line CustomerName
+-> Change IP in lines ServerIpAddress and MHPServerIpAddress use WAN or LAN IP
+
+-> Save File and close.
+
+-> Run GetMainInfo.exe.
+
+-> Copy ServerInfo.bmd and put in client "DATA\Local"
+-> Copy Main.dll, main.exe, MHPClient.dll, MHPVerify.dll, msvcp100.dll y msvcr100.dll in client folder.
+
+-> Run Main.exe
+======================================================================================================
+-> Editar el archivo "MainInfo.ini"
+
+-> Cambiar CustomerName en la linea CustomerName
+-> Cambiar IP in lineas ServerIpAddress y MHPServerIpAddress usar IP WAN o Local
+
+-> Guardar el archivo y cerrar
+
+-> Ejecutar GetMainInfo.exe
+
+-> Copiar ServerInfo.bmd y pegar en "Data\Local" del cliente
+-> Copiar Main.dll, main.exe, MHPClient.dll, MHPVerify.dll, msvcp100.dll y msvcr100.dll en la carpeta del cliente
+
+-> Ejecute Main.exe

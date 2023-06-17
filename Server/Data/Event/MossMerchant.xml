@@ -1,0 +1,140 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Schedule::Start ###
+//	Year: Start year of the event, -1 all years
+//	Month: Start month of the event, -1 all months, 1-12
+//	Day: Start day of the event, -1 all days, 1-31
+//	DayOfWeek:
+//			1: Sunday
+//			2: Monday
+//			3: Tuesday
+//			4: Wednesday
+//			5: Thursday
+//			6: Friday
+//			7: Saturday
+//			-1: All Days
+//	Hour: Start hour of the event, -1 All seconds, 0-23
+//	Minute: Start minute of the event, -1 All seconds, 0-59
+//	Second: Start second of the event, -1 All seconds, 0-59
+-->
+
+<Schedule>
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="08" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="00" Second="00" />
+	<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="00" Second="00" />
+</Schedule>
+
+<ItemList>
+<!-- Rate 1 -->
+	<!-- Sword/Mace/Spear -->
+	<Item Cat="0" Index="1"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Short Sword -->
+	<Item Cat="0" Index="4"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Sword of Assassin -->
+	<Item Cat="0" Index="6"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Gladius -->
+	<Item Cat="0" Index="7"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Falcon -->
+	<Item Cat="0" Index="8"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Serpent Sword -->
+	<Item Cat="0" Index="9"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Sword of Salamander -->
+	<!-- Staff -->
+	<Item Cat="5" Index="0"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Skill Staff -->
+	<Item Cat="5" Index="1"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Angelic Staff -->
+	<Item Cat="5" Index="2"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Serpent Staff -->
+	<!-- Bow/Crossbow -->
+	<Item Cat="4" Index="0"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Short Bow -->
+	<Item Cat="4" Index="1"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Bow -->
+	<Item Cat="4" Index="2"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Elven Bow -->
+	<Item Cat="4" Index="3"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- battle Bow -->
+	<!-- Scepter -->
+	<Item Cat="2" Index="8"  Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Battle Scepter -->
+	<Item Cat="2" Index="9"  Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Master Scepter -->
+	<!-- Stick -->
+	<Item Cat="5" Index="14" Type="4" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="4000" /> <!-- Mystery Stick -->
+<!-- Rate 2 -->
+	<!-- Sword/Mace/Spear -->
+	<Item Cat="0" Index="0"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Kris -->
+	<Item Cat="0" Index="2"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Rapier -->
+	<Item Cat="0" Index="3"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Katana -->
+	<Item Cat="0" Index="5"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Blade -->
+	<Item Cat="0" Index="10" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Light Saber -->
+	<Item Cat="0" Index="11" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Legendary Sword -->
+	<Item Cat="0" Index="12" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Helical Sword -->
+	<Item Cat="0" Index="13" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Double Blade -->
+	<Item Cat="0" Index="14" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Lighting Sword -->
+	<Item Cat="0" Index="15" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Giant Sword -->
+	<Item Cat="2" Index="3"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Great Hammer -->
+	<Item Cat="2" Index="4"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Crystal Morning Start -->
+	<Item Cat="2" Index="5"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Crystal Sword -->
+	<Item Cat="3" Index="7"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Berdysh -->
+	<Item Cat="3" Index="8"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Great Scythe -->
+	<Item Cat="3" Index="9"  Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Bill of Balrog -->
+	<!-- Staff -->
+	<Item Cat="5" Index="3"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Thunder Staff -->
+	<Item Cat="5" Index="4"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Gorgon Staff -->
+	<!-- Bow/Crossbow -->
+	<Item Cat="4" Index="4"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Tiger Bow -->
+	<Item Cat="4" Index="5"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Silver Bow -->
+	<Item Cat="4" Index="9"  Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Golden Crossbow -->
+	<Item Cat="4" Index="10" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Arquebus -->
+	<!-- Scepter -->
+	<Item Cat="2" Index="10" Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Great Scepter -->
+	<Item Cat="2" Index="11" Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Lord Scepter -->
+	<!-- Stick -->
+	<Item Cat="5" Index="15" Type="4" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Violet Wing Stick -->
+	<Item Cat="5" Index="16" Type="4" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="3000" /> <!-- Red Wing Stick -->
+<!-- Rate 3 -->
+	<!-- Sword/Mace/Spear -->
+	<Item Cat="3" Index="10" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Dragon Spear -->
+	<Item Cat="0" Index="16" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Sword of Destruction -->
+	<Item Cat="0" Index="17" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Dark Breaker -->
+	<Item Cat="0" Index="18" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Thunder Blade -->
+	<!-- Staff -->
+	<Item Cat="5" Index="5"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Legendary Staff -->
+	<Item Cat="5" Index="6"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Staff of Resurrection -->
+	<Item Cat="5" Index="8"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Staff of Destruction -->
+	<!-- Bow/Crossbow -->
+	<Item Cat="4" Index="11" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Light Crossbow -->
+	<Item Cat="4" Index="14" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Aquagold Crossbow -->
+	<Item Cat="4" Index="16" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Saint Crossbow -->
+	<Item Cat="4" Index="17" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Celestial Bow -->
+	<Item Cat="4" Index="19" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Great Reign Crossbow -->
+	<Item Cat="4" Index="20" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Arrow Viper Bow -->
+	<!-- Scepter -->
+	<Item Cat="2" Index="12" Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Great Lord Scepter -->
+	<!-- Stick -->
+	<Item Cat="5" Index="17" Type="4" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="25" SetOption="-1" SocketOption="-1" BuyRate="2000" /> <!-- Ancient Stick -->
+<!-- Rate 4 -->
+	<!-- Sword/Mace/Spear -->
+	<Item Cat="0" Index="20" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Knight Blade -->
+	<Item Cat="0" Index="21" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Dark Reign Blade -->
+	<Item Cat="0" Index="31" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Rune Blade -->
+	<Item Cat="0" Index="24" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Daybreak -->
+	<Item Cat="0" Index="25" Type="0" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Sword Dancer -->
+	<!-- Staff -->
+	<Item Cat="5" Index="9"  Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Dragon Soul Staff -->
+	<Item Cat="5" Index="11" Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Staff of Kundun -->
+	<Item Cat="5" Index="13" Type="1" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Platina Staff -->
+	<!-- Bow/Crossbow -->
+	<Item Cat="4" Index="22" Type="2" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Albatross Bow -->
+	<!-- Scepter -->
+	<Item Cat="2" Index="15" Type="3" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Shinning Scepter -->
+	<!-- Stick -->
+	<Item Cat="5" Index="18" Type="4" LevelOption="26" SkillOption="11" LuckOption="11" JoLOption="18" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="1000" /> <!-- Demonic Stick -->
+<!-- Rate 5 -->
+	<!-- Sword/Mace/Spear -->
+	<Item Cat="14" Index="96" Type="0" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="100" /> <!-- Talisman of Chaos Assembly -->
+	<!-- Staff -->
+	<Item Cat="14" Index="96" Type="1" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="100" /> <!-- Talisman of Chaos Assembly -->
+	<!-- Bow/Crossbow -->
+	<Item Cat="14" Index="96" Type="2" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="100" /> <!-- Talisman of Chaos Assembly -->
+	<!-- Scepter -->
+	<Item Cat="14" Index="96" Type="3" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="100" /> <!-- Talisman of Chaos Assembly -->
+	<!-- Stick -->
+	<Item Cat="14" Index="96" Type="4" LevelOption="-1" SkillOption="-1" LuckOption="-1" JoLOption="-1" ExcOption="-1" SetOption="-1" SocketOption="-1" BuyRate="100" /> <!-- Talisman of Chaos Assembly -->
+</ItemList>

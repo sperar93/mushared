@@ -1,0 +1,175 @@
+<KanturuEvent MoonStoneCheck="1">
+	<GeneralStates>
+		<Event State="0" SwitchType="0" Time="0" /> <!-- None -->
+		<Event State="1" SwitchType="0" Time="0" /> <!-- Battle Standby -->
+		<Event State="2" SwitchType="0" Time="0" /> <!-- Battle of Maya -->
+		<Event State="3" SwitchType="0" Time="0" /> <!-- Battle of NightMare -->
+		<Event State="4" SwitchType="0" Time="0" /> <!-- Tower of Refinement -->
+		<Event State="5" SwitchType="1" Time="0" /> <!-- End -->
+	</GeneralStates>
+	
+	<BattleStandBy>
+		<State>
+			<Cycle State="0" SwitchType="0" Time="0" />		<!-- None -->
+			<Cycle State="1" SwitchType="1" Time="1140" />	<!-- Start -->
+			<Cycle State="2" SwitchType="1" Time="60" />	<!-- Notify -->
+			<Cycle State="3" SwitchType="0" Time="0" />		<!-- End -->
+		</State>
+	</BattleStandBy>
+	
+	<BattleOfMaya IceStormCastRate="60">
+		<State>
+			<Cycle State="0"  SwitchType="0" Time="0" />	<!-- None -->
+			<Cycle State="1"  SwitchType="1" Time="120" />	<!-- Stanby1 -->
+			<Cycle State="2"  SwitchType="1" Time="15" />	<!-- Notify -->
+			<Cycle State="3"  SwitchType="0" Time="0" />	<!-- Start1 -->
+			<Cycle State="4"  SwitchType="0" Time="0" />	<!-- Maya1 -->
+			<Cycle State="5"  SwitchType="1" Time="5" />	<!-- End Maya1 -->
+			<Cycle State="6"  SwitchType="1" Time="3" />	<!-- End-cycle -->
+			<Cycle State="7"  SwitchType="1" Time="60" />	<!-- Stanby2 -->
+			<Cycle State="8"  SwitchType="0" Time="0" />	<!-- Start2 -->
+			<Cycle State="9"  SwitchType="0" Time="0" />	<!-- Maya2 -->
+			<Cycle State="10" SwitchType="1" Time="5" />	<!-- End Maya2 -->
+			<Cycle State="11" SwitchType="1" Time="3" />	<!-- End-cycle -->
+			<Cycle State="12" SwitchType="1" Time="120" />	<!-- Stanby3 -->
+			<Cycle State="13" SwitchType="0" Time="0" />	<!-- Start3 -->
+			<Cycle State="14" SwitchType="0" Time="0" />	<!-- Maya3 -->
+			<Cycle State="15" SwitchType="1" Time="5" />	<!-- End Maya3 -->
+			<Cycle State="16" SwitchType="1" Time="10" />	<!-- End-cycle -->
+			<Cycle State="17" SwitchType="1" Time="3" />	<!-- End -->
+			<Cycle State="18" SwitchType="0" Time="0" />	<!-- End-cycle -->
+		</State>
+		
+		<BattleTimes>
+			<Battle Type="0" SwitchType="1" Time="900" />	<!-- First Battle, one hand -->
+			<Battle Type="1" SwitchType="1" Time="900" />	<!-- Second Battle, second hand-->
+			<Battle Type="2" SwitchType="1" Time="1200" />	<!-- Third Battle, both hands -->
+		</BattleTimes>
+		
+		<AISettings LeftHand="20" RightHand="21" Hands="22">
+			<AI Change="1" Time="3" />
+			<AI Change="2" Time="60" />
+			<AI Change="3" Time="60" />
+			<AI Change="4" Time="900" />
+		</AISettings>
+	</BattleOfMaya>
+	
+	<BattleOfNightMare AIGroup="23">
+		<State>
+			<Cycle State="0" SwitchType="0" Time="0" />		<!-- None -->
+			<Cycle State="1" SwitchType="1" Time="5" />		<!-- Idle -->
+			<Cycle State="2" SwitchType="1" Time="10" />	<!-- Notify -->
+			<Cycle State="3" SwitchType="1" Time="1200" />	<!-- Start -->
+			<Cycle State="4" SwitchType="1" Time="5" />		<!-- End -->
+			<Cycle State="5" SwitchType="0" Time="0" />		<!-- End-Cycle -->
+		</State>
+	</BattleOfNightMare>
+	
+	<TowerOfRefinement>
+		<State>
+			<Cycle State="0" SwitchType="0" Time="0" />		<!-- None -->
+			<Cycle State="1" SwitchType="1" Time="82500" />	<!-- Revitalization -->
+			<Cycle State="2" SwitchType="1" Time="300" />	<!-- Notify -->
+			<Cycle State="3" SwitchType="1" Time="2220" />	<!-- Close -->
+			<Cycle State="4" SwitchType="1" Time="180" />	<!-- Notify -->
+			<Cycle State="5" SwitchType="1" Time="5" />		<!-- End -->
+		</State>
+	</TowerOfRefinement>
+	
+	<MonsterList>
+	<!-- Battle of Maya - first stage -->
+		<Spawn Group="0" MonsterIndex="364" MapNumber="39" Distance="0"  StartX="188" StartY="110" Direction="-1" Name="Maya" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="176" StartY="66" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="176" StartY="69" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="176" StartY="72" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="179" StartY="67" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="179" StartY="71" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="211" StartY="65" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="211" StartY="68" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="211" StartY="71" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="213" StartY="67" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="213" StartY="70" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="196" StartY="73" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="199" StartY="73" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="202" StartY="73" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="190" StartY="72" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="187" StartY="72" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="203" StartY="68" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="200" StartY="84" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="203" StartY="84" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="181" StartY="81" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="184" StartY="81" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="191" StartY="60" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="179" StartY="79" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="182" StartY="79" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="185" StartY="79" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="199" StartY="81" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="202" StartY="81" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="196" StartY="84" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="196" StartY="60" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="186" StartY="60" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="354" MapNumber="39" Distance="30" StartX="191" StartY="67" Direction="-1" Name="Blade Hunter" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="177" StartY="60" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="177" StartY="60" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="193" StartY="83" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="191" StartY="83" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="207" StartY="86" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="214" StartY="78" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="209" StartY="59" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="193" StartY="67" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="189" StartY="67" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="0" MonsterIndex="360" MapNumber="39" Distance="30" StartX="189" StartY="83" Direction="-1" Name="Dreadfear" />
+	<!-- Battle of Maya - second stage -->
+		<Spawn Group="1" MonsterIndex="364" MapNumber="39" Distance="0"  StartX="188" StartY="110" Direction="-1" Name="Maya" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="178" StartY="60" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="178" StartY="64" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="177" StartY="80" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="179" StartY="83" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="179" StartY="83" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="179" StartY="83" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="214" StartY="78" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="214" StartY="75" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="213" StartY="65" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="210" StartY="62" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="187" StartY="72" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="359" MapNumber="39" Distance="30" StartX="195" StartY="72" Direction="-1" Name="Twin Tail" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="176" StartY="72" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="189" StartY="84" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="197" StartY="84" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="192" StartY="81" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="213" StartY="70" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="203" StartY="72" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="192" StartY="58" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="1" MonsterIndex="360" MapNumber="39" Distance="30" StartX="200" StartY="58" Direction="-1" Name="Dreadfear" />
+	<!-- Nightmare Battle -->
+		<Spawn Group="2" MonsterIndex="360" MapNumber="39" Distance="30" StartX="78" StartY="115" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="2" MonsterIndex="360" MapNumber="39" Distance="30" StartX="80" StartY="100" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="2" MonsterIndex="360" MapNumber="39" Distance="30" StartX="79" StartY="127" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="2" MonsterIndex="360" MapNumber="39" Distance="30" StartX="81" StartY="127" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="2" MonsterIndex="358" MapNumber="39" Distance="30" StartX="76" StartY="136" Direction="-1" Name="Persona" />
+		<Spawn Group="2" MonsterIndex="358" MapNumber="39" Distance="30" StartX="80" StartY="136" Direction="-1" Name="Persona" />
+		<Spawn Group="2" MonsterIndex="358" MapNumber="39" Distance="30" StartX="86" StartY="127" Direction="-1" Name="Persona" />
+		<Spawn Group="2" MonsterIndex="358" MapNumber="39" Distance="30" StartX="87" StartY="114" Direction="-1" Name="Persona" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="78" StartY="98" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="84" StartY="99" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="75" StartY="111" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="78" StartY="111" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="81" StartY="111" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="84" StartY="111" Direction="-1" Name="Genocider" />
+		<Spawn Group="2" MonsterIndex="357" MapNumber="39" Distance="30" StartX="79" StartY="122" Direction="-1" Name="Genocider" />
+	<!-- Maya Left Hand Battle -->
+		<Spawn Group="3" MonsterIndex="364" MapNumber="39" Distance="0"  StartX="188" StartY="110" Direction="-1" Name="Maya" />
+	<!-- Maya Right Hand Battle -->
+		<Spawn Group="4" MonsterIndex="364" MapNumber="39" Distance="0"  StartX="188" StartY="110" Direction="-1" Name="Maya" />
+	<!-- Maya Two Hands Battle -->
+		<Spawn Group="5" MonsterIndex="364" MapNumber="39" Distance="0"  StartX="188" StartY="110" Direction="-1" Name="Maya" />
+	<!-- Nightmare Summon Monsters -->
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="75" StartY="111" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="82" StartY="111" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="79" StartY="115" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="77" StartY="133" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="81" StartY="133" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="79" StartY="128" Direction="-1" Name="Dreadfear" />
+		<Spawn Group="6" MonsterIndex="360" MapNumber="39" Distance="30" StartX="77" StartY="121" Direction="-1" Name="Dreadfear" />
+	</MonsterList>
+</KanturuEvent>

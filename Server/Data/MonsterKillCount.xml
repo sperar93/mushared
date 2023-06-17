@@ -1,0 +1,27 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+//	The deaths are saved in dbo.MonsterKillCount.
+-->
+
+<MonsterKillCount EnableFeature="1" >
+	<Monster Index="338" Name="Illusion of Kundun" >
+		<Reward Count="10" Money="0" WCoinC="0" WCoinP="0" GoblinPoint="0" Description="[New achievement] You killed 10 Illusion of Kundun." >
+			<Item Cat="12" Index="15" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Duration="0" />
+		</Reward>
+		<Reward Count="20" Money="0" WCoinC="0" WCoinP="0" GoblinPoint="0" Description="[New achievement] You killed 20 Illusion of Kundun." >
+			<Item Cat="14" Index="13" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Duration="0" />
+		</Reward>
+		<Reward Count="30" Money="0" WCoinC="0" WCoinP="0" GoblinPoint="0" Description="[New achievement] You killed 30 Illusion of Kundun." >
+			<Item Cat="14" Index="14" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Duration="0" />
+		</Reward>
+	</Monster>
+</MonsterKillCount>

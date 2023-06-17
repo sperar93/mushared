@@ -1,0 +1,51 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### GiftSystem::Gift ###
+//	Index: Number to identify the gift in the database. [dbo.GiftSystem.Id]
+//	Code: Example gift code /gift <Code>  (Max 32 Char)
+//	MinLevel: Start range of level to obtain the gift, -1 all levels
+//	MaxLevel: End range of level to obtain the gift, -1 all levels
+//	MinReset: Start range of reset count to obtain the gift, -1 all reset
+//	MaxReset: End range of reset count to obtain the gift, -1 all reset
+//	AccountLevel: Level of account that will get the gift, -1 all account levels
+//	Repetitions: Number of times you can claim the gift, -1 No limit
+//
+// ### GiftSystem::Gift::Reward ###
+//	Points:
+//	Money:
+//	WCoinC:
+//	WCoinP:
+//	GoblinPoint:
+//
+// ### GiftSystem::Gift::ItemList ###
+//	Cat: Category of an item - refer to '\Item\ItemList.xml'
+//	Index: Index of an Item - refer to 'Item\ItemList.xml'
+//	Level: Level of an item, 0-15
+//	Durability: Durability of an item, 0-255 - NOTE: some Items max durability is lower than maximum possible of 255
+//	Skill: Apply skill to item, 0/1
+//	Luck: Apply Luck on item, 0/1
+//	Option: 0-7 (Opt * 4, example, Opt -> 7 * 4 = Item Option +28
+//	Exc:  0:  No Exc options, or sum of below values (63 - Full of Excellent):
+//	Set (item must be added to set items (ancients), otherwise option will be ignored:
+//	SocketCount: Count of Sockets for socket item, values: 0-5
+//	Duration: Time that the item will last, 0 has no limit.
+-->
+
+<GiftSystem>
+	<Gift Index="0" Code="beginner" MinLevel="-1" MaxLevel="-1" MinReset="-1" MaxReset="-1" AccountLevel="-1" Repetitions="1" >
+		<Reward Points="0" Money="0" WCoinC="0" WCoinP="0" GoblinPoint="0" />
+			
+		<ItemList>
+			<Item Cat="12" Index="15" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Duration="0" />
+		</ItemList>
+	</Gift>
+</GiftSystem>

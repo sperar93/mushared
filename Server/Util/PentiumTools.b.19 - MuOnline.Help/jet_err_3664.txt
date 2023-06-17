@@ -1,0 +1,182 @@
+
+JET RUNTIME HAS DETECTED UNRECOVERABLE ERROR #3 (system exception).
+Please, contact the vendor of the application.
+
+Exception 0xC0000005 (EXCEPTION_ACCESS_VIOLATION) at 0x9C41C1A (E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\jogl_qss.dll+0x1c1a)
+Failed to read memory at 0xc
+
+PID 3664, TID 15812
+
+Registers:
+
+  EAX = 0x0  EBX = 0x0
+  ECX = 0x0  EDX = 0x38C0000
+  ESI = 0x3A823C0  EDI = 0x440988
+  EBP = 0xE64F170  ESP = 0xE64F16C
+  EIP = 0x9C41C1A (E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\jogl_qss.dll+0x1c1a)
+
+Stack:
+
+  0xE64F16C:  0x0 0xE64F180 0x9C4D47D 0x440988
+  0xE64F17C:  0xCE52BECE 0xE64F1D4 0x7090ACD1 0x440988
+  0xE64F18C:  0xC0364F1A 0x281 0x440988 0x7090AC10
+  0xE64F19C:  0x440988 0x0 0x77D55E4E 0x2
+
+Version Information:
+
+  Java version: 1.6.0_18
+  Excelsior JET 7.00 Professional edition
+  Build info: RT: Professional edition, build jet-700-mp2 (Mon Apr 12 14:26:10 NOVST 2010)
+  JET Profile: 1.6.0_18
+  Runtime: Desktop
+  Application was deployed
+
+Options and system properties:
+
+  -Djet.jit.fast=
+  -Djet.gc.heaplimit=1073741824
+
+Entry point type: exe/splash (Java 6)
+
+Command line: "E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\PentiumTools.b.19.exe" 
+
+OS: Unknown Windows NT 6.2 build 9200
+
+Process Modules:
+
+0x400000 - 0x3435000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\PentiumTools.b.19.exe
+0x77d10000 - 0x77eb4000     C:\Windows\SYSTEM32\ntdll.dll
+0x76cf0000 - 0x76de0000     C:\Windows\System32\KERNEL32.DLL
+0x769d0000 - 0x76c0a000     C:\Windows\System32\KERNELBASE.dll
+0x75b10000 - 0x75bb0000     C:\Windows\SYSTEM32\apphelp.dll
+0x76330000 - 0x764cc000     C:\Windows\System32\user32.dll
+0x76cd0000 - 0x76ce8000     C:\Windows\System32\win32u.dll
+0x76590000 - 0x765b4000     C:\Windows\System32\GDI32.dll
+0x75cb0000 - 0x75d95000     C:\Windows\System32\gdi32full.dll
+0x77b90000 - 0x77c0b000     C:\Windows\System32\msvcp_win.dll
+0x766d0000 - 0x767f0000     C:\Windows\System32\ucrtbase.dll
+0x76950000 - 0x769cc000     C:\Windows\System32\advapi32.dll
+0x764d0000 - 0x7658f000     C:\Windows\System32\msvcrt.dll
+0x76650000 - 0x766c6000     C:\Windows\System32\sechost.dll
+0x76ed0000 - 0x76f8f000     C:\Windows\System32\RPCRT4.dll
+0x75da0000 - 0x75e36000     C:\Windows\System32\oleaut32.dll
+0x75e80000 - 0x76100000     C:\Windows\System32\combase.dll
+0x76160000 - 0x76243000     C:\Windows\System32\ole32.dll
+0x76de0000 - 0x76e25000     C:\Windows\System32\shlwapi.dll
+0x5fa50000 - 0x5fa56000     C:\Windows\SYSTEM32\SHFolder.dll
+0x775c0000 - 0x77b76000     C:\Windows\System32\SHELL32.dll
+0x76c70000 - 0x76c95000     C:\Windows\System32\IMM32.DLL
+0x6f670000 - 0x6fc7d000     C:\Windows\SYSTEM32\windows.storage.dll
+0x6f610000 - 0x6f635000     C:\Windows\SYSTEM32\Wldp.dll
+0x77c10000 - 0x77c97000     C:\Windows\System32\SHCORE.dll
+0x6f500000 - 0x6f518000     C:\Windows\SYSTEM32\profapi.dll
+0x71d60000 - 0x71d6f000     C:\Windows\SYSTEM32\WTSAPI32.dll
+0x10000000 - 0x10021000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\splashscreen.dll
+0x66d0000 - 0x738f000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XKRN70018.dll
+0x72dc0000 - 0x72de8000     C:\Windows\SYSTEM32\WINMM.DLL
+0x7f00000 - 0x7f7e000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XJCE70018.dll
+0x7390000 - 0x7645000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XMNG70018.dll
+0x7650000 - 0x794b000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XMIS70018.dll
+0x7f80000 - 0x87d3000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XXML70018.dll
+0x7950000 - 0x79f7000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSQL70018.dll
+0x726f0000 - 0x72764000     C:\Windows\system32\uxtheme.dll
+0x7b90000 - 0x7d13000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSEC70018.dll
+0x7a00000 - 0x7a8b000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XPKC70018.dll
+0x76250000 - 0x76324000     C:\Windows\System32\MSCTF.dll
+0x9a00000 - 0x9c3b000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSWN70018.dll
+0x7e00000 - 0x7e95000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSND70018.dll
+0x87e0000 - 0x93fe000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XAWT70018.dll
+0x58e0000 - 0x5924000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XRMI70018.dll
+0x70330000 - 0x7033f000     C:\Windows\SYSTEM32\kernel.appcore.dll
+0x9c40000 - 0xa2fb000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\jogl_qss.dll
+0x76100000 - 0x7615f000     C:\Windows\System32\bcryptPrimitives.dll
+0xa300000 - 0xb176000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\info.dll
+0x6c6b0000 - 0x6c723000     C:\Windows\SYSTEM32\winspool.drv
+0x70890000 - 0x70aa0000     C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll
+0x71f20000 - 0x71f28000     C:\Windows\SYSTEM32\version.dll
+0x71080000 - 0x71094000     C:\Windows\SYSTEM32\netapi32.dll
+0x70c30000 - 0x70c3b000     C:\Windows\SYSTEM32\NETUTILS.DLL
+0x67090000 - 0x6714a000     C:\Windows\SYSTEM32\textinputframework.dll
+0x66af0000 - 0x66d6e000     C:\Windows\System32\CoreUIComponents.dll
+0x66d70000 - 0x66e0b000     C:\Windows\System32\CoreMessaging.dll
+0x765c0000 - 0x76623000     C:\Windows\System32\WS2_32.dll
+0x6f5e0000 - 0x6f609000     C:\Windows\SYSTEM32\ntmarta.dll
+0x68d20000 - 0x68dfb000     C:\Windows\SYSTEM32\wintypes.dll
+0x705e0000 - 0x70601000     C:\Windows\SYSTEM32\SspiCli.dll
+0x7b60000 - 0x7b65000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\jetvm\jvm.dll
+0x7c340000 - 0x7c396000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\msvcr71.dll
+0x7b70000 - 0x7b78000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\hpi.dll
+0x7da0000 - 0x7db1000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\java.dll
+0x7ee0000 - 0x7f00000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\zip.dll
+0xdf40000 - 0xe08b000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\awt.dll
+0x5bc00000 - 0x5be53000     C:\Windows\SYSTEM32\AcGenral.DLL
+0x6f190000 - 0x6f1a5000     C:\Windows\SYSTEM32\samcli.dll
+0x56660000 - 0x56679000     C:\Windows\SYSTEM32\MSACM32.dll
+0x71d30000 - 0x71d55000     C:\Windows\SYSTEM32\USERENV.dll
+0x727a0000 - 0x727c6000     C:\Windows\SYSTEM32\dwmapi.dll
+0x70610000 - 0x707b8000     C:\Windows\SYSTEM32\urlmon.dll
+0x72ee0000 - 0x72ef9000     C:\Windows\SYSTEM32\MPR.dll
+0x562f0000 - 0x5630d000     C:\Windows\SYSTEM32\winmmbase.dll
+0x70340000 - 0x7056d000     C:\Windows\SYSTEM32\iertutil.dll
+0x705c0000 - 0x705dd000     C:\Windows\SYSTEM32\srvcli.dll
+0xe850000 - 0xe8e8000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSSE70018.dll
+0x9500000 - 0x9513000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\net.dll
+0x6fe40000 - 0x6fe92000     C:\Windows\system32\mswsock.dll
+0x683d0000 - 0x683e1000     C:\Windows\system32\napinsp.dll
+0x683b0000 - 0x683c6000     C:\Windows\system32\pnrpnsp.dll
+0x683a0000 - 0x683b0000     C:\Windows\system32\wshbth.dll
+0x6f5c0000 - 0x6f5d6000     C:\Windows\system32\NLAapi.dll
+0x731c0000 - 0x731f3000     C:\Windows\SYSTEM32\IPHLPAPI.DLL
+0x73220000 - 0x732b1000     C:\Windows\SYSTEM32\DNSAPI.dll
+0x76ca0000 - 0x76ca7000     C:\Windows\System32\NSI.dll
+0x68390000 - 0x6839e000     C:\Windows\System32\winrnr.dll
+0x6fce0000 - 0x6fce8000     C:\Windows\System32\rasadhlp.dll
+0x6fc80000 - 0x6fcd9000     C:\Windows\System32\fwpuclnt.dll
+0x76630000 - 0x76649000     C:\Windows\System32\bcrypt.dll
+0x9530000 - 0x9549000     C:\Users\spera\AppData\Local\Temp\cc2933.tmp
+0x5bb60000 - 0x5bbfb000     C:\Windows\WinSxS\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9672_none_d08f9da24428a513\MSVCR80.dll
+0x77100000 - 0x7717e000     C:\Windows\System32\clbcatq.dll
+0x5bb20000 - 0x5bb5f000     C:\Windows\system32\wbem\wbemdisp.dll
+0x6edf0000 - 0x6ee60000     C:\Windows\SYSTEM32\wbemcomn.dll
+0x6ee60000 - 0x6ee6d000     C:\Windows\system32\wbem\wbemprox.dll
+0x52eb0000 - 0x52f37000     C:\Windows\SYSTEM32\sxs.dll
+0x694b0000 - 0x694cd000     C:\Windows\system32\wbem\wmiutils.dll
+0x6ede0000 - 0x6edf0000     C:\Windows\system32\wbem\wbemsvc.dll
+0x6e390000 - 0x6e459000     C:\Windows\system32\wbem\fastprox.dll
+0x6ca50000 - 0x6ca68000     C:\Windows\SYSTEM32\amsi.dll
+0x6c890000 - 0x6ca44000     C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 21.3\antimalware_provider.dll
+0xf370000 - 0xf3c4000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\fontmanager.dll
+0xfbd0000 - 0xfbf8000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\baseline700.dll
+0xfd90000 - 0xffdd000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\xjitb_j70018.dll
+0xfc40000 - 0xfc49000     E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\bin\nio.dll
+0x67be0000 - 0x67c11000     C:\Windows\system32\dataexchange.dll
+0x66910000 - 0x66af0000     C:\Windows\system32\d3d11.dll
+0x667a0000 - 0x66904000     C:\Windows\system32\dcomp.dll
+0x707c0000 - 0x70882000     C:\Windows\system32\dxgi.dll
+0x66e10000 - 0x66f9f000     C:\Windows\system32\twinapi.appcore.dll
+0x52ce0000 - 0x52d74000     C:\Windows\SYSTEM32\TextShaping.dll
+0x77b80000 - 0x77b86000     C:\Windows\System32\psapi.dll
+
+JET-compiled Components:
+
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XKRN70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XMNG70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XMIS70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XXML70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XJCE70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSQL70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XPKC70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSEC70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSND70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XRMI70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XAWT70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSWN70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\PentiumTools.b.19.exe: exe, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\XSSE70018.dll: dll, version info: jet-700-mp2 (pro, en)
+E:\VBM\Mu\MuServer_Season_6_Update_19\PentiumTools.b.19 - MuOnline.Help\rt\jetrt\xjitb_j70018.dll: dll, version info: jet-700-mp2 (pro, en)
+
+Java Stack Trace:
+
+  sun.awt.windows.WToolkit.eventLoop(Unknown Source)
+  sun.awt.windows.WToolkit.run(Unknown Source)
+  java.lang.Thread.run(Unknown Source)

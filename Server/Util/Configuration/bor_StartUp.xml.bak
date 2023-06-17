@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\01 - ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\02 - JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\03 - DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\04 - GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\05 - GameServerNo\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\06 - GameServerVIP\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\07 - GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\MuServer\00 - MHPServer\MHPServer.exe" Parameters="" />
+</Processes>

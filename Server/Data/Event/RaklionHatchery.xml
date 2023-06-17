@@ -1,0 +1,44 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<Time SelupanSkillHitDelay="1500" BossAppearance="5" BossZoneClose="300" EventStart="43200" />
+<EggCount Half="5" Max="15" />
+<SkillPatterns Pattern1="80" Pattern2="60" Pattern3="50" Pattern4="40" Pattern5="20" Pattern6="10" />
+
+<MonsterList>
+	<Monster Index="459" Distance="0" StartX="145" StartY="31" Dir="-1" /> <!-- Selupan -->
+	<Monster Index="460" Distance="0" StartX="141" StartY="27" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="461" Distance="0" StartX="141" StartY="28" Dir="0" /> <!-- Spider Eggs 2 -->
+	<Monster Index="462" Distance="0" StartX="142" StartY="28" Dir="0" /> <!-- Spider Eggs 3 -->
+	<Monster Index="460" Distance="0" StartX="146" StartY="34" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="462" Distance="0" StartX="147" StartY="34" Dir="0" /> <!-- Spider Eggs 3 -->
+	<Monster Index="461" Distance="0" StartX="146" StartY="33" Dir="0" /> <!-- Spider Eggs 2 -->
+	<Monster Index="460" Distance="0" StartX="152" StartY="31" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="460" Distance="0" StartX="152" StartY="30" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="461" Distance="0" StartX="151" StartY="30" Dir="0" /> <!-- Spider Eggs 2 -->
+	<Monster Index="462" Distance="0" StartX="146" StartY="29" Dir="0" /> <!-- Spider Eggs 3 -->
+	<Monster Index="462" Distance="0" StartX="146" StartY="30" Dir="0" /> <!-- Spider Eggs 3 -->
+	<Monster Index="461" Distance="0" StartX="147" StartY="29" Dir="0" /> <!-- Spider Eggs 2 -->
+	<Monster Index="460" Distance="0" StartX="145" StartY="24" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="460" Distance="0" StartX="144" StartY="24" Dir="0" /> <!-- Spider Eggs 1 -->
+	<Monster Index="461" Distance="0" StartX="144" StartY="25" Dir="0" /> <!-- Spider Eggs 2 -->	
+	<Monster Index="457" Distance="30" StartX="144" StartY="25" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="144" StartY="29" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="144" StartY="32" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="144" StartY="35" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="144" StartY="38" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="153" StartY="24" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="153" StartY="28" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="153" StartY="32" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="153" StartY="35" Dir="-1" /> <!-- Coolutin -->
+	<Monster Index="457" Distance="30" StartX="153" StartY="38" Dir="-1" /> <!-- Coolutin -->
+</MonsterList>

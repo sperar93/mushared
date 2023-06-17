@@ -1,0 +1,38 @@
+07:39:17 [SocketManager] Server started at port [44405]
+07:39:19 [ServerList] JoinServer online
+07:39:23 [ServerList] GameServer online (GameServer01) (0)
+07:39:26 [ServerList] GameServer online (GameServerCS) (19)
+07:43:53 [SocketManager] Server started at port [44405]
+07:43:55 [ServerList] JoinServer online
+07:43:59 [ServerList] GameServer online (GameServer01) (0)
+07:44:01 [ServerList] GameServer online (GameServerCS) (19)
+07:46:05 [SocketManager] Server started at port [44405]
+07:46:07 [ServerList] JoinServer online
+07:46:11 [ServerList] GameServer online (GameServer01) (0)
+07:46:12 [ServerList] GameServer online (GameServerCS) (19)
+07:48:35 [ServerList] JoinServer offline
+07:52:24 [SocketManager] Server started at port [44405]
+07:52:33 [ServerList] GameServer online (GameServer01) (0)
+07:52:39 [ServerList] GameServer online (GameServerCS) (19)
+08:00:13 [SocketManager] Server started at port [44405]
+08:00:23 [ServerList] GameServer online (GameServer01) (0)
+08:00:28 [ServerList] GameServer online (GameServerCS) (19)
+08:18:53 [SocketManager] Server started at port [44405]
+08:18:56 [ServerList] JoinServer online
+08:18:59 [ServerList] GameServer online (GameServer01) (0)
+08:19:01 [ServerList] GameServer online (GameServerCS) (19)
+08:36:57 [SocketManager] Server started at port [44405]
+08:49:19 [SocketManager] Server started at port [44405]
+08:49:21 [ServerList] JoinServer online
+08:49:55 [SocketManager] Server started at port [44405]
+08:49:58 [ServerList] JoinServer online
+08:50:01 [ServerList] GameServer online (GameServer01) (0)
+08:50:04 [ServerList] GameServer online (GameServer02) (1)
+08:50:06 [ServerList] GameServer online (GameServer03) (2)
+08:50:48 [ServerList] GameServer online (GameServerCS) (19)
+09:35:44 [SocketManager] Server started at port [44405]
+09:35:47 [ServerList] JoinServer online
+09:35:51 [ServerList] GameServer online (GameServer01) (0)
+09:35:54 [ServerList] GameServer online (GameServer02) (1)
+09:35:56 [ServerList] GameServer online (GameServer03) (2)
+09:35:58 [ServerList] GameServer online (GameServerCS) (19)

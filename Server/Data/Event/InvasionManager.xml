@@ -1,0 +1,399 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<InvasionManager>
+	<Invasion Index="0" Duration="600" Effect="0" BossMonsterIndex="055" Name="Skeleton King Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="16" Minute="13" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="10" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="10" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="10" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0"/>
+			<Set Group="0" MapNumber="3" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="55" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="56" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="1" Duration="600" Effect="1" BossMonsterIndex="042" Name="Red Dragon Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="10" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="10" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="10" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="01" Minute="10" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0"/>
+			<Set Group="0" MapNumber="2" Stage="0"/>
+			<Set Group="0" MapNumber="3" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="42" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="2" Duration="600" Effect="3" BossMonsterIndex="501" Name="Golden Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="20" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="20" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0"/>
+			<Set Group="1" MapNumber="2" Stage="0"/>
+			<Set Group="2" MapNumber="2" Stage="0"/>
+			<Set Group="3" MapNumber="3" Stage="0"/>
+			<Set Group="4" MapNumber="0" Stage="0"/>
+			<Set Group="4" MapNumber="2" Stage="0"/>
+			<Set Group="4" MapNumber="3" Stage="0"/>
+			<Set Group="4" MapNumber="51" Stage="0"/>
+			<Set Group="5" MapNumber="7" Stage="0"/>
+			<Set Group="6" MapNumber="7" Stage="0"/>
+			<Set Group="7" MapNumber="8" Stage="0"/>
+			<Set Group="8" MapNumber="8" Stage="0"/>
+			<Set Group="9" MapNumber="1" Stage="0"/>
+			<Set Group="10" MapNumber="4" Stage="0"/>
+			<Set Group="11" MapNumber="33" Stage="0"/>
+			<Set Group="12" MapNumber="10" Stage="0"/>
+			<Set Group="13" MapNumber="37" Stage="0"/>
+			<Set Group="14" MapNumber="38" Stage="0"/>
+			<Set Group="15" MapNumber="57" Stage="0"/>
+			<Set Group="16" MapNumber="56" Stage="0"/>
+			<Set Group="17" MapNumber="37" Stage="0"/>
+			<Set Group="17" MapNumber="57" Stage="0"/>
+			<Set Group="18" MapNumber="51" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="42" RegenType="0" RegenTime="0" />
+			<Set Group="1" MonsterIndex="53" RegenType="0" RegenTime="0" />
+			<Set Group="2" MonsterIndex="54" RegenType="0" RegenTime="0" />
+			<Set Group="3" MonsterIndex="78" RegenType="0" RegenTime="0" />
+			<Set Group="4" MonsterIndex="79" RegenType="0" RegenTime="0" />
+			<Set Group="5" MonsterIndex="80" RegenType="0" RegenTime="0" />
+			<Set Group="6" MonsterIndex="81" RegenType="0" RegenTime="0" />
+			<Set Group="7" MonsterIndex="82" RegenType="0" RegenTime="0" />
+			<Set Group="8" MonsterIndex="83" RegenType="0" RegenTime="0" />
+			<Set Group="9" MonsterIndex="493" RegenType="0" RegenTime="0" />
+			<Set Group="10" MonsterIndex="494" RegenType="0" RegenTime="0" />
+			<Set Group="11" MonsterIndex="495" RegenType="0" RegenTime="0" />
+			<Set Group="12" MonsterIndex="496" RegenType="0" RegenTime="0" />
+			<Set Group="13" MonsterIndex="497" RegenType="0" RegenTime="0" />
+			<Set Group="14" MonsterIndex="498" RegenType="0" RegenTime="0" />
+			<Set Group="15" MonsterIndex="499" RegenType="0" RegenTime="0" />
+			<Set Group="16" MonsterIndex="500" RegenType="0" RegenTime="0" />
+			<Set Group="17" MonsterIndex="501" RegenType="0" RegenTime="0" />
+			<Set Group="18" MonsterIndex="502" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="3" Duration="600" Effect="0" BossMonsterIndex="135" Name="White Wizard Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="40" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0"/>
+			<Set Group="0" MapNumber="2" Stage="0"/>
+			<Set Group="0" MapNumber="3" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="135" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="136" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="137" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="4" Duration="600" Effect="0" BossMonsterIndex="-1"  Name="New Year Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="0" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="4" Stage="0"/>
+			<Set Group="0" MapNumber="7" Stage="0"/>
+			<Set Group="0" MapNumber="8" Stage="0"/>
+			<Set Group="0" MapNumber="33" Stage="0"/>
+			<Set Group="0" MapNumber="37" Stage="0"/>
+			<Set Group="0" MapNumber="57" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="365" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="5" Duration="600" Effect="0" BossMonsterIndex="-1"  Name="Rabbits Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="40" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="01" Minute="40" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="4" Stage="0"/>
+			<Set Group="0" MapNumber="7" Stage="0"/>
+			<Set Group="0" MapNumber="8" Stage="0"/>
+			<Set Group="0" MapNumber="33" Stage="0"/>
+			<Set Group="0" MapNumber="37" Stage="0"/>
+			<Set Group="0" MapNumber="57" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="413" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="6" Duration="600" Effect="0" BossMonsterIndex="-1"  Name="Summon Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="06" Minute="50" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="12" Minute="50" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="18" Minute="50" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="00" Minute="50" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="4" Stage="0"/>
+			<Set Group="0" MapNumber="7" Stage="0"/>
+			<Set Group="0" MapNumber="8" Stage="0"/>
+			<Set Group="0" MapNumber="33" Stage="0"/>
+			<Set Group="0" MapNumber="37" Stage="0"/>
+			<Set Group="0" MapNumber="57" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="463" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="7" Duration="600" Effect="0" BossMonsterIndex="476" Name="Christmas Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="12" Day="-1" DayOfWeek="-1" Hour="-1" Minute="0" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="0" Stage="0"/>
+			<Set Group="0" MapNumber="2" Stage="0"/>
+			<Set Group="0" MapNumber="3" Stage="0"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="466" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="476" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+
+	<Invasion Index="8" Duration="600" Effect="0" BossMonsterIndex="561" Name="Medusa Invasion" >
+		<Schedule>
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="07" Minute="25" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="13" Minute="25" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="25" Second="0" />
+			<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="01" Minute="25" Second="0" />
+		</Schedule>
+		
+		<Group>
+			<Set Group="0" MapNumber="56" Stage="0"/>
+			<Set Group="0" MapNumber="56" Stage="1"/>
+			<Set Group="0" MapNumber="56" Stage="2"/>
+			<Set Group="0" MapNumber="56" Stage="3"/>
+		</Group>
+		
+		<Monster>
+			<Set Group="0" MonsterIndex="560" RegenType="0" RegenTime="0" />
+			<Set Group="0" MonsterIndex="561" RegenType="0" RegenTime="0" />
+		</Monster>
+	</Invasion>
+</InvasionManager>
+
+<InvasionMessages>
+	<StartMessage>
+		<Message InvasionIndex="0" Message="Skeleton King invasion has begun!" />
+		<Message InvasionIndex="1" Message="Invasion of Red Dragon started!" />
+		<Message InvasionIndex="2" Message="Golden Invasion has started!" />
+		<Message InvasionIndex="3" Message="Invasion of White Wizard started!" />
+		<Message InvasionIndex="4" Message="New Year invasion has begun!" />
+		<Message InvasionIndex="5" Message="Invasion of rabbits started!" />
+		<Message InvasionIndex="6" Message="Invasion of summer started!" />
+		<Message InvasionIndex="7" Message="Christmas invasion has begun!" />
+		<Message InvasionIndex="8" Message="Invasion of Medusa began!" />
+	</StartMessage>
+	
+	<EndMessage>
+		<Message InvasionIndex="7" Message="The invasion of Christmas ended!" />
+	</EndMessage>
+	
+	<KillBossMessage>
+		<Message InvasionIndex="0" Message="Player %s defeated Skeleton King!" />
+		<Message InvasionIndex="1" Message="Player %s defeated Red Dragon!" />
+		<Message InvasionIndex="2" Message="Player %s defeated Golden Great Dragon!" />
+		<Message InvasionIndex="3" Message="Player %s defeated White Wizard!" />
+		<Message InvasionIndex="7" Message="Player %s defeated Cursed Santa!" />
+		<Message InvasionIndex="8" Message="Player %s defeated Medusa!" />
+	</KillBossMessage>
+</InvasionMessages>
+
+<InvasionSpawn>
+	<Map Number="0" Name="Lorencia">
+		<!-- Skeleton King Invasion -->
+		<Spawn MonsterIndex="055" Distance="10" StartX="125" StartY="190" EndX="140" EndY="203" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="056" Distance="10" StartX="125" StartY="190" EndX="140" EndY="203" Dir="-1" Count="10" Stage="0" />
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="042" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="043" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<Spawn MonsterIndex="079" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- White Wizard Invasion -->
+		<Spawn MonsterIndex="135" Distance="10" StartX="148" StartY="047" EndX="164" EndY="065" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="136" Distance="10" StartX="148" StartY="047" EndX="164" EndY="065" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="137" Distance="10" StartX="148" StartY="047" EndX="164" EndY="065" Dir="-1" Count="10" Stage="0" />
+		<!-- Christmas Invasion -->
+		<Spawn MonsterIndex="466" Distance="10" StartX="175" StartY="127" EndX="191" EndY="129" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="476" Distance="10" StartX="175" StartY="127" EndX="191" EndY="129" Dir="-1" Count="01" Stage="0" />
+	</Map>
+	<Map Number="1" Name="Dungeon (1 ~ 3)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="493" Distance="30" StartX="002" StartY="052" EndX="043" EndY="125" Dir="-1" Count="03" Stage="0" />
+	</Map>
+	<Map Number="2" Name="Devias">
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="042" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="053" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<Spawn MonsterIndex="054" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<Spawn MonsterIndex="079" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- White Wizard Invasion -->
+		<Spawn MonsterIndex="135" Distance="10" StartX="158" StartY="012" EndX="167" EndY="024" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="136" Distance="10" StartX="158" StartY="012" EndX="167" EndY="024" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="137" Distance="10" StartX="158" StartY="012" EndX="167" EndY="024" Dir="-1" Count="10" Stage="0" />
+		<!-- Christmas Invasion -->
+		<Spawn MonsterIndex="466" Distance="10" StartX="220" StartY="082" EndX="224" EndY="084" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="476" Distance="10" StartX="220" StartY="082" EndX="224" EndY="084" Dir="-1" Count="01" Stage="0" />
+	</Map>
+	<Map Number="3" Name="Noria">
+		<!-- Skeleton King Invasion -->
+		<Spawn MonsterIndex="055" Distance="10" StartX="195" StartY="070" EndX="205" EndY="086" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="056" Distance="10" StartX="195" StartY="070" EndX="205" EndY="086" Dir="-1" Count="10" Stage="0" />
+		<!-- Red Dragon Invasion -->
+		<Spawn MonsterIndex="042" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="078" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<Spawn MonsterIndex="079" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- White Wizard Invasion -->
+		<Spawn MonsterIndex="135" Distance="10" StartX="194" StartY="070" EndX="204" EndY="086" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="136" Distance="10" StartX="194" StartY="070" EndX="204" EndY="086" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="137" Distance="10" StartX="194" StartY="070" EndX="204" EndY="086" Dir="-1" Count="10" Stage="0" />
+		<!-- Christmas Invasion -->
+		<Spawn MonsterIndex="466" Distance="10" StartX="158" StartY="079" EndX="166" EndY="081" Dir="-1" Count="10" Stage="0" />
+		<Spawn MonsterIndex="476" Distance="10" StartX="158" StartY="079" EndX="166" EndY="081" Dir="-1" Count="01" Stage="0" />
+	</Map>
+	<Map Number="4" Name="Lost Tower (1 ~ 7)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="494" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+	<Map Number="7" Name="Atlans (1 ~ 3)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="080" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<Spawn MonsterIndex="081" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+	<Map Number="8" Name="Tarkan (1 ~ 2)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="082" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<Spawn MonsterIndex="083" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+	<Map Number="33" Name="Aida (1 ~ 2)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="495" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+	<Map Number="37" Name="Kanturu Ruins">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="497" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<Spawn MonsterIndex="501" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+	<Map Number="38" Name="Kanturu 1 (Remain)">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="498" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+	</Map>
+	<Map Number="51" Name="Elbeland">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="502" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="05" Stage="0" />
+		<Spawn MonsterIndex="079" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+	</Map>
+	<Map Number="56" Name="Swamp of Calmness">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="500" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<!-- Medusa Invasion -->
+		<Spawn MonsterIndex="560" Distance="30" StartX="050" StartY="103" EndX="057" EndY="114" Dir="-1" Count="07" Stage="0" />
+		<Spawn MonsterIndex="560" Distance="30" StartX="127" StartY="162" EndX="136" EndY="171" Dir="-1" Count="07" Stage="1" />
+		<Spawn MonsterIndex="560" Distance="30" StartX="149" StartY="010" EndX="162" EndY="019" Dir="-1" Count="07" Stage="2" />
+		<Spawn MonsterIndex="560" Distance="30" StartX="178" StartY="114" EndX="184" EndY="129" Dir="-1" Count="07" Stage="3" />
+		<Spawn MonsterIndex="561" Distance="30" StartX="050" StartY="103" EndX="057" EndY="114" Dir="-1" Count="01" Stage="0" />
+		<Spawn MonsterIndex="561" Distance="30" StartX="127" StartY="162" EndX="136" EndY="171" Dir="-1" Count="01" Stage="1" />
+		<Spawn MonsterIndex="561" Distance="30" StartX="149" StartY="010" EndX="162" EndY="019" Dir="-1" Count="01" Stage="2" />
+		<Spawn MonsterIndex="561" Distance="30" StartX="178" StartY="114" EndX="184" EndY="129" Dir="-1" Count="01" Stage="3" />
+	</Map>
+	<Map Number="57" Name="Raklion">
+		<!-- Golden Invasion -->
+		<Spawn MonsterIndex="499" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="03" Stage="0" />
+		<Spawn MonsterIndex="501" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="01" Stage="0" />
+		<!-- New Year Invasion -->
+		<Spawn MonsterIndex="365" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Rabbits Invasion -->
+		<Spawn MonsterIndex="413" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+		<!-- Summon Invasion -->
+		<Spawn MonsterIndex="463" Distance="30" StartX="010" StartY="010" EndX="240" EndY="240" Dir="-1" Count="10" Stage="0" />
+	</Map>
+</InvasionSpawn>

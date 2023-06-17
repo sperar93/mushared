@@ -1,0 +1,39 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//
+// ### Settings ###
+//	MarlonTeleportTime: Time that will remain marlon in the same place.
+//
+// ### MarlonSpawn::Spawn ###
+//	MapNumber: Number of map to spawn the marlon on, refer to MapManager.xml
+//	StartX: StartX Coordinate of marlon spawn
+//	StartY: StartY Coordinate of marlon spawn
+//	Dir: Direction the marlon looks at after spawn
+//		~ 0: Central
+//		~ 1: South-West
+//		~ 2: South
+//		~ 3: South-East
+//		~ 4: East
+//		~ 5: North-East
+//		~ 6: North
+//		~ 7: North-West
+//		~ 8: West
+//		~ -1: Random
+-->
+
+<Settings MarlonTeleportTime="20" />
+
+<MarlonSpawn>
+	<Spawn MapNumber="0" StartX="137" StartY="087" Dir="1" />
+	<Spawn MapNumber="2" StartX="198" StartY="047" Dir="2" />
+	<Spawn MapNumber="3" StartX="169" StartY="089" Dir="2" />
+	<Spawn MapNumber="7" StartX="017" StartY="025" Dir="2" />
+</MarlonSpawn>

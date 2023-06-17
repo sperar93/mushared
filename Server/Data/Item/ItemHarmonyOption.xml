@@ -1,0 +1,488 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == SETEC SOFT DEVELOPMENT GROUP
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == MU Online Server Emulator 
+// == Version: Season 6 Episode 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == www.facebook.com/setecsoft
+// == Files developed by SetecSoft Group Argentina.
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<ItemHarmonyOption>
+	<Type Index="1" Description="Physical">
+		<Option Index="1" Name="Minimum Attack Damage Increase +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="2"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="3"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="4"  RequiredMoney="120000" />
+			<Effect Index="3"  Value="5"  RequiredMoney="130000" />
+			<Effect Index="4"  Value="6"  RequiredMoney="140000" />
+			<Effect Index="5"  Value="7"  RequiredMoney="150000" />
+			<Effect Index="6"  Value="9"  RequiredMoney="200000" />
+			<Effect Index="7"  Value="11" RequiredMoney="220000" />
+			<Effect Index="8"  Value="12" RequiredMoney="240000" />
+			<Effect Index="9"  Value="14" RequiredMoney="280000" />
+			<Effect Index="10" Value="15" RequiredMoney="320000" />
+			<Effect Index="11" Value="16" RequiredMoney="360000" />
+			<Effect Index="12" Value="17" RequiredMoney="400000" />
+			<Effect Index="13" Value="20" RequiredMoney="500000" />
+			<Effect Index="14" Value="23" RequiredMoney="540000" />
+			<Effect Index="15" Value="26" RequiredMoney="600000" />
+		</Option>
+		<Option Index="2" Name="Maximum Attack Damage Increase +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="3"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="4"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="5"  RequiredMoney="120000" />
+			<Effect Index="3"  Value="6"  RequiredMoney="130000" />
+			<Effect Index="4"  Value="7"  RequiredMoney="140000" />
+			<Effect Index="5"  Value="8"  RequiredMoney="150000" />
+			<Effect Index="6"  Value="10" RequiredMoney="200000" />
+			<Effect Index="7"  Value="12" RequiredMoney="220000" />
+			<Effect Index="8"  Value="14" RequiredMoney="240000" />
+			<Effect Index="9"  Value="17" RequiredMoney="280000" />
+			<Effect Index="10" Value="20" RequiredMoney="320000" />
+			<Effect Index="11" Value="23" RequiredMoney="360000" />
+			<Effect Index="12" Value="26" RequiredMoney="400000" />
+			<Effect Index="13" Value="29" RequiredMoney="500000" />
+			<Effect Index="14" Value="32" RequiredMoney="540000" />
+			<Effect Index="15" Value="35" RequiredMoney="600000" />
+		</Option>
+		<Option Index="3" Name="Required Strength Decrease +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="6"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="8"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="10" RequiredMoney="120000" />
+			<Effect Index="3"  Value="12" RequiredMoney="130000" />
+			<Effect Index="4"  Value="14" RequiredMoney="140000" />
+			<Effect Index="5"  Value="16" RequiredMoney="150000" />
+			<Effect Index="6"  Value="20" RequiredMoney="200000" />
+			<Effect Index="7"  Value="23" RequiredMoney="220000" />
+			<Effect Index="8"  Value="26" RequiredMoney="240000" />
+			<Effect Index="9"  Value="29" RequiredMoney="280000" />
+			<Effect Index="10" Value="32" RequiredMoney="320000" />
+			<Effect Index="11" Value="35" RequiredMoney="360000" />
+			<Effect Index="12" Value="37" RequiredMoney="400000" />
+			<Effect Index="13" Value="40" RequiredMoney="500000" />
+			<Effect Index="14" Value="43" RequiredMoney="540000" />
+			<Effect Index="15" Value="46" RequiredMoney="600000" />
+		</Option>
+		<Option Index="4" Name="Required Agility Increase +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="6"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="8"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="10" RequiredMoney="120000" />
+			<Effect Index="3"  Value="12" RequiredMoney="130000" />
+			<Effect Index="4"  Value="14" RequiredMoney="140000" />
+			<Effect Index="5"  Value="16" RequiredMoney="150000" />
+			<Effect Index="6"  Value="20" RequiredMoney="200000" />
+			<Effect Index="7"  Value="23" RequiredMoney="220000" />
+			<Effect Index="8"  Value="26" RequiredMoney="240000" />
+			<Effect Index="9"  Value="29" RequiredMoney="280000" />
+			<Effect Index="10" Value="32" RequiredMoney="320000" />
+			<Effect Index="11" Value="35" RequiredMoney="360000" />
+			<Effect Index="12" Value="37" RequiredMoney="400000" />
+			<Effect Index="13" Value="40" RequiredMoney="500000" />
+			<Effect Index="14" Value="43" RequiredMoney="540000" />
+			<Effect Index="15" Value="46" RequiredMoney="600000" />
+		</Option>
+		<Option Index="5" Name="Attack Damage Increase (Min, Max) +%d" RandomWeight="30" RequiredLevel="6">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="7"  RequiredMoney="200000" />
+			<Effect Index="7"  Value="8"  RequiredMoney="220000" />
+			<Effect Index="8"  Value="9"  RequiredMoney="240000" />
+			<Effect Index="9"  Value="11" RequiredMoney="280000" />
+			<Effect Index="10" Value="12" RequiredMoney="320000" />
+			<Effect Index="11" Value="14" RequiredMoney="360000" />
+			<Effect Index="12" Value="16" RequiredMoney="400000" />
+			<Effect Index="13" Value="19" RequiredMoney="500000" />
+			<Effect Index="14" Value="22" RequiredMoney="540000" />
+			<Effect Index="15" Value="25" RequiredMoney="600000" />
+		</Option>
+		<Option Index="6" Name="Critical Damage Increase +%d" RandomWeight="30" RequiredLevel="6">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="12" RequiredMoney="200000" />
+			<Effect Index="7"  Value="14" RequiredMoney="220000" />
+			<Effect Index="8"  Value="16" RequiredMoney="240000" />
+			<Effect Index="9"  Value="18" RequiredMoney="280000" />
+			<Effect Index="10" Value="20" RequiredMoney="320000" />
+			<Effect Index="11" Value="22" RequiredMoney="360000" />
+			<Effect Index="12" Value="24" RequiredMoney="400000" />
+			<Effect Index="13" Value="30" RequiredMoney="500000" />
+			<Effect Index="14" Value="33" RequiredMoney="540000" />
+			<Effect Index="15" Value="36" RequiredMoney="600000" />
+		</Option>
+		<Option Index="7" Name="Skills Attack Damage Increase +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="12" RequiredMoney="280000" />
+			<Effect Index="10" Value="14" RequiredMoney="320000" />
+			<Effect Index="11" Value="16" RequiredMoney="360000" />
+			<Effect Index="12" Value="18" RequiredMoney="400000" />
+			<Effect Index="13" Value="22" RequiredMoney="500000" />
+			<Effect Index="14" Value="24" RequiredMoney="540000" />
+			<Effect Index="15" Value="26" RequiredMoney="600000" />
+		</Option>
+		<Option Index="8" Name="Attack Success Rate Increase (PVP) +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="5"  RequiredMoney="280000" />
+			<Effect Index="10" Value="7"  RequiredMoney="320000" />
+			<Effect Index="11" Value="9"  RequiredMoney="360000" />
+			<Effect Index="12" Value="11" RequiredMoney="400000" />
+			<Effect Index="13" Value="14" RequiredMoney="500000" />
+			<Effect Index="14" Value="16" RequiredMoney="540000" />
+			<Effect Index="15" Value="18" RequiredMoney="600000" />
+		</Option>
+		<Option Index="9" Name="SD Decrement Increase +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="3"  RequiredMoney="280000" />
+			<Effect Index="10" Value="5"  RequiredMoney="320000" />
+			<Effect Index="11" Value="7"  RequiredMoney="360000" />
+			<Effect Index="12" Value="9"  RequiredMoney="400000" />
+			<Effect Index="13" Value="10" RequiredMoney="500000" />
+			<Effect Index="14" Value="11" RequiredMoney="540000" />
+			<Effect Index="15" Value="12" RequiredMoney="600000" />
+		</Option>
+		<Option Index="10" Name="SD Bypass Rate Increase +%d" RandomWeight="10" RequiredLevel="13">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="0"  RequiredMoney="0" />
+			<Effect Index="10" Value="0"  RequiredMoney="0" />
+			<Effect Index="11" Value="0"  RequiredMoney="0" />
+			<Effect Index="12" Value="0"  RequiredMoney="0" />
+			<Effect Index="13" Value="10" RequiredMoney="500000" />
+			<Effect Index="14" Value="12" RequiredMoney="540000" />
+			<Effect Index="15" Value="14" RequiredMoney="600000" />
+		</Option>
+	</Type>
+	<Type Index="2" Description="Magical">
+		<Option Index="1" Name="Wizardy Damage Increase +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="6"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="8"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="10" RequiredMoney="120000" />
+			<Effect Index="3"  Value="12" RequiredMoney="130000" />
+			<Effect Index="4"  Value="14" RequiredMoney="140000" />
+			<Effect Index="5"  Value="16" RequiredMoney="150000" />
+			<Effect Index="6"  Value="17" RequiredMoney="200000" />
+			<Effect Index="7"  Value="18" RequiredMoney="220000" />
+			<Effect Index="8"  Value="19" RequiredMoney="240000" />
+			<Effect Index="9"  Value="21" RequiredMoney="280000" />
+			<Effect Index="10" Value="23" RequiredMoney="320000" />
+			<Effect Index="11" Value="25" RequiredMoney="360000" />
+			<Effect Index="12" Value="27" RequiredMoney="400000" />
+			<Effect Index="13" Value="31" RequiredMoney="500000" />
+			<Effect Index="14" Value="33" RequiredMoney="540000" />
+			<Effect Index="15" Value="35" RequiredMoney="600000" />
+		</Option>
+		<Option Index="2" Name="Required Strength Decrease +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="6"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="8"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="10" RequiredMoney="120000" />
+			<Effect Index="3"  Value="12" RequiredMoney="130000" />
+			<Effect Index="4"  Value="14" RequiredMoney="140000" />
+			<Effect Index="5"  Value="16" RequiredMoney="150000" />
+			<Effect Index="6"  Value="20" RequiredMoney="200000" />
+			<Effect Index="7"  Value="23" RequiredMoney="220000" />
+			<Effect Index="8"  Value="26" RequiredMoney="240000" />
+			<Effect Index="9"  Value="29" RequiredMoney="280000" />
+			<Effect Index="10" Value="32" RequiredMoney="320000" />
+			<Effect Index="11" Value="35" RequiredMoney="360000" />
+			<Effect Index="12" Value="37" RequiredMoney="400000" />
+			<Effect Index="13" Value="40" RequiredMoney="500000" />
+			<Effect Index="14" Value="43" RequiredMoney="540000" />
+			<Effect Index="15" Value="46" RequiredMoney="600000" />
+		</Option>
+		<Option Index="3" Name="Required Agility Increase +%d" RandomWeight="40" RequiredLevel="0">
+			<Effect Index="0"  Value="6"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="8"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="10" RequiredMoney="120000" />
+			<Effect Index="3"  Value="12" RequiredMoney="130000" />
+			<Effect Index="4"  Value="14" RequiredMoney="140000" />
+			<Effect Index="5"  Value="16" RequiredMoney="150000" />
+			<Effect Index="6"  Value="20" RequiredMoney="200000" />
+			<Effect Index="7"  Value="23" RequiredMoney="220000" />
+			<Effect Index="8"  Value="26" RequiredMoney="240000" />
+			<Effect Index="9"  Value="29" RequiredMoney="280000" />
+			<Effect Index="10" Value="32" RequiredMoney="320000" />
+			<Effect Index="11" Value="35" RequiredMoney="360000" />
+			<Effect Index="12" Value="37" RequiredMoney="400000" />
+			<Effect Index="13" Value="40" RequiredMoney="500000" />
+			<Effect Index="14" Value="43" RequiredMoney="540000" />
+			<Effect Index="15" Value="46" RequiredMoney="600000" />
+		</Option>
+		<Option Index="4" Name="Skills Attack Damage Increase +%d" RandomWeight="30" RequiredLevel="6">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="7"  RequiredMoney="200000" />
+			<Effect Index="7"  Value="10" RequiredMoney="220000" />
+			<Effect Index="8"  Value="13" RequiredMoney="240000" />
+			<Effect Index="9"  Value="16" RequiredMoney="280000" />
+			<Effect Index="10" Value="19" RequiredMoney="320000" />
+			<Effect Index="11" Value="22" RequiredMoney="360000" />
+			<Effect Index="12" Value="25" RequiredMoney="400000" />
+			<Effect Index="13" Value="30" RequiredMoney="500000" />
+			<Effect Index="14" Value="33" RequiredMoney="540000" />
+			<Effect Index="15" Value="36" RequiredMoney="600000" />
+		</Option>
+		<Option Index="5" Name="Critical Damage Increase +%d" RandomWeight="30" RequiredLevel="6">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="10" RequiredMoney="200000" />
+			<Effect Index="7"  Value="12" RequiredMoney="220000" />
+			<Effect Index="8"  Value="14" RequiredMoney="240000" />
+			<Effect Index="9"  Value="16" RequiredMoney="280000" />
+			<Effect Index="10" Value="18" RequiredMoney="320000" />
+			<Effect Index="11" Value="20" RequiredMoney="360000" />
+			<Effect Index="12" Value="22" RequiredMoney="400000" />
+			<Effect Index="13" Value="28" RequiredMoney="500000" />
+			<Effect Index="14" Value="30" RequiredMoney="540000" />
+			<Effect Index="15" Value="32" RequiredMoney="600000" />
+		</Option>
+		<Option Index="6" Name="SD Decrement Increase +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="4"  RequiredMoney="280000" />
+			<Effect Index="10" Value="6"  RequiredMoney="320000" />
+			<Effect Index="11" Value="8"  RequiredMoney="360000" />
+			<Effect Index="12" Value="10" RequiredMoney="400000" />
+			<Effect Index="13" Value="13" RequiredMoney="500000" />
+			<Effect Index="14" Value="15" RequiredMoney="540000" />
+			<Effect Index="15" Value="17" RequiredMoney="600000" />
+		</Option>
+		<Option Index="7" Name="Attack Success Rate Increase (PVP) +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="5"  RequiredMoney="280000" />
+			<Effect Index="10" Value="7"  RequiredMoney="320000" />
+			<Effect Index="11" Value="9"  RequiredMoney="360000" />
+			<Effect Index="12" Value="11" RequiredMoney="400000" />
+			<Effect Index="13" Value="14" RequiredMoney="500000" />
+			<Effect Index="14" Value="15" RequiredMoney="540000" />
+			<Effect Index="15" Value="16" RequiredMoney="600000" />
+		</Option>
+		<Option Index="8" Name="Attack Success Rate Increase (PVP) +%d" RandomWeight="10" RequiredLevel="13">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="0"  RequiredMoney="0" />
+			<Effect Index="10" Value="0"  RequiredMoney="0" />
+			<Effect Index="11" Value="0"  RequiredMoney="0" />
+			<Effect Index="12" Value="0"  RequiredMoney="0" />
+			<Effect Index="13" Value="15" RequiredMoney="500000" />
+			<Effect Index="14" Value="17" RequiredMoney="540000" />
+			<Effect Index="15" Value="19" RequiredMoney="600000" />
+		</Option>
+	</Type>
+	<Type Index="3" Description="Defensive"> 
+		<Option Index="1" Name="Defense Increase +%d" RandomWeight="50" RequiredLevel="0">
+			<Effect Index="0"  Value="3"  RequiredMoney="100000" />
+			<Effect Index="1"  Value="4"  RequiredMoney="110000" />
+			<Effect Index="2"  Value="5"  RequiredMoney="120000" />
+			<Effect Index="3"  Value="6"  RequiredMoney="130000" />
+			<Effect Index="4"  Value="7"  RequiredMoney="140000" />
+			<Effect Index="5"  Value="8"  RequiredMoney="150000" />
+			<Effect Index="6"  Value="10" RequiredMoney="200000" />
+			<Effect Index="7"  Value="12" RequiredMoney="220000" />
+			<Effect Index="8"  Value="14" RequiredMoney="240000" />
+			<Effect Index="9"  Value="16" RequiredMoney="280000" />
+			<Effect Index="10" Value="18" RequiredMoney="320000" />
+			<Effect Index="11" Value="20" RequiredMoney="360000" />
+			<Effect Index="12" Value="22" RequiredMoney="400000" />
+			<Effect Index="13" Value="25" RequiredMoney="500000" />
+			<Effect Index="14" Value="28" RequiredMoney="540000" />
+			<Effect Index="15" Value="31" RequiredMoney="600000" />
+		</Option>
+		<Option Index="2" Name="Maximum AG Increase +%d" RandomWeight="40" RequiredLevel="3">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="4"  RequiredMoney="130000" />
+			<Effect Index="4"  Value="6"  RequiredMoney="140000" />
+			<Effect Index="5"  Value="8"  RequiredMoney="150000" />
+			<Effect Index="6"  Value="10" RequiredMoney="200000" />
+			<Effect Index="7"  Value="12" RequiredMoney="220000" />
+			<Effect Index="8"  Value="14" RequiredMoney="240000" />
+			<Effect Index="9"  Value="16" RequiredMoney="280000" />
+			<Effect Index="10" Value="18" RequiredMoney="320000" />
+			<Effect Index="11" Value="20" RequiredMoney="360000" />
+			<Effect Index="12" Value="22" RequiredMoney="400000" />
+			<Effect Index="13" Value="25" RequiredMoney="500000" />
+			<Effect Index="14" Value="28" RequiredMoney="540000" />
+			<Effect Index="15" Value="31" RequiredMoney="600000" />
+		</Option>
+		<Option Index="3" Name="Maximum HP Increase +%d" RandomWeight="40" RequiredLevel="3">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="7"  RequiredMoney="130000" />
+			<Effect Index="4"  Value="9"  RequiredMoney="140000" />
+			<Effect Index="5"  Value="11" RequiredMoney="150000" />
+			<Effect Index="6"  Value="13" RequiredMoney="200000" />
+			<Effect Index="7"  Value="15" RequiredMoney="220000" />
+			<Effect Index="8"  Value="17" RequiredMoney="240000" />
+			<Effect Index="9"  Value="19" RequiredMoney="280000" />
+			<Effect Index="10" Value="21" RequiredMoney="320000" />
+			<Effect Index="11" Value="23" RequiredMoney="360000" />
+			<Effect Index="12" Value="25" RequiredMoney="400000" />
+			<Effect Index="13" Value="30" RequiredMoney="500000" />
+			<Effect Index="14" Value="32" RequiredMoney="540000" />
+			<Effect Index="15" Value="34" RequiredMoney="600000" />
+		</Option>
+		<Option Index="4" Name="Life Auto Increments Increase +%d" RandomWeight="30" RequiredLevel="6">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="1"  RequiredMoney="200000" />
+			<Effect Index="7"  Value="2"  RequiredMoney="220000" />
+			<Effect Index="8"  Value="3"  RequiredMoney="240000" />
+			<Effect Index="9"  Value="4"  RequiredMoney="280000" />
+			<Effect Index="10" Value="5"  RequiredMoney="320000" />
+			<Effect Index="11" Value="6"  RequiredMoney="360000" />
+			<Effect Index="12" Value="7"  RequiredMoney="400000" />
+			<Effect Index="13" Value="8"  RequiredMoney="500000" />
+			<Effect Index="14" Value="9"  RequiredMoney="540000" />
+			<Effect Index="15" Value="10" RequiredMoney="600000" />
+		</Option>
+		<Option Index="5" Name="Mana Auto Increments Increase +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="1"  RequiredMoney="280000" />
+			<Effect Index="10" Value="2"  RequiredMoney="320000" />
+			<Effect Index="11" Value="3"  RequiredMoney="360000" />
+			<Effect Index="12" Value="4"  RequiredMoney="400000" />
+			<Effect Index="13" Value="5"  RequiredMoney="500000" />
+			<Effect Index="14" Value="6"  RequiredMoney="540000" />
+			<Effect Index="15" Value="7"  RequiredMoney="600000" />
+		</Option>
+		<Option Index="6" Name="Defense Success rate Increase (PVP) +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="3"  RequiredMoney="280000" />
+			<Effect Index="10" Value="4"  RequiredMoney="320000" />
+			<Effect Index="11" Value="5"  RequiredMoney="360000" />
+			<Effect Index="12" Value="6"  RequiredMoney="400000" />
+			<Effect Index="13" Value="8"  RequiredMoney="500000" />
+			<Effect Index="14" Value="10" RequiredMoney="540000" />
+			<Effect Index="15" Value="12" RequiredMoney="600000" />
+		</Option>
+		<Option Index="7" Name="Damage Decrement Increase +%d" RandomWeight="20" RequiredLevel="9">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="3"  RequiredMoney="280000" />
+			<Effect Index="10" Value="4"  RequiredMoney="320000" />
+			<Effect Index="11" Value="5"  RequiredMoney="360000" />
+			<Effect Index="12" Value="6"  RequiredMoney="400000" />
+			<Effect Index="13" Value="7"  RequiredMoney="500000" />
+			<Effect Index="14" Value="8"  RequiredMoney="540000" />
+			<Effect Index="15" Value="9"  RequiredMoney="600000" />
+		</Option>
+		<Option Index="8" Name="SD Ratio Increase +%d" RandomWeight="10" RequiredLevel="13">
+			<Effect Index="0"  Value="0"  RequiredMoney="0" />
+			<Effect Index="1"  Value="0"  RequiredMoney="0" />
+			<Effect Index="2"  Value="0"  RequiredMoney="0" />
+			<Effect Index="3"  Value="0"  RequiredMoney="0" />
+			<Effect Index="4"  Value="0"  RequiredMoney="0" />
+			<Effect Index="5"  Value="0"  RequiredMoney="0" />
+			<Effect Index="6"  Value="0"  RequiredMoney="0" />
+			<Effect Index="7"  Value="0"  RequiredMoney="0" />
+			<Effect Index="8"  Value="0"  RequiredMoney="0" />
+			<Effect Index="9"  Value="0"  RequiredMoney="0" />
+			<Effect Index="10" Value="0"  RequiredMoney="0" />
+			<Effect Index="11" Value="0"  RequiredMoney="0" />
+			<Effect Index="12" Value="0"  RequiredMoney="0" />
+			<Effect Index="13" Value="5"  RequiredMoney="500000" />
+			<Effect Index="14" Value="6"  RequiredMoney="540000" />
+			<Effect Index="15" Value="7"  RequiredMoney="600000" />
+		</Option>
+	</Type>
+</ItemHarmonyOption>

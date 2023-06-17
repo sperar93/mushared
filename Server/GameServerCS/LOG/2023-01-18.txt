@@ -1,0 +1,809 @@
+11:21:38 [SocketManager] Server started at port [55919]
+11:21:38 [ Crywolf ] State (0) -> NONE
+11:21:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:21:38 [Loren Deep] Sync Start Time. [518] min remain
+11:21:38 [ RAKLION ] State(0) -> END
+11:21:38 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:21:38 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:21:38 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:21:38 [Reward Master] Sync Start Time. [398] min remain
+11:21:39 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:21:39 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:21:40 [CastleSiege] LoadData() - Siege Schedule Start Date (2021-11-29)
+11:21:40 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:21:40 [CastleSiege] LoadData() - Siege Schedule End Date (2021-12-13(0:0:0))
+11:21:40 [CastleSiege] Load Successfully
+11:21:40 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+11:21:40 [ CRYWOLF ] SYNC Occupation: 0
+11:24:57 [SocketManager] Server started at port [55919]
+11:24:57 [ Crywolf ] State (0) -> NONE
+11:24:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:24:58 [Loren Deep] Sync Start Time. [515] min remain
+11:24:58 [ RAKLION ] State(0) -> END
+11:24:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:24:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:24:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:24:58 [Reward Master] Sync Start Time. [395] min remain
+11:24:59 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:24:59 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:24:59 [CastleSiege] LoadData() - Siege Schedule Start Date (2021-11-29)
+11:24:59 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:24:59 [CastleSiege] LoadData() - Siege Schedule End Date (2021-12-13(0:0:0))
+11:24:59 [CastleSiege] Load Successfully
+11:24:59 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+11:25:00 [ CRYWOLF ] SYNC Occupation: 0
+11:46:20 [SocketManager] Server started at port [55919]
+11:46:20 [ Crywolf ] State (0) -> NONE
+11:46:20 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:46:20 [Loren Deep] Sync Start Time. [493] min remain
+11:46:20 [ RAKLION ] State(0) -> END
+11:46:20 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:46:20 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:46:20 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:46:20 [Reward Master] Sync Start Time. [373] min remain
+11:46:21 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:46:22 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:46:22 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:46:22 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:46:22 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:46:22 [CastleSiege] Load Successfully
+11:46:22 [CastleSiege] SetState REGSIEGE
+11:46:22 [CastleSiege] LEFT : SEC(634418), SIEGE-DAY(2023-01-25 20:00:00)
+11:46:22 [ CRYWOLF ] SYNC Occupation: 0
+11:51:17 [SocketManager] Server started at port [55919]
+11:51:17 [ Crywolf ] State (0) -> NONE
+11:51:17 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:51:18 [Loren Deep] Sync Start Time. [488] min remain
+11:51:18 [ RAKLION ] State(0) -> END
+11:51:18 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:51:18 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:51:18 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:51:18 [Reward Master] Sync Start Time. [368] min remain
+11:51:19 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:51:19 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:51:19 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:51:19 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:51:19 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:51:19 [CastleSiege] Load Successfully
+11:51:19 [CastleSiege] SetState REGSIEGE
+11:51:19 [CastleSiege] LEFT : SEC(634121), SIEGE-DAY(2023-01-25 20:00:00)
+11:51:20 [ CRYWOLF ] SYNC Occupation: 0
+11:55:37 [SocketManager] Server started at port [55919]
+11:55:37 [ Crywolf ] State (0) -> NONE
+11:55:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:55:38 [Loren Deep] Sync Start Time. [484] min remain
+11:55:38 [ RAKLION ] State(0) -> END
+11:55:38 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:55:38 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:55:38 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:55:38 [Reward Master] Sync Start Time. [364] min remain
+11:55:39 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:55:39 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:55:39 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:55:39 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:55:39 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:55:39 [CastleSiege] Load Successfully
+11:55:39 [CastleSiege] SetState REGSIEGE
+11:55:55 [SocketManager] Server started at port [55919]
+11:55:55 [ Crywolf ] State (0) -> NONE
+11:55:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:55:56 [Loren Deep] Sync Start Time. [484] min remain
+11:55:56 [ RAKLION ] State(0) -> END
+11:55:56 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:55:56 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:55:56 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:55:56 [Reward Master] Sync Start Time. [364] min remain
+11:55:57 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:55:57 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:55:57 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:55:57 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:55:57 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:55:57 [CastleSiege] Load Successfully
+11:55:57 [CastleSiege] SetState REGSIEGE
+11:56:20 [SocketManager] Server started at port [55919]
+11:56:20 [ Crywolf ] State (0) -> NONE
+11:56:20 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:56:21 [Loren Deep] Sync Start Time. [483] min remain
+11:56:21 [ RAKLION ] State(0) -> END
+11:56:21 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:56:21 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:56:21 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:56:21 [Reward Master] Sync Start Time. [363] min remain
+11:56:22 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:56:22 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:56:22 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:56:22 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:56:22 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:56:22 [CastleSiege] Load Successfully
+11:56:22 [CastleSiege] SetState REGSIEGE
+11:57:00 [SocketManager] Server started at port [55919]
+11:57:00 [ Crywolf ] State (0) -> NONE
+11:57:00 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:57:00 [Loren Deep] Sync Start Time. [483] min remain
+11:57:00 [ RAKLION ] State(0) -> END
+11:57:00 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:57:00 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:57:00 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:57:00 [Reward Master] Sync Start Time. [363] min remain
+11:57:01 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:57:01 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:57:01 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+11:57:01 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+11:57:01 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+11:57:01 [CastleSiege] Load Successfully
+11:57:01 [CastleSiege] SetState REGSIEGE
+11:59:14 [SocketManager] Server started at port [55919]
+11:59:15 [ Crywolf ] State (0) -> NONE
+11:59:15 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:59:15 [Loren Deep] Sync Start Time. [480] min remain
+11:59:15 [ RAKLION ] State(0) -> END
+11:59:15 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:59:15 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:59:15 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:59:15 [Reward Master] Sync Start Time. [360] min remain
+11:59:18 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:59:22 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+11:59:47 [SocketManager] Server started at port [55919]
+11:59:47 [ Crywolf ] State (0) -> NONE
+11:59:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:59:48 [Loren Deep] Sync Start Time. [480] min remain
+11:59:48 [ RAKLION ] State(0) -> END
+11:59:48 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:59:48 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:59:48 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+11:59:48 [Reward Master] Sync Start Time. [360] min remain
+11:59:51 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+11:59:55 [CastleSiege] DataRequest() - REQUEST DATA AGAIN
+12:00:50 [SocketManager] Server started at port [55919]
+12:00:50 [ Crywolf ] State (0) -> NONE
+12:00:50 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:00:50 [Loren Deep] Sync Start Time. [479] min remain
+12:00:50 [ RAKLION ] State(0) -> END
+12:00:50 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:00:50 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:00:50 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+12:00:50 [Reward Master] Sync Start Time. [359] min remain
+12:00:51 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+12:00:51 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:00:51 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+12:00:51 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+12:00:51 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+12:00:51 [CastleSiege] Load Successfully
+12:00:51 [CastleSiege] SetState REGSIEGE
+12:00:52 [CastleSiege] LEFT : SEC(633549), SIEGE-DAY(2023-01-25 20:00:01)
+12:00:52 [ CRYWOLF ] SYNC Occupation: 0
+12:06:19 [SocketManager] Server started at port [55919]
+12:06:19 [ Crywolf ] State (0) -> NONE
+12:06:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:06:19 [Loren Deep] Sync Start Time. [473] min remain
+12:06:19 [ RAKLION ] State(0) -> END
+12:06:19 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:06:19 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:06:19 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+12:06:19 [Reward Master] Sync Start Time. [353] min remain
+12:06:20 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+12:06:20 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:06:20 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+12:06:20 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+12:06:20 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+12:06:20 [CastleSiege] Load Successfully
+12:06:20 [CastleSiege] SetState REGSIEGE
+12:06:20 [CastleSiege] LEFT : SEC(633220), SIEGE-DAY(2023-01-25 20:00:00)
+12:06:21 [ CRYWOLF ] SYNC Occupation: 0
+12:07:21 [CastleSiege] LEFT : SEC(633160), SIEGE-DAY(2023-01-25 20:00:01)
+12:07:54 [SocketManager] Server started at port [55919]
+12:07:55 [ Crywolf ] State (0) -> NONE
+12:07:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:07:55 [Loren Deep] Sync Start Time. [472] min remain
+12:07:55 [ RAKLION ] State(0) -> END
+12:07:55 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:07:55 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:07:55 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+12:07:55 [Reward Master] Sync Start Time. [352] min remain
+12:07:56 [CastleSiege] DataRequest() - REQUEST DATA FIRST
+12:07:56 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:07:56 [CastleSiege] LoadData() - Siege Schedule Start Date (2023-1-18)
+12:07:56 [CastleSiege] LoadData() - Siege Schedule Date (14-0-0)
+12:07:56 [CastleSiege] LoadData() - Siege Schedule End Date (2023-2-1(0:0:0))
+12:07:56 [CastleSiege] Load Successfully
+12:07:56 [CastleSiege] SetState REGSIEGE
+12:07:56 [CastleSiege] LEFT : SEC(633124), SIEGE-DAY(2023-01-25 20:00:00)
+12:07:57 [ CRYWOLF ] SYNC Occupation: 0
+12:08:56 [CastleSiege] LEFT : SEC(633065), SIEGE-DAY(2023-01-25 20:00:01)
+12:09:56 [CastleSiege] LEFT : SEC(633004), SIEGE-DAY(2023-01-25 20:00:00)
+12:10:56 [CastleSiege] LEFT : SEC(632945), SIEGE-DAY(2023-01-25 20:00:01)
+12:11:56 [CastleSiege] LEFT : SEC(632885), SIEGE-DAY(2023-01-25 20:00:01)
+12:12:56 [CastleSiege] StoreDbNpc() - << START >>
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:12:56 [CastleSiege] StoreDbNpc() - << END >>
+12:12:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:12:56 [CastleSiege] LEFT : SEC(632825), SIEGE-DAY(2023-01-25 20:00:01)
+12:13:56 [CastleSiege] LEFT : SEC(632764), SIEGE-DAY(2023-01-25 20:00:00)
+12:14:57 [CastleSiege] LEFT : SEC(632703), SIEGE-DAY(2023-01-25 20:00:00)
+12:15:57 [CastleSiege] LEFT : SEC(632643), SIEGE-DAY(2023-01-25 20:00:00)
+12:16:57 [CastleSiege] LEFT : SEC(632583), SIEGE-DAY(2023-01-25 20:00:00)
+12:17:56 [CastleSiege] StoreDbNpc() - << START >>
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:17:56 [CastleSiege] StoreDbNpc() - << END >>
+12:17:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:17:57 [CastleSiege] LEFT : SEC(632523), SIEGE-DAY(2023-01-25 20:00:00)
+12:18:57 [CastleSiege] LEFT : SEC(632463), SIEGE-DAY(2023-01-25 20:00:00)
+12:19:57 [CastleSiege] LEFT : SEC(632403), SIEGE-DAY(2023-01-25 20:00:00)
+12:20:57 [CastleSiege] LEFT : SEC(632343), SIEGE-DAY(2023-01-25 20:00:00)
+12:21:57 [CastleSiege] LEFT : SEC(632283), SIEGE-DAY(2023-01-25 20:00:00)
+12:22:56 [CastleSiege] StoreDbNpc() - << START >>
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:22:56 [CastleSiege] StoreDbNpc() - << END >>
+12:22:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:22:57 [CastleSiege] LEFT : SEC(632223), SIEGE-DAY(2023-01-25 20:00:00)
+12:23:57 [CastleSiege] LEFT : SEC(632163), SIEGE-DAY(2023-01-25 20:00:00)
+12:24:57 [CastleSiege] LEFT : SEC(632104), SIEGE-DAY(2023-01-25 20:00:01)
+12:25:57 [CastleSiege] LEFT : SEC(632043), SIEGE-DAY(2023-01-25 20:00:00)
+12:26:58 [CastleSiege] LEFT : SEC(631983), SIEGE-DAY(2023-01-25 20:00:01)
+12:27:56 [CastleSiege] StoreDbNpc() - << START >>
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:27:56 [CastleSiege] StoreDbNpc() - << END >>
+12:27:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:27:58 [CastleSiege] LEFT : SEC(631923), SIEGE-DAY(2023-01-25 20:00:01)
+12:28:58 [CastleSiege] LEFT : SEC(631863), SIEGE-DAY(2023-01-25 20:00:01)
+12:29:58 [CastleSiege] LEFT : SEC(631802), SIEGE-DAY(2023-01-25 20:00:00)
+12:30:58 [CastleSiege] LEFT : SEC(631742), SIEGE-DAY(2023-01-25 20:00:00)
+12:31:58 [CastleSiege] LEFT : SEC(631682), SIEGE-DAY(2023-01-25 20:00:00)
+12:32:56 [CastleSiege] StoreDbNpc() - << START >>
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:32:56 [CastleSiege] StoreDbNpc() - << END >>
+12:32:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:32:58 [CastleSiege] LEFT : SEC(631623), SIEGE-DAY(2023-01-25 20:00:01)
+12:33:58 [CastleSiege] LEFT : SEC(631563), SIEGE-DAY(2023-01-25 20:00:01)
+12:34:58 [CastleSiege] LEFT : SEC(631502), SIEGE-DAY(2023-01-25 20:00:00)
+12:35:58 [CastleSiege] LEFT : SEC(631442), SIEGE-DAY(2023-01-25 20:00:00)
+12:36:58 [CastleSiege] LEFT : SEC(631382), SIEGE-DAY(2023-01-25 20:00:00)
+12:37:56 [CastleSiege] StoreDbNpc() - << START >>
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:37:56 [CastleSiege] StoreDbNpc() - << END >>
+12:37:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:37:58 [CastleSiege] LEFT : SEC(631322), SIEGE-DAY(2023-01-25 20:00:00)
+12:38:59 [CastleSiege] LEFT : SEC(631262), SIEGE-DAY(2023-01-25 20:00:01)
+12:39:59 [CastleSiege] LEFT : SEC(631202), SIEGE-DAY(2023-01-25 20:00:01)
+12:40:59 [CastleSiege] LEFT : SEC(631142), SIEGE-DAY(2023-01-25 20:00:01)
+12:41:59 [CastleSiege] LEFT : SEC(631081), SIEGE-DAY(2023-01-25 20:00:00)
+12:42:56 [CastleSiege] StoreDbNpc() - << START >>
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:42:56 [CastleSiege] StoreDbNpc() - << END >>
+12:42:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:42:59 [CastleSiege] LEFT : SEC(631021), SIEGE-DAY(2023-01-25 20:00:00)
+12:43:59 [CastleSiege] LEFT : SEC(630962), SIEGE-DAY(2023-01-25 20:00:01)
+12:44:59 [CastleSiege] LEFT : SEC(630902), SIEGE-DAY(2023-01-25 20:00:01)
+12:45:59 [CastleSiege] LEFT : SEC(630841), SIEGE-DAY(2023-01-25 20:00:00)
+12:46:59 [CastleSiege] LEFT : SEC(630781), SIEGE-DAY(2023-01-25 20:00:00)
+12:47:56 [CastleSiege] StoreDbNpc() - << START >>
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:47:56 [CastleSiege] StoreDbNpc() - << END >>
+12:47:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:47:59 [CastleSiege] LEFT : SEC(630721), SIEGE-DAY(2023-01-25 20:00:00)
+12:49:00 [CastleSiege] LEFT : SEC(630661), SIEGE-DAY(2023-01-25 20:00:01)
+12:50:00 [CastleSiege] LEFT : SEC(630601), SIEGE-DAY(2023-01-25 20:00:01)
+12:51:00 [CastleSiege] LEFT : SEC(630541), SIEGE-DAY(2023-01-25 20:00:01)
+12:52:00 [CastleSiege] LEFT : SEC(630480), SIEGE-DAY(2023-01-25 20:00:00)
+12:52:56 [CastleSiege] StoreDbNpc() - << START >>
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:52:56 [CastleSiege] StoreDbNpc() - << END >>
+12:52:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:53:00 [CastleSiege] LEFT : SEC(630420), SIEGE-DAY(2023-01-25 20:00:00)
+12:54:00 [CastleSiege] LEFT : SEC(630361), SIEGE-DAY(2023-01-25 20:00:01)
+12:55:00 [CastleSiege] LEFT : SEC(630300), SIEGE-DAY(2023-01-25 20:00:00)
+12:56:00 [CastleSiege] LEFT : SEC(630240), SIEGE-DAY(2023-01-25 20:00:00)
+12:57:00 [CastleSiege] LEFT : SEC(630181), SIEGE-DAY(2023-01-25 20:00:01)
+12:57:57 [CastleSiege] StoreDbNpc() - << START >>
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+12:57:57 [CastleSiege] StoreDbNpc() - << END >>
+12:57:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+12:58:00 [CastleSiege] LEFT : SEC(630120), SIEGE-DAY(2023-01-25 20:00:00)
+12:59:00 [CastleSiege] LEFT : SEC(630060), SIEGE-DAY(2023-01-25 20:00:00)
+13:00:01 [CastleSiege] LEFT : SEC(630000), SIEGE-DAY(2023-01-25 20:00:01)
+13:01:01 [CastleSiege] LEFT : SEC(629940), SIEGE-DAY(2023-01-25 20:00:01)
+13:02:01 [CastleSiege] LEFT : SEC(629879), SIEGE-DAY(2023-01-25 20:00:00)
+13:02:57 [CastleSiege] StoreDbNpc() - << START >>
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:02:57 [CastleSiege] StoreDbNpc() - << END >>
+13:02:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:03:01 [CastleSiege] LEFT : SEC(629819), SIEGE-DAY(2023-01-25 20:00:00)
+13:04:01 [CastleSiege] LEFT : SEC(629760), SIEGE-DAY(2023-01-25 20:00:01)
+13:05:01 [CastleSiege] LEFT : SEC(629700), SIEGE-DAY(2023-01-25 20:00:01)
+13:06:01 [CastleSiege] LEFT : SEC(629639), SIEGE-DAY(2023-01-25 20:00:00)
+13:07:01 [CastleSiege] LEFT : SEC(629579), SIEGE-DAY(2023-01-25 20:00:00)
+13:07:57 [CastleSiege] StoreDbNpc() - << START >>
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:07:57 [CastleSiege] StoreDbNpc() - << END >>
+13:07:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:08:01 [CastleSiege] LEFT : SEC(629519), SIEGE-DAY(2023-01-25 20:00:00)
+13:09:01 [CastleSiege] LEFT : SEC(629459), SIEGE-DAY(2023-01-25 20:00:00)
+13:10:02 [CastleSiege] LEFT : SEC(629399), SIEGE-DAY(2023-01-25 20:00:01)
+13:11:02 [CastleSiege] LEFT : SEC(629339), SIEGE-DAY(2023-01-25 20:00:01)
+13:12:02 [CastleSiege] LEFT : SEC(629279), SIEGE-DAY(2023-01-25 20:00:01)
+13:12:57 [CastleSiege] StoreDbNpc() - << START >>
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:12:57 [CastleSiege] StoreDbNpc() - << END >>
+13:12:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:13:02 [CastleSiege] LEFT : SEC(629219), SIEGE-DAY(2023-01-25 20:00:01)
+13:14:02 [CastleSiege] LEFT : SEC(629159), SIEGE-DAY(2023-01-25 20:00:01)
+13:15:02 [CastleSiege] LEFT : SEC(629098), SIEGE-DAY(2023-01-25 20:00:00)
+13:16:02 [CastleSiege] LEFT : SEC(629038), SIEGE-DAY(2023-01-25 20:00:00)
+13:17:02 [CastleSiege] LEFT : SEC(628978), SIEGE-DAY(2023-01-25 20:00:00)
+13:17:57 [CastleSiege] StoreDbNpc() - << START >>
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:17:57 [CastleSiege] StoreDbNpc() - << END >>
+13:17:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:18:02 [CastleSiege] LEFT : SEC(628918), SIEGE-DAY(2023-01-25 20:00:00)
+13:19:02 [CastleSiege] LEFT : SEC(628858), SIEGE-DAY(2023-01-25 20:00:00)
+13:20:02 [CastleSiege] LEFT : SEC(628798), SIEGE-DAY(2023-01-25 20:00:00)
+13:21:02 [CastleSiege] LEFT : SEC(628738), SIEGE-DAY(2023-01-25 20:00:00)
+13:22:03 [CastleSiege] LEFT : SEC(628678), SIEGE-DAY(2023-01-25 20:00:01)
+13:22:57 [CastleSiege] StoreDbNpc() - << START >>
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:22:57 [CastleSiege] StoreDbNpc() - << END >>
+13:22:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:23:03 [CastleSiege] LEFT : SEC(628618), SIEGE-DAY(2023-01-25 20:00:01)
+13:24:03 [CastleSiege] LEFT : SEC(628558), SIEGE-DAY(2023-01-25 20:00:01)
+13:25:03 [CastleSiege] LEFT : SEC(628498), SIEGE-DAY(2023-01-25 20:00:01)
+13:26:03 [CastleSiege] LEFT : SEC(628438), SIEGE-DAY(2023-01-25 20:00:01)
+13:27:03 [CastleSiege] LEFT : SEC(628378), SIEGE-DAY(2023-01-25 20:00:01)
+13:27:57 [CastleSiege] StoreDbNpc() - << START >>
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:27:57 [CastleSiege] StoreDbNpc() - << END >>
+13:27:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:28:03 [CastleSiege] LEFT : SEC(628317), SIEGE-DAY(2023-01-25 20:00:00)
+13:29:03 [CastleSiege] LEFT : SEC(628257), SIEGE-DAY(2023-01-25 20:00:00)
+13:30:03 [CastleSiege] LEFT : SEC(628197), SIEGE-DAY(2023-01-25 20:00:00)
+13:31:03 [CastleSiege] LEFT : SEC(628138), SIEGE-DAY(2023-01-25 20:00:01)
+13:32:03 [CastleSiege] LEFT : SEC(628077), SIEGE-DAY(2023-01-25 20:00:00)
+13:32:57 [CastleSiege] StoreDbNpc() - << START >>
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:32:57 [CastleSiege] StoreDbNpc() - << END >>
+13:32:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:33:04 [CastleSiege] LEFT : SEC(628017), SIEGE-DAY(2023-01-25 20:00:01)
+13:34:04 [CastleSiege] LEFT : SEC(627957), SIEGE-DAY(2023-01-25 20:00:01)
+13:35:04 [CastleSiege] LEFT : SEC(627897), SIEGE-DAY(2023-01-25 20:00:01)
+13:36:04 [CastleSiege] LEFT : SEC(627837), SIEGE-DAY(2023-01-25 20:00:01)
+13:37:04 [CastleSiege] LEFT : SEC(627776), SIEGE-DAY(2023-01-25 20:00:00)
+13:37:57 [CastleSiege] StoreDbNpc() - << START >>
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:37:57 [CastleSiege] StoreDbNpc() - << END >>
+13:37:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:38:04 [CastleSiege] LEFT : SEC(627716), SIEGE-DAY(2023-01-25 20:00:00)
+13:39:04 [CastleSiege] LEFT : SEC(627656), SIEGE-DAY(2023-01-25 20:00:00)
+13:40:04 [CastleSiege] LEFT : SEC(627596), SIEGE-DAY(2023-01-25 20:00:00)
+13:41:04 [CastleSiege] LEFT : SEC(627536), SIEGE-DAY(2023-01-25 20:00:00)
+13:42:04 [CastleSiege] LEFT : SEC(627476), SIEGE-DAY(2023-01-25 20:00:00)
+13:42:57 [CastleSiege] StoreDbNpc() - << START >>
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:42:57 [CastleSiege] StoreDbNpc() - << END >>
+13:42:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:43:04 [CastleSiege] LEFT : SEC(627417), SIEGE-DAY(2023-01-25 20:00:01)
+13:44:04 [CastleSiege] LEFT : SEC(627356), SIEGE-DAY(2023-01-25 20:00:00)
+13:45:04 [CastleSiege] LEFT : SEC(627296), SIEGE-DAY(2023-01-25 20:00:00)
+13:46:05 [CastleSiege] LEFT : SEC(627236), SIEGE-DAY(2023-01-25 20:00:01)
+13:47:05 [CastleSiege] LEFT : SEC(627175), SIEGE-DAY(2023-01-25 20:00:00)
+13:47:57 [CastleSiege] StoreDbNpc() - << START >>
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:47:57 [CastleSiege] StoreDbNpc() - << END >>
+13:47:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:48:05 [CastleSiege] LEFT : SEC(627115), SIEGE-DAY(2023-01-25 20:00:00)
+13:49:05 [CastleSiege] LEFT : SEC(627056), SIEGE-DAY(2023-01-25 20:00:01)
+13:50:05 [CastleSiege] LEFT : SEC(626996), SIEGE-DAY(2023-01-25 20:00:01)
+13:51:05 [CastleSiege] LEFT : SEC(626935), SIEGE-DAY(2023-01-25 20:00:00)
+13:52:05 [CastleSiege] LEFT : SEC(626875), SIEGE-DAY(2023-01-25 20:00:00)
+13:52:57 [CastleSiege] StoreDbNpc() - << START >>
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:52:57 [CastleSiege] StoreDbNpc() - << END >>
+13:52:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:53:05 [CastleSiege] LEFT : SEC(626815), SIEGE-DAY(2023-01-25 20:00:00)
+13:54:05 [CastleSiege] LEFT : SEC(626756), SIEGE-DAY(2023-01-25 20:00:01)
+13:55:05 [CastleSiege] LEFT : SEC(626695), SIEGE-DAY(2023-01-25 20:00:00)
+13:56:05 [CastleSiege] LEFT : SEC(626635), SIEGE-DAY(2023-01-25 20:00:00)
+13:57:06 [CastleSiege] LEFT : SEC(626575), SIEGE-DAY(2023-01-25 20:00:01)
+13:57:57 [CastleSiege] StoreDbNpc() - << START >>
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+13:57:57 [CastleSiege] StoreDbNpc() - << END >>
+13:57:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+13:58:06 [CastleSiege] LEFT : SEC(626515), SIEGE-DAY(2023-01-25 20:00:01)
+13:59:06 [CastleSiege] LEFT : SEC(626455), SIEGE-DAY(2023-01-25 20:00:01)
+14:00:06 [CastleSiege] LEFT : SEC(626395), SIEGE-DAY(2023-01-25 20:00:01)
+14:01:06 [CastleSiege] LEFT : SEC(626335), SIEGE-DAY(2023-01-25 20:00:01)
+14:02:06 [CastleSiege] LEFT : SEC(626275), SIEGE-DAY(2023-01-25 20:00:01)
+14:02:57 [CastleSiege] StoreDbNpc() - << START >>
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:02:57 [CastleSiege] StoreDbNpc() - << END >>
+14:02:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:03:06 [CastleSiege] LEFT : SEC(626215), SIEGE-DAY(2023-01-25 20:00:01)
+14:04:06 [CastleSiege] LEFT : SEC(626155), SIEGE-DAY(2023-01-25 20:00:01)
+14:05:06 [CastleSiege] LEFT : SEC(626094), SIEGE-DAY(2023-01-25 20:00:00)
+14:06:06 [CastleSiege] LEFT : SEC(626034), SIEGE-DAY(2023-01-25 20:00:00)
+14:07:06 [CastleSiege] LEFT : SEC(625975), SIEGE-DAY(2023-01-25 20:00:01)
+14:07:57 [CastleSiege] StoreDbNpc() - << START >>
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:07:57 [CastleSiege] StoreDbNpc() - << END >>
+14:07:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:08:06 [CastleSiege] LEFT : SEC(625914), SIEGE-DAY(2023-01-25 20:00:00)
+14:09:06 [CastleSiege] LEFT : SEC(625854), SIEGE-DAY(2023-01-25 20:00:00)
+14:10:06 [CastleSiege] LEFT : SEC(625794), SIEGE-DAY(2023-01-25 20:00:00)
+14:11:06 [CastleSiege] LEFT : SEC(625734), SIEGE-DAY(2023-01-25 20:00:00)
+14:12:07 [CastleSiege] LEFT : SEC(625673), SIEGE-DAY(2023-01-25 20:00:00)
+14:12:57 [CastleSiege] StoreDbNpc() - << START >>
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:12:57 [CastleSiege] StoreDbNpc() - << END >>
+14:12:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:13:07 [CastleSiege] LEFT : SEC(625614), SIEGE-DAY(2023-01-25 20:00:01)
+14:14:07 [CastleSiege] LEFT : SEC(625554), SIEGE-DAY(2023-01-25 20:00:01)
+14:15:07 [CastleSiege] LEFT : SEC(625494), SIEGE-DAY(2023-01-25 20:00:01)
+14:16:07 [CastleSiege] LEFT : SEC(625434), SIEGE-DAY(2023-01-25 20:00:01)
+14:17:07 [CastleSiege] LEFT : SEC(625373), SIEGE-DAY(2023-01-25 20:00:00)
+14:17:57 [CastleSiege] StoreDbNpc() - << START >>
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:17:57 [CastleSiege] StoreDbNpc() - << END >>
+14:17:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:18:07 [CastleSiege] LEFT : SEC(625313), SIEGE-DAY(2023-01-25 20:00:00)
+14:19:07 [CastleSiege] LEFT : SEC(625253), SIEGE-DAY(2023-01-25 20:00:00)
+14:20:07 [CastleSiege] LEFT : SEC(625193), SIEGE-DAY(2023-01-25 20:00:00)
+14:21:07 [CastleSiege] LEFT : SEC(625134), SIEGE-DAY(2023-01-25 20:00:01)
+14:22:07 [CastleSiege] LEFT : SEC(625073), SIEGE-DAY(2023-01-25 20:00:00)
+14:22:57 [CastleSiege] StoreDbNpc() - << START >>
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:22:57 [CastleSiege] StoreDbNpc() - << END >>
+14:22:57 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:23:08 [CastleSiege] LEFT : SEC(625013), SIEGE-DAY(2023-01-25 20:00:01)
+14:24:08 [CastleSiege] LEFT : SEC(624953), SIEGE-DAY(2023-01-25 20:00:01)
+14:25:08 [CastleSiege] LEFT : SEC(624893), SIEGE-DAY(2023-01-25 20:00:01)
+14:26:08 [CastleSiege] LEFT : SEC(624832), SIEGE-DAY(2023-01-25 20:00:00)
+14:27:08 [CastleSiege] LEFT : SEC(624772), SIEGE-DAY(2023-01-25 20:00:00)
+14:27:58 [CastleSiege] StoreDbNpc() - << START >>
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:27:58 [CastleSiege] StoreDbNpc() - << END >>
+14:27:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:28:08 [CastleSiege] LEFT : SEC(624713), SIEGE-DAY(2023-01-25 20:00:01)
+14:29:08 [CastleSiege] LEFT : SEC(624652), SIEGE-DAY(2023-01-25 20:00:00)
+14:30:08 [CastleSiege] LEFT : SEC(624593), SIEGE-DAY(2023-01-25 20:00:01)
+14:31:08 [CastleSiege] LEFT : SEC(624532), SIEGE-DAY(2023-01-25 20:00:00)
+14:32:08 [CastleSiege] LEFT : SEC(624472), SIEGE-DAY(2023-01-25 20:00:00)
+14:32:58 [CastleSiege] StoreDbNpc() - << START >>
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:32:58 [CastleSiege] StoreDbNpc() - << END >>
+14:32:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:33:08 [CastleSiege] LEFT : SEC(624412), SIEGE-DAY(2023-01-25 20:00:00)
+14:34:08 [CastleSiege] LEFT : SEC(624352), SIEGE-DAY(2023-01-25 20:00:00)
+14:35:08 [CastleSiege] LEFT : SEC(624292), SIEGE-DAY(2023-01-25 20:00:00)
+14:36:09 [CastleSiege] LEFT : SEC(624232), SIEGE-DAY(2023-01-25 20:00:01)
+14:37:09 [CastleSiege] LEFT : SEC(624172), SIEGE-DAY(2023-01-25 20:00:01)
+14:37:58 [CastleSiege] StoreDbNpc() - << START >>
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:37:58 [CastleSiege] StoreDbNpc() - << END >>
+14:37:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:38:09 [CastleSiege] LEFT : SEC(624112), SIEGE-DAY(2023-01-25 20:00:01)
+14:39:09 [CastleSiege] LEFT : SEC(624052), SIEGE-DAY(2023-01-25 20:00:01)
+14:40:09 [CastleSiege] LEFT : SEC(623992), SIEGE-DAY(2023-01-25 20:00:01)
+14:41:09 [CastleSiege] LEFT : SEC(623932), SIEGE-DAY(2023-01-25 20:00:01)
+14:42:09 [CastleSiege] LEFT : SEC(623871), SIEGE-DAY(2023-01-25 20:00:00)
+14:42:58 [CastleSiege] StoreDbNpc() - << START >>
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:42:58 [CastleSiege] StoreDbNpc() - << END >>
+14:42:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:43:09 [CastleSiege] LEFT : SEC(623811), SIEGE-DAY(2023-01-25 20:00:00)
+14:44:09 [CastleSiege] LEFT : SEC(623752), SIEGE-DAY(2023-01-25 20:00:01)
+14:45:09 [CastleSiege] LEFT : SEC(623691), SIEGE-DAY(2023-01-25 20:00:00)
+14:46:09 [CastleSiege] LEFT : SEC(623631), SIEGE-DAY(2023-01-25 20:00:00)
+14:47:10 [CastleSiege] LEFT : SEC(623571), SIEGE-DAY(2023-01-25 20:00:01)
+14:47:58 [CastleSiege] StoreDbNpc() - << START >>
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:47:58 [CastleSiege] StoreDbNpc() - << END >>
+14:47:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:48:10 [CastleSiege] LEFT : SEC(623511), SIEGE-DAY(2023-01-25 20:00:01)
+14:49:10 [CastleSiege] LEFT : SEC(623451), SIEGE-DAY(2023-01-25 20:00:01)
+14:50:10 [CastleSiege] LEFT : SEC(623390), SIEGE-DAY(2023-01-25 20:00:00)
+14:51:10 [CastleSiege] LEFT : SEC(623331), SIEGE-DAY(2023-01-25 20:00:01)
+14:52:10 [CastleSiege] LEFT : SEC(623271), SIEGE-DAY(2023-01-25 20:00:01)
+14:52:58 [CastleSiege] StoreDbNpc() - << START >>
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:1(446), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:2(447), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:3(448), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:283, IDX:4(449), MAXHP:1500000, HP:1500000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:1(450), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:2(451), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:3(452), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:4(453), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:5(454), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() NPC INFO (CLS:277, IDX:6(455), MAXHP:1900000, HP:1900000, DF:0, RG:0)
+14:52:58 [CastleSiege] StoreDbNpc() - << END >>
+14:52:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+14:53:10 [CastleSiege] LEFT : SEC(623211), SIEGE-DAY(2023-01-25 20:00:01)
+14:54:10 [CastleSiege] LEFT : SEC(623150), SIEGE-DAY(2023-01-25 20:00:00)
+14:55:10 [CastleSiege] LEFT : SEC(623091), SIEGE-DAY(2023-01-25 20:00:01)
+14:56:10 [CastleSiege] LEFT : SEC(623030), SIEGE-DAY(2023-01-25 20:00:00)
+14:57:10 [CastleSiege] LEFT : SEC(622970), SIEGE-DAY(2023-01-25 20:00:00)

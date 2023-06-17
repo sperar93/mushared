@@ -1,0 +1,175 @@
+07:39:22 [SocketManager] Server started at port [55901]
+07:39:22 [Blood Castle] Sync Start Time. [50] min remain
+07:39:22 [Chaos Castle] Sync Start Time. [20] min remain
+07:39:22 [Devil Square] Sync Start Time. [120] min remain
+07:39:22 [Illusion Temple] Sync Start Time. [40] min remain
+07:39:22 [Moss Merchant] Sync Start Time. [20] min remain
+07:39:22 [ RAKLION ] State(0) -> END
+07:39:22 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:39:22 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:39:22 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+07:39:22 [Reward Master] Sync Start Time. [20] min remain
+07:39:23 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+07:39:23 [ KANTURU ] State(0) -> STANDBY
+07:39:23 [ KANTURU ][ BattleStanby ] State(0) -> START
+07:39:23 [ RAKLION ] State(10) -> IDLE
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 54,Y: 122)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 219,Y: 235)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 170,Y: 11)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 41,Y: 123)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 134,Y: 183)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 84,Y: 59)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 170,Y: 81)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 234,Y: 237)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 17,Y: 188)
+07:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Aida, X: 90,Y: 41)
+07:43:57 [SocketManager] Server started at port [55901]
+07:43:58 [Blood Castle] Sync Start Time. [46] min remain
+07:43:58 [Chaos Castle] Sync Start Time. [16] min remain
+07:43:58 [Devil Square] Sync Start Time. [116] min remain
+07:43:58 [Illusion Temple] Sync Start Time. [36] min remain
+07:43:58 [Moss Merchant] Sync Start Time. [16] min remain
+07:43:58 [ RAKLION ] State(0) -> END
+07:43:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:43:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:43:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+07:43:58 [Reward Master] Sync Start Time. [16] min remain
+07:43:59 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+07:43:59 [ KANTURU ] State(0) -> STANDBY
+07:43:59 [ KANTURU ][ BattleStanby ] State(0) -> START
+07:43:59 [ RAKLION ] State(10) -> IDLE
+07:46:09 [SocketManager] Server started at port [55901]
+07:46:10 [Blood Castle] Sync Start Time. [43] min remain
+07:46:10 [Chaos Castle] Sync Start Time. [13] min remain
+07:46:10 [Devil Square] Sync Start Time. [113] min remain
+07:46:10 [Illusion Temple] Sync Start Time. [33] min remain
+07:46:10 [Moss Merchant] Sync Start Time. [13] min remain
+07:46:10 [ RAKLION ] State(0) -> END
+07:46:10 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:46:10 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:46:10 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+07:46:10 [Reward Master] Sync Start Time. [13] min remain
+07:46:11 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+07:46:11 [ KANTURU ] State(0) -> STANDBY
+07:46:11 [ KANTURU ][ BattleStanby ] State(0) -> START
+07:46:11 [ RAKLION ] State(10) -> IDLE
+07:52:28 [SocketManager] Server started at port [55901]
+07:52:28 [Blood Castle] Sync Start Time. [37] min remain
+07:52:28 [Chaos Castle] Sync Start Time. [7] min remain
+07:52:28 [Devil Square] Sync Start Time. [107] min remain
+07:52:28 [Illusion Temple] Sync Start Time. [27] min remain
+07:52:28 [Moss Merchant] Sync Start Time. [7] min remain
+07:52:28 [ RAKLION ] State(0) -> END
+07:52:28 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+07:52:28 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+07:52:28 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+07:52:28 [Reward Master] Sync Start Time. [7] min remain
+07:52:33 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+07:52:33 [ KANTURU ] State(0) -> STANDBY
+07:52:33 [ KANTURU ][ BattleStanby ] State(0) -> START
+07:52:33 [ RAKLION ] State(10) -> IDLE
+08:00:17 [SocketManager] Server started at port [55901]
+08:00:18 [Blood Castle] Sync Start Time. [29] min remain
+08:00:18 [Chaos Castle] Sync Start Time. [59] min remain
+08:00:18 [Devil Square] Sync Start Time. [99] min remain
+08:00:18 [Illusion Temple] Sync Start Time. [19] min remain
+08:00:18 [Moss Merchant] Sync Start Time. [479] min remain
+08:00:18 [ RAKLION ] State(0) -> END
+08:00:18 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:00:18 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:00:18 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+08:00:18 [Reward Master] Sync Start Time. [599] min remain
+08:00:23 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:00:23 [ KANTURU ] State(0) -> STANDBY
+08:00:23 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:00:23 [ RAKLION ] State(10) -> IDLE
+08:18:58 [SocketManager] Server started at port [55901]
+08:18:58 [Blood Castle] Sync Start Time. [11] min remain
+08:18:58 [Chaos Castle] Sync Start Time. [41] min remain
+08:18:58 [Devil Square] Sync Start Time. [81] min remain
+08:18:58 [Illusion Temple] Sync Start Time. [1] min remain
+08:18:58 [Moss Merchant] Sync Start Time. [461] min remain
+08:18:58 [ RAKLION ] State(0) -> END
+08:18:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:18:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:18:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+08:18:58 [Reward Master] Sync Start Time. [581] min remain
+08:18:59 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:18:59 [ KANTURU ] State(0) -> STANDBY
+08:18:59 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:18:59 [ RAKLION ] State(10) -> IDLE
+08:19:02 [ CRYWOLF ] SYNC Occupation: 0
+08:20:01 [Illusion Temple] Sync Start Time. [479] min remain
+08:20:57 [ObjectManager][9900] Account Login (santi)
+08:21:14 [ObjectManager][9900] Character Login (eiiPandita)
+08:24:19 [ObjectManager][9900] Character Logout (eiiPandita)
+08:24:26 [ObjectManager][9900] Account Logout (santi)
+08:25:11 [ObjectManager][9900] Account Login (santi)
+08:25:17 [ObjectManager][9900] Account Logout (santi)
+08:25:43 [ObjectManager][9900] Account Login (santi)
+08:25:48 [ObjectManager][9900] Character Login (eiiPandita)
+08:27:54 [ObjectManager][9900] Character Logout (eiiPandita)
+08:28:05 [ObjectManager][9900] Character Login (Amiga)
+08:28:24 [ObjectManager][9900] Character Logout (Amiga)
+08:30:01 [Blood Castle] Sync Start Time. [119] min remain
+08:50:02 [SocketManager] Server started at port [55902]
+08:50:03 [Blood Castle] Sync Start Time. [99] min remain
+08:50:03 [Chaos Castle] Sync Start Time. [9] min remain
+08:50:03 [Devil Square] Sync Start Time. [49] min remain
+08:50:03 [Illusion Temple] Sync Start Time. [449] min remain
+08:50:03 [Moss Merchant] Sync Start Time. [429] min remain
+08:50:03 [ RAKLION ] State(0) -> END
+08:50:03 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+08:50:03 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+08:50:03 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+08:50:03 [Reward Master] Sync Start Time. [549] min remain
+08:50:04 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:50:04 [ KANTURU ] State(0) -> STANDBY
+08:50:04 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:50:04 [ RAKLION ] State(10) -> IDLE
+08:50:49 [ CRYWOLF ] SYNC Occupation: 0
+08:52:30 [ObjectManager][9900] Account Login (santi)
+08:52:39 [ObjectManager][9901] Account Login (santii)
+08:53:05 [ObjectManager][9901] Character Login (elDK)
+08:53:07 [ObjectManager][9900] Character Login (eiiPandita)
+09:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+09:03:10 [ObjectManager][9901] Character Logout (elDK)
+09:03:10 [ObjectManager][9901] Account Logout (santii)
+09:03:28 [ObjectManager][9900] Character Logout (eiiPandita)
+09:03:28 [ObjectManager][9900] Account Logout (santi)
+09:09:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:10:02 [ KANTURU ][ BattleStanby ] State(2) -> END
+09:10:02 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+09:10:02 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+09:10:02 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+09:10:02 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+09:10:04 [Marlon] Teleport Map:Atlans X:17 Y:25
+09:12:01 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+09:12:01 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+09:12:01 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+09:12:01 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+09:12:03 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+09:12:03 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+09:12:03 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+09:12:03 [ KANTURU ] State(2) -> END
+09:12:03 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+09:12:03 [ KANTURU ] State(5) -> NONE
+09:12:03 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+09:12:03 [ KANTURU ] State(0) -> STANDBY
+09:12:03 [ KANTURU ][ BattleStanby ] State(0) -> START
+09:35:52 [SocketManager] Server started at port [55902]
+09:35:53 [Blood Castle] Sync Start Time. [54] min remain
+09:35:53 [Chaos Castle] Sync Start Time. [24] min remain
+09:35:53 [Devil Square] Sync Start Time. [4] min remain
+09:35:53 [Illusion Temple] Sync Start Time. [404] min remain
+09:35:53 [Moss Merchant] Sync Start Time. [384] min remain
+09:35:53 [ RAKLION ] State(0) -> END
+09:35:53 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+09:35:53 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+09:35:53 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+09:35:53 [Reward Master] Sync Start Time. [504] min remain
+09:35:54 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+09:35:54 [ KANTURU ] State(0) -> STANDBY
+09:35:54 [ KANTURU ][ BattleStanby ] State(0) -> START
+09:35:54 [ RAKLION ] State(10) -> IDLE
+09:35:59 [ CRYWOLF ] SYNC Occupation: 0
