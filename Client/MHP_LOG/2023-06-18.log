@@ -1,163 +1,21 @@
-06:02:42 ----------------------------------------------------------------------------------------------------
-06:02:42 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 5920/16296mb
-06:02:42 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-06:02:42 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: CC937585, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
-06:02:42 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-06:02:42 [HCDumpListRecv] Count: 113, MaxCount: 598
-06:02:42 [HCDumpListRecv] Count: 113, MaxCount: 598
-06:02:42 [HCDumpListRecv] Count: 113, MaxCount: 598
-06:02:42 [HCDumpListRecv] Count: 113, MaxCount: 598
-06:02:42 [HCDumpListRecv] Count: 113, MaxCount: 598
-06:02:42 [HCDumpListRecv] Count: 33, MaxCount: 598
-06:02:42 [HCChecksumListRecv] Count: 0, MaxCount: 0
-06:02:42 [HCInternalListRecv] Count: 15, MaxCount: 15
-06:02:42 [HCWindowListRecv] Count: 35, MaxCount: 35
-06:02:42 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-06:02:44 [EntryProc] Initialization successful
-06:35:45 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
-06:35:48 [CConnection::DataSend] send() failed with error: 10054
-06:35:56 [CConnection::Connect] connect() failed with error: 10061
-06:36:03 [CConnection::Connect] connect() failed with error: 10061
-06:36:10 [CConnection::Connect] connect() failed with error: 10061
-06:36:17 [CConnection::Connect] connect() failed with error: 10061
-06:36:24 [CConnection::Connect] connect() failed with error: 10061
-06:36:31 [CConnection::Connect] connect() failed with error: 10061
-06:36:38 [CConnection::Connect] connect() failed with error: 10061
-06:36:45 [CConnection::Connect] connect() failed with error: 10061
-06:36:52 [CConnection::Connect] connect() failed with error: 10061
-06:36:59 [CConnection::Connect] connect() failed with error: 10061
-06:37:06 [CConnection::Connect] connect() failed with error: 10061
-06:37:14 [CConnection::Connect] connect() failed with error: 10061
-06:37:21 [CConnection::Connect] connect() failed with error: 10061
-06:37:28 [CConnection::Connect] connect() failed with error: 10061
-06:37:35 [CConnection::Connect] connect() failed with error: 10061
-06:37:42 [CConnection::Connect] connect() failed with error: 10061
-06:37:49 [CConnection::Connect] connect() failed with error: 10061
-06:37:56 [CConnection::Connect] connect() failed with error: 10061
-06:38:03 [CConnection::Connect] connect() failed with error: 10061
-06:38:10 [CConnection::Connect] connect() failed with error: 10061
-06:38:18 [CConnection::Connect] connect() failed with error: 10061
-06:38:25 [CConnection::Connect] connect() failed with error: 10061
-06:38:32 [CConnection::Connect] connect() failed with error: 10061
-06:38:39 [CConnection::Connect] connect() failed with error: 10061
-06:38:46 [CConnection::Connect] connect() failed with error: 10061
-06:38:53 [CConnection::Connect] connect() failed with error: 10061
-06:39:00 [CConnection::Connect] connect() failed with error: 10061
-06:39:07 [CConnection::Connect] connect() failed with error: 10061
-06:39:14 [CConnection::Connect] connect() failed with error: 10061
-06:39:22 [CConnection::Connect] connect() failed with error: 10061
-06:39:29 [CConnection::Connect] connect() failed with error: 10061
-06:39:36 [CConnection::Connect] connect() failed with error: 10061
-06:39:43 [CConnection::Connect] connect() failed with error: 10061
-06:39:50 [CConnection::Connect] connect() failed with error: 10061
-06:39:57 [CConnection::Connect] connect() failed with error: 10061
-06:40:04 [CConnection::Connect] connect() failed with error: 10061
-06:40:11 [CConnection::Connect] connect() failed with error: 10061
-06:40:18 [CConnection::Connect] connect() failed with error: 10061
-06:40:26 [CConnection::Connect] connect() failed with error: 10061
-06:40:33 [CConnection::Connect] connect() failed with error: 10061
-06:40:40 [CConnection::Connect] connect() failed with error: 10061
-06:40:47 [CConnection::Connect] connect() failed with error: 10061
-06:40:54 [CConnection::Connect] connect() failed with error: 10061
-06:41:01 [CConnection::Connect] connect() failed with error: 10061
-06:41:08 [CConnection::Connect] connect() failed with error: 10061
-06:41:15 [CConnection::Connect] connect() failed with error: 10061
-06:41:22 [CConnection::Connect] connect() failed with error: 10061
-06:41:29 [CConnection::Connect] connect() failed with error: 10061
-06:41:36 [CConnection::Connect] connect() failed with error: 10061
-06:41:43 [CConnection::Connect] connect() failed with error: 10061
-06:41:51 [CConnection::Connect] connect() failed with error: 10061
-06:41:58 [CConnection::Connect] connect() failed with error: 10061
-06:42:05 [CConnection::Connect] connect() failed with error: 10061
-06:42:12 [CConnection::Connect] connect() failed with error: 10061
-06:42:19 [CConnection::Connect] connect() failed with error: 10061
-06:42:26 [CConnection::Connect] connect() failed with error: 10061
-06:42:33 [CConnection::Connect] connect() failed with error: 10061
-06:42:40 [CConnection::Connect] connect() failed with error: 10061
-06:42:47 [CConnection::Connect] connect() failed with error: 10061
-06:42:54 [CConnection::Connect] connect() failed with error: 10061
-06:43:02 [CConnection::Connect] connect() failed with error: 10061
-06:43:09 [CConnection::Connect] connect() failed with error: 10061
-06:43:16 [CConnection::Connect] connect() failed with error: 10061
-06:43:23 [CConnection::Connect] connect() failed with error: 10061
-06:43:30 [CConnection::Connect] connect() failed with error: 10061
-06:43:37 [CConnection::Connect] connect() failed with error: 10061
-06:43:44 [CConnection::Connect] connect() failed with error: 10061
-06:43:51 [CConnection::Connect] connect() failed with error: 10061
-06:43:58 [CConnection::Connect] connect() failed with error: 10061
-06:44:05 [CConnection::Connect] connect() failed with error: 10061
-06:44:13 [CConnection::Connect] connect() failed with error: 10061
-06:44:20 [CConnection::Connect] connect() failed with error: 10061
-06:44:27 [CConnection::Connect] connect() failed with error: 10061
-06:44:34 [CConnection::Connect] connect() failed with error: 10061
-06:44:41 [CConnection::Connect] connect() failed with error: 10061
-06:44:48 [CConnection::Connect] connect() failed with error: 10061
-06:44:55 [CConnection::Connect] connect() failed with error: 10061
-06:45:02 [CConnection::Connect] connect() failed with error: 10061
-06:45:09 [CConnection::Connect] connect() failed with error: 10061
-06:45:16 [CConnection::Connect] connect() failed with error: 10061
-06:45:24 [CConnection::Connect] connect() failed with error: 10061
-06:45:31 [CConnection::Connect] connect() failed with error: 10061
-06:45:38 [CConnection::Connect] connect() failed with error: 10061
-06:45:45 [CConnection::Connect] connect() failed with error: 10061
-06:45:52 [CConnection::Connect] connect() failed with error: 10061
-06:45:59 [CConnection::Connect] connect() failed with error: 10061
-06:46:06 [CConnection::Connect] connect() failed with error: 10061
-06:46:13 [CConnection::Connect] connect() failed with error: 10061
-06:46:21 [CConnection::Connect] connect() failed with error: 10061
-06:46:28 [CConnection::Connect] connect() failed with error: 10061
-06:46:35 [CConnection::Connect] connect() failed with error: 10061
-06:46:42 [CConnection::Connect] connect() failed with error: 10061
-06:46:49 [CConnection::Connect] connect() failed with error: 10061
-07:04:08 ----------------------------------------------------------------------------------------------------
-07:04:08 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 6574/16296mb
-07:04:08 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MU
-07:04:08 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 7F6631B2, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
-07:04:08 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-07:04:08 [HCDumpListRecv] Count: 113, MaxCount: 598
-07:04:08 [HCDumpListRecv] Count: 113, MaxCount: 598
-07:04:08 [HCDumpListRecv] Count: 113, MaxCount: 598
-07:04:08 [HCDumpListRecv] Count: 113, MaxCount: 598
-07:04:08 [HCDumpListRecv] Count: 113, MaxCount: 598
-07:04:08 [HCDumpListRecv] Count: 33, MaxCount: 598
-07:04:08 [HCChecksumListRecv] Count: 0, MaxCount: 0
-07:04:08 [HCInternalListRecv] Count: 15, MaxCount: 15
-07:04:08 [HCWindowListRecv] Count: 35, MaxCount: 35
-07:04:09 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-07:04:11 [EntryProc] Initialization successful
-07:14:54 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
-07:14:57 [CConnection::DataSend] send() failed with error: 10054
-10:23:58 ----------------------------------------------------------------------------------------------------
-10:23:58 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 6106/16296mb
-10:23:58 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MU
-10:23:58 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 7F6631B2, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
-10:23:58 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-10:23:58 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:23:58 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:23:58 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:23:58 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:23:58 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:23:58 [HCDumpListRecv] Count: 33, MaxCount: 598
-10:23:58 [HCChecksumListRecv] Count: 0, MaxCount: 0
-10:23:58 [HCInternalListRecv] Count: 15, MaxCount: 15
-10:23:58 [HCWindowListRecv] Count: 35, MaxCount: 35
-10:23:59 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-10:24:01 [EntryProc] Initialization successful
-10:31:58 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
-10:31:59 [CConnection::DataSend] send() failed with error: 10054
-10:33:31 ----------------------------------------------------------------------------------------------------
-10:33:31 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 5899/16296mb
-10:33:31 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MU
-10:33:31 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 7F6631B2, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
-10:33:31 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-10:33:31 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:33:31 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:33:31 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:33:31 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:33:31 [HCDumpListRecv] Count: 113, MaxCount: 598
-10:33:31 [HCDumpListRecv] Count: 33, MaxCount: 598
-10:33:31 [HCChecksumListRecv] Count: 0, MaxCount: 0
-10:33:31 [HCInternalListRecv] Count: 15, MaxCount: 15
-10:33:31 [HCWindowListRecv] Count: 35, MaxCount: 35
-10:33:31 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-10:33:33 [EntryProc] Initialization successful
+11:02:54 ----------------------------------------------------------------------------------------------------
+11:02:54 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 5490/15817mb
+11:02:54 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
+11:03:15 [CConnection::Connect] connect() failed with error: 10060
+11:03:15 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Could not connect to the server
+11:05:43 ----------------------------------------------------------------------------------------------------
+11:05:43 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 5481/15817mb
+11:05:43 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: MU
+11:05:44 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 7F6631B2, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
+11:05:44 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+11:05:44 [HCDumpListRecv] Count: 113, MaxCount: 598
+11:05:44 [HCDumpListRecv] Count: 113, MaxCount: 598
+11:05:44 [HCDumpListRecv] Count: 113, MaxCount: 598
+11:05:44 [HCDumpListRecv] Count: 113, MaxCount: 598
+11:05:44 [HCDumpListRecv] Count: 113, MaxCount: 598
+11:05:44 [HCDumpListRecv] Count: 33, MaxCount: 598
+11:05:44 [HCChecksumListRecv] Count: 0, MaxCount: 0
+11:05:44 [HCInternalListRecv] Count: 15, MaxCount: 15
+11:05:44 [HCWindowListRecv] Count: 35, MaxCount: 35
+11:05:44 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
+11:05:46 [EntryProc] Initialization successful
