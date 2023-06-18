@@ -1,118 +1,21 @@
-07:26:24 ----------------------------------------------------------------------------------------------------
-07:26:24 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7279/15817mb
-07:26:24 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-07:26:26 [CConnection::Connect] connect() failed with error: 10061
-07:26:26 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Could not connect to the server
-08:01:34 ----------------------------------------------------------------------------------------------------
-08:01:34 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7283/15817mb
-08:01:35 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-08:01:35 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-08:01:35 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-08:01:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:01:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:01:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:01:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:01:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:01:35 [HCDumpListRecv] Count: 33, MaxCount: 598
-08:01:35 [HCChecksumListRecv] Count: 0, MaxCount: 0
-08:01:35 [HCInternalListRecv] Count: 15, MaxCount: 15
-08:01:35 [HCWindowListRecv] Count: 35, MaxCount: 35
-08:01:35 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-08:01:37 [EntryProc] Initialization successful
-08:20:29 ----------------------------------------------------------------------------------------------------
-08:20:29 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7409/15817mb
-08:20:29 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-08:20:29 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-08:20:29 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-08:20:29 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:20:29 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:20:29 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:20:29 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:20:29 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:20:29 [HCDumpListRecv] Count: 33, MaxCount: 598
-08:20:29 [HCChecksumListRecv] Count: 0, MaxCount: 0
-08:20:29 [HCInternalListRecv] Count: 15, MaxCount: 15
-08:20:29 [HCWindowListRecv] Count: 35, MaxCount: 35
-08:20:30 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-08:20:32 [EntryProc] Initialization successful
-08:36:53 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
-08:51:57 ----------------------------------------------------------------------------------------------------
-08:51:57 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7891/15817mb
-08:51:57 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-08:51:57 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-08:51:57 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-08:51:57 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:51:57 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:51:57 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:51:57 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:51:57 [HCDumpListRecv] Count: 113, MaxCount: 598
-08:51:57 [HCDumpListRecv] Count: 33, MaxCount: 598
-08:51:57 [HCChecksumListRecv] Count: 0, MaxCount: 0
-08:51:57 [HCInternalListRecv] Count: 15, MaxCount: 15
-08:51:57 [HCWindowListRecv] Count: 35, MaxCount: 35
-08:51:58 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-08:52:00 [EntryProc] Initialization successful
-09:04:46 ----------------------------------------------------------------------------------------------------
-09:04:46 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7683/15817mb
-09:04:46 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-09:04:46 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-09:04:46 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-09:04:46 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:04:46 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:04:46 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:04:46 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:04:46 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:04:46 [HCDumpListRecv] Count: 33, MaxCount: 598
-09:04:46 [HCChecksumListRecv] Count: 0, MaxCount: 0
-09:04:46 [HCInternalListRecv] Count: 15, MaxCount: 15
-09:04:46 [HCWindowListRecv] Count: 35, MaxCount: 35
-09:04:46 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-09:04:48 [EntryProc] Initialization successful
-09:05:17 ----------------------------------------------------------------------------------------------------
-09:05:17 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7664/15817mb
-09:05:17 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-09:05:17 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-09:05:17 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-09:05:17 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:05:17 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:05:17 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:05:17 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:05:17 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:05:17 [HCDumpListRecv] Count: 33, MaxCount: 598
-09:05:17 [HCChecksumListRecv] Count: 0, MaxCount: 0
-09:05:17 [HCInternalListRecv] Count: 15, MaxCount: 15
-09:05:17 [HCWindowListRecv] Count: 35, MaxCount: 35
-09:05:17 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-09:05:19 [EntryProc] Initialization successful
-09:09:35 ----------------------------------------------------------------------------------------------------
-09:09:35 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7623/15817mb
-09:09:35 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-09:09:35 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-09:09:35 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-09:09:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:09:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:09:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:09:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:09:35 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:09:35 [HCDumpListRecv] Count: 33, MaxCount: 598
-09:09:35 [HCChecksumListRecv] Count: 0, MaxCount: 0
-09:09:35 [HCInternalListRecv] Count: 15, MaxCount: 15
-09:09:35 [HCWindowListRecv] Count: 35, MaxCount: 35
-09:09:36 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-09:09:38 [EntryProc] Initialization successful
-09:36:19 ----------------------------------------------------------------------------------------------------
-09:36:19 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 7671/15817mb
-09:36:19 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
-09:36:19 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: E3F5A368, HackVersion: PREMIUM, HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3
-09:36:19 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
-09:36:19 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:36:19 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:36:19 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:36:19 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:36:19 [HCDumpListRecv] Count: 113, MaxCount: 598
-09:36:19 [HCDumpListRecv] Count: 33, MaxCount: 598
-09:36:19 [HCChecksumListRecv] Count: 0, MaxCount: 0
-09:36:19 [HCInternalListRecv] Count: 15, MaxCount: 15
-09:36:19 [HCWindowListRecv] Count: 35, MaxCount: 35
-09:36:20 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
-09:36:22 [EntryProc] Initialization successful
+13:41:28 ----------------------------------------------------------------------------------------------------
+13:41:28 [CheckSystemInformation] ClientVersion: PREMIUM, SystemVersion: 6.2.9200, MemoryUsage: 6601/16296mb
+13:41:28 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Powered by SetecSoft
+13:41:28 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: CC937585, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
+13:41:28 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+13:41:28 [HCDumpListRecv] Count: 113, MaxCount: 598
+13:41:28 [HCDumpListRecv] Count: 113, MaxCount: 598
+13:41:28 [HCDumpListRecv] Count: 113, MaxCount: 598
+13:41:28 [HCDumpListRecv] Count: 113, MaxCount: 598
+13:41:28 [HCDumpListRecv] Count: 113, MaxCount: 598
+13:41:28 [HCDumpListRecv] Count: 33, MaxCount: 598
+13:41:28 [HCChecksumListRecv] Count: 0, MaxCount: 0
+13:41:28 [HCInternalListRecv] Count: 15, MaxCount: 15
+13:41:28 [HCWindowListRecv] Count: 35, MaxCount: 35
+13:41:29 [EntryProc] DumpListMaxCount: 598, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 35
+13:41:31 [EntryProc] Initialization successful
+13:47:49 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
+13:47:49 [CConnection::DataSend] send() failed with error: 10054
+13:47:57 [CConnection::Connect] connect() failed with error: 10061
+13:48:02 [CHClientInfoSend] IsReconnect: 1, ClientFileCRC: CC937585, HackVersion: PREMIUM, HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6
+14:07:00 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053

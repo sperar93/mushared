@@ -80,3 +80,128 @@
 09:36:19 [ClientManager][0] AddClient (192.168.1.9)
 09:36:19 [ClientManager][0] ClientInfo (HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3)
 09:37:45 [ClientManager][0] DelClient (192.168.1.9)
+11:02:53 [SocketManager] Server started at port [55999]
+11:02:53 [ServerInfo] Config loaded successfully
+11:02:53 [ServerInfo] DumpList loaded successfully
+11:02:53 [ServerInfo] ChecksumList loaded successfully
+11:02:53 [ServerInfo] InternalList loaded successfully
+11:02:53 [ServerInfo] WindowList loaded successfully
+11:02:53 [ServerInfo] BlackList loaded successfully
+11:06:01 [SocketManager] Server started at port [55999]
+11:06:01 [ServerInfo] Config loaded successfully
+11:06:01 [ServerInfo] DumpList loaded successfully
+11:06:01 [ServerInfo] ChecksumList loaded successfully
+11:06:01 [ServerInfo] InternalList loaded successfully
+11:06:01 [ServerInfo] WindowList loaded successfully
+11:06:01 [ServerInfo] BlackList loaded successfully
+11:08:18 [SocketManager] Server started at port [55999]
+11:08:18 [ServerInfo] Config loaded successfully
+11:08:18 [ServerInfo] DumpList loaded successfully
+11:08:18 [ServerInfo] ChecksumList loaded successfully
+11:08:18 [ServerInfo] InternalList loaded successfully
+11:08:18 [ServerInfo] WindowList loaded successfully
+11:08:18 [ServerInfo] BlackList loaded successfully
+11:08:49 [ClientManager][0] AddClient (192.168.1.8)
+11:08:49 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+11:23:55 [ClientManager][1] AddClient (186.53.234.158)
+11:23:55 [ClientManager][1] ClientInfo (HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3)
+11:25:06 [ClientManager][1] DelClient (186.53.234.158)
+11:25:22 [ClientManager][1] AddClient (186.53.234.158)
+11:25:22 [ClientManager][1] ClientInfo (HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3)
+11:26:01 [ClientManager][1] DelClient (186.53.234.158)
+11:28:33 [ClientManager][1] AddClient (186.53.234.158)
+11:28:33 [ClientManager][1] ClientInfo (HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3)
+11:33:02 [ClientManager][1] DelClient (186.53.234.158)
+11:35:07 [SocketManager] Server started at port [55999]
+11:35:07 [ServerInfo] Config loaded successfully
+11:35:07 [ServerInfo] DumpList loaded successfully
+11:35:07 [ServerInfo] ChecksumList loaded successfully
+11:35:07 [ServerInfo] InternalList loaded successfully
+11:35:07 [ServerInfo] WindowList loaded successfully
+11:35:07 [ServerInfo] BlackList loaded successfully
+11:35:08 [ClientManager][0] AddClient (192.168.1.8)
+11:35:08 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+11:35:27 [ClientManager][1] AddClient (186.53.234.158)
+11:35:27 [ClientManager][1] ClientInfo (HardwareId: 08E3877F-A2CA84B3-B0638D74-B9049ED3)
+11:35:47 [ClientManager][0] DelClient (192.168.1.8)
+11:36:23 [ClientManager][1] DelClient (186.53.234.158)
+11:44:39 [SocketManager] Server started at port [55999]
+11:44:39 [ServerInfo] Config loaded successfully
+11:44:39 [ServerInfo] DumpList loaded successfully
+11:44:39 [ServerInfo] ChecksumList loaded successfully
+11:44:39 [ServerInfo] InternalList loaded successfully
+11:44:39 [ServerInfo] WindowList loaded successfully
+11:44:39 [ServerInfo] BlackList loaded successfully
+11:44:44 [ClientManager][0] AddClient (192.168.1.8)
+11:44:44 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+11:46:06 [ClientManager][0] DelClient (192.168.1.8)
+11:49:02 [ClientManager][0] AddClient (192.168.1.8)
+11:49:02 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+11:49:11 [ClientManager][0] DelClient (192.168.1.8)
+11:52:52 [SocketManager] Server started at port [55999]
+11:52:52 [ServerInfo] Config loaded successfully
+11:52:52 [ServerInfo] DumpList loaded successfully
+11:52:52 [ServerInfo] ChecksumList loaded successfully
+11:52:52 [ServerInfo] InternalList loaded successfully
+11:52:52 [ServerInfo] WindowList loaded successfully
+11:52:52 [ServerInfo] BlackList loaded successfully
+11:59:49 [ClientManager][0] AddClient (192.168.1.8)
+11:59:49 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+12:00:21 [ClientManager][0] DelClient (192.168.1.8)
+12:17:46 [SocketManager] Server started at port [55999]
+12:17:46 [ServerInfo] Config loaded successfully
+12:17:46 [ServerInfo] DumpList loaded successfully
+12:17:46 [ServerInfo] ChecksumList loaded successfully
+12:17:46 [ServerInfo] InternalList loaded successfully
+12:17:46 [ServerInfo] WindowList loaded successfully
+12:17:46 [ServerInfo] BlackList loaded successfully
+12:18:07 [ClientManager][0] AddClient (192.168.1.8)
+12:18:07 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+12:22:22 [ClientManager][0] DelClient (192.168.1.8)
+12:22:36 [SocketManager] Server started at port [55999]
+12:22:36 [ServerInfo] Config loaded successfully
+12:22:36 [ServerInfo] DumpList loaded successfully
+12:22:36 [ServerInfo] ChecksumList loaded successfully
+12:22:36 [ServerInfo] InternalList loaded successfully
+12:22:36 [ServerInfo] WindowList loaded successfully
+12:22:36 [ServerInfo] BlackList loaded successfully
+12:23:01 [ClientManager][0] AddClient (192.168.1.8)
+12:23:01 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+12:25:00 [ClientManager][0] DelClient (192.168.1.8)
+12:25:26 [SocketManager] Server started at port [55999]
+12:25:26 [ServerInfo] Config loaded successfully
+12:25:26 [ServerInfo] DumpList loaded successfully
+12:25:26 [ServerInfo] ChecksumList loaded successfully
+12:25:26 [ServerInfo] InternalList loaded successfully
+12:25:26 [ServerInfo] WindowList loaded successfully
+12:25:26 [ServerInfo] BlackList loaded successfully
+12:25:49 [ClientManager][0] AddClient (192.168.1.8)
+12:25:49 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+13:05:28 [ClientManager][0] DelClient (192.168.1.8)
+13:18:22 [SocketManager] Server started at port [55999]
+13:18:22 [ServerInfo] Config loaded successfully
+13:18:22 [ServerInfo] DumpList loaded successfully
+13:18:22 [ServerInfo] ChecksumList loaded successfully
+13:18:22 [ServerInfo] InternalList loaded successfully
+13:18:22 [ServerInfo] WindowList loaded successfully
+13:18:22 [ServerInfo] BlackList loaded successfully
+13:18:28 [ClientManager][0] AddClient (192.168.1.8)
+13:18:28 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+13:41:14 [SocketManager] Server started at port [55999]
+13:41:14 [ServerInfo] Config loaded successfully
+13:41:14 [ServerInfo] DumpList loaded successfully
+13:41:14 [ServerInfo] ChecksumList loaded successfully
+13:41:14 [ServerInfo] InternalList loaded successfully
+13:41:14 [ServerInfo] WindowList loaded successfully
+13:41:14 [ServerInfo] BlackList loaded successfully
+13:41:28 [ClientManager][0] AddClient (192.168.1.8)
+13:41:28 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)
+13:48:01 [SocketManager] Server started at port [55999]
+13:48:01 [ServerInfo] Config loaded successfully
+13:48:01 [ServerInfo] DumpList loaded successfully
+13:48:01 [ServerInfo] ChecksumList loaded successfully
+13:48:01 [ServerInfo] InternalList loaded successfully
+13:48:01 [ServerInfo] WindowList loaded successfully
+13:48:01 [ServerInfo] BlackList loaded successfully
+13:48:02 [ClientManager][0] AddClient (192.168.1.8)
+13:48:02 [ClientManager][0] ClientInfo (HardwareId: 0F818519-DECD9ECB-C26D8A7A-890BEED6)

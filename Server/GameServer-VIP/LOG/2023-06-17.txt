@@ -169,3 +169,421 @@
 09:35:56 [ KANTURU ][ BattleStanby ] State(0) -> START
 09:35:56 [ RAKLION ] State(10) -> IDLE
 09:35:59 [ CRYWOLF ] SYNC Occupation: 0
+11:02:51 [SocketManager] Server started at port [55903]
+11:02:51 [Blood Castle] Sync Start Time. [87] min remain
+11:02:51 [Chaos Castle] Sync Start Time. [57] min remain
+11:02:51 [Devil Square] Sync Start Time. [157] min remain
+11:02:51 [Illusion Temple] Sync Start Time. [317] min remain
+11:02:51 [Moss Merchant] Sync Start Time. [297] min remain
+11:02:51 [ RAKLION ] State(0) -> END
+11:02:51 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:02:51 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:02:51 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:02:51 [Reward Master] Sync Start Time. [417] min remain
+11:02:52 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:02:52 [ KANTURU ] State(0) -> STANDBY
+11:02:52 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:02:52 [ RAKLION ] State(10) -> IDLE
+11:02:54 [ CRYWOLF ] SYNC Occupation: 0
+11:05:58 [SocketManager] Server started at port [55903]
+11:05:58 [Blood Castle] Sync Start Time. [84] min remain
+11:05:58 [Chaos Castle] Sync Start Time. [54] min remain
+11:05:58 [Devil Square] Sync Start Time. [154] min remain
+11:05:58 [Illusion Temple] Sync Start Time. [314] min remain
+11:05:58 [Moss Merchant] Sync Start Time. [294] min remain
+11:05:58 [ RAKLION ] State(0) -> END
+11:05:58 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:05:58 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:05:58 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:05:58 [Reward Master] Sync Start Time. [414] min remain
+11:05:59 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:05:59 [ KANTURU ] State(0) -> STANDBY
+11:05:59 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:05:59 [ RAKLION ] State(10) -> IDLE
+11:06:02 [ CRYWOLF ] SYNC Occupation: 0
+11:08:15 [SocketManager] Server started at port [55903]
+11:08:16 [Blood Castle] Sync Start Time. [81] min remain
+11:08:16 [Chaos Castle] Sync Start Time. [51] min remain
+11:08:16 [Devil Square] Sync Start Time. [151] min remain
+11:08:16 [Illusion Temple] Sync Start Time. [311] min remain
+11:08:16 [Moss Merchant] Sync Start Time. [291] min remain
+11:08:16 [ RAKLION ] State(0) -> END
+11:08:16 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:08:16 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:08:16 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:08:16 [Reward Master] Sync Start Time. [411] min remain
+11:08:17 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:08:17 [ KANTURU ] State(0) -> STANDBY
+11:08:17 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:08:17 [ RAKLION ] State(10) -> IDLE
+11:08:19 [ CRYWOLF ] SYNC Occupation: 0
+11:27:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:28:15 [ KANTURU ][ BattleStanby ] State(2) -> END
+11:28:15 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+11:28:15 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+11:28:15 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+11:28:15 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+11:28:17 [Marlon] Teleport Map:Atlans X:17 Y:25
+11:30:14 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+11:30:14 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+11:30:14 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+11:30:14 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+11:30:16 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+11:30:16 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+11:30:16 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+11:30:16 [ KANTURU ] State(2) -> END
+11:30:16 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+11:30:16 [ KANTURU ] State(5) -> NONE
+11:30:16 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:30:16 [ KANTURU ] State(0) -> STANDBY
+11:30:16 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:35:05 [SocketManager] Server started at port [55903]
+11:35:05 [Blood Castle] Sync Start Time. [54] min remain
+11:35:05 [Chaos Castle] Sync Start Time. [24] min remain
+11:35:05 [Devil Square] Sync Start Time. [124] min remain
+11:35:05 [Illusion Temple] Sync Start Time. [284] min remain
+11:35:05 [Moss Merchant] Sync Start Time. [264] min remain
+11:35:05 [ RAKLION ] State(0) -> END
+11:35:05 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:35:05 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:35:05 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:35:05 [Reward Master] Sync Start Time. [384] min remain
+11:35:06 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:35:06 [ KANTURU ] State(0) -> STANDBY
+11:35:06 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:35:06 [ RAKLION ] State(10) -> IDLE
+11:44:37 [SocketManager] Server started at port [55903]
+11:44:37 [Blood Castle] Sync Start Time. [45] min remain
+11:44:37 [Chaos Castle] Sync Start Time. [15] min remain
+11:44:37 [Devil Square] Sync Start Time. [115] min remain
+11:44:37 [Illusion Temple] Sync Start Time. [275] min remain
+11:44:37 [Moss Merchant] Sync Start Time. [255] min remain
+11:44:37 [ RAKLION ] State(0) -> END
+11:44:37 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:44:37 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:44:37 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:44:37 [Reward Master] Sync Start Time. [375] min remain
+11:44:38 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:44:38 [ KANTURU ] State(0) -> STANDBY
+11:44:38 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:44:38 [ RAKLION ] State(10) -> IDLE
+11:52:49 [SocketManager] Server started at port [55903]
+11:52:50 [Blood Castle] Sync Start Time. [37] min remain
+11:52:50 [Chaos Castle] Sync Start Time. [7] min remain
+11:52:50 [Devil Square] Sync Start Time. [107] min remain
+11:52:50 [Illusion Temple] Sync Start Time. [267] min remain
+11:52:50 [Moss Merchant] Sync Start Time. [247] min remain
+11:52:50 [ RAKLION ] State(0) -> END
+11:52:50 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+11:52:50 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+11:52:50 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+11:52:50 [Reward Master] Sync Start Time. [367] min remain
+11:52:51 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+11:52:51 [ KANTURU ] State(0) -> STANDBY
+11:52:51 [ KANTURU ][ BattleStanby ] State(0) -> START
+11:52:51 [ RAKLION ] State(10) -> IDLE
+11:52:53 [ CRYWOLF ] SYNC Occupation: 0
+12:00:00 [Bonus Manager] [Happy Hour] SetState START
+12:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+12:10:00 [Invasion Manager] SetMonster (Monster: 55) (Map: Lorencia, X: 127,Y: 201)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 133,Y: 198)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 130,Y: 196)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 139,Y: 198)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 132,Y: 190)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 128,Y: 199)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 128,Y: 195)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 134,Y: 192)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 132,Y: 195)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 125,Y: 190)
+12:10:00 [Invasion Manager] SetMonster (Monster: 56) (Map: Lorencia, X: 131,Y: 201)
+12:11:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:12:49 [ KANTURU ][ BattleStanby ] State(2) -> END
+12:12:49 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+12:12:49 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+12:12:49 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+12:12:49 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+12:12:51 [Marlon] Teleport Map:Atlans X:17 Y:25
+12:14:48 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+12:14:48 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+12:14:48 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+12:14:48 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+12:14:50 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+12:14:50 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+12:14:50 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+12:14:50 [ KANTURU ] State(2) -> END
+12:14:50 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+12:14:50 [ KANTURU ] State(5) -> NONE
+12:14:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:14:50 [ KANTURU ] State(0) -> STANDBY
+12:14:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:17:44 [SocketManager] Server started at port [55903]
+12:17:44 [Blood Castle] Sync Start Time. [12] min remain
+12:17:44 [Chaos Castle] Sync Start Time. [42] min remain
+12:17:44 [Devil Square] Sync Start Time. [82] min remain
+12:17:44 [Illusion Temple] Sync Start Time. [242] min remain
+12:17:44 [Moss Merchant] Sync Start Time. [222] min remain
+12:17:44 [ RAKLION ] State(0) -> END
+12:17:44 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:17:44 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:17:44 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:17:44 [Reward Master] Sync Start Time. [342] min remain
+12:17:45 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:17:45 [ KANTURU ] State(0) -> STANDBY
+12:17:45 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:17:45 [ RAKLION ] State(10) -> IDLE
+12:17:47 [ CRYWOLF ] SYNC Occupation: 0
+12:20:00 [Invasion Manager] SetMonster (Monster: 42) (Map: Lorencia, X: 167,Y: 22)
+12:20:00 [Invasion Manager] SetMonster (Monster: 53) (Map: Devias, X: 139,Y: 196)
+12:20:00 [Invasion Manager] SetMonster (Monster: 53) (Map: Devias, X: 132,Y: 222)
+12:20:00 [Invasion Manager] SetMonster (Monster: 53) (Map: Devias, X: 104,Y: 183)
+12:20:00 [Invasion Manager] SetMonster (Monster: 53) (Map: Devias, X: 238,Y: 138)
+12:20:00 [Invasion Manager] SetMonster (Monster: 53) (Map: Devias, X: 109,Y: 159)
+12:20:00 [Invasion Manager] SetMonster (Monster: 54) (Map: Devias, X: 88,Y: 129)
+12:20:00 [Invasion Manager] SetMonster (Monster: 54) (Map: Devias, X: 124,Y: 218)
+12:20:00 [Invasion Manager] SetMonster (Monster: 54) (Map: Devias, X: 166,Y: 136)
+12:20:00 [Invasion Manager] SetMonster (Monster: 54) (Map: Devias, X: 61,Y: 52)
+12:20:00 [Invasion Manager] SetMonster (Monster: 54) (Map: Devias, X: 199,Y: 223)
+12:20:00 [Invasion Manager] SetMonster (Monster: 78) (Map: Noria, X: 234,Y: 40)
+12:20:00 [Invasion Manager] SetMonster (Monster: 78) (Map: Noria, X: 43,Y: 171)
+12:20:00 [Invasion Manager] SetMonster (Monster: 78) (Map: Noria, X: 76,Y: 96)
+12:20:00 [Invasion Manager] SetMonster (Monster: 78) (Map: Noria, X: 137,Y: 157)
+12:20:00 [Invasion Manager] SetMonster (Monster: 78) (Map: Noria, X: 17,Y: 53)
+12:20:00 [Invasion Manager] SetMonster (Monster: 79) (Map: Lorencia, X: 161,Y: 170)
+12:20:00 [Invasion Manager] SetMonster (Monster: 80) (Map: Atlans, X: 178,Y: 54)
+12:20:00 [Invasion Manager] SetMonster (Monster: 80) (Map: Atlans, X: 101,Y: 211)
+12:20:00 [Invasion Manager] SetMonster (Monster: 80) (Map: Atlans, X: 79,Y: 124)
+12:20:00 [Invasion Manager] SetMonster (Monster: 81) (Map: Atlans, X: 120,Y: 173)
+12:20:00 [Invasion Manager] SetMonster (Monster: 81) (Map: Atlans, X: 221,Y: 146)
+12:20:00 [Invasion Manager] SetMonster (Monster: 81) (Map: Atlans, X: 129,Y: 128)
+12:20:00 [Invasion Manager] SetMonster (Monster: 81) (Map: Atlans, X: 122,Y: 171)
+12:20:00 [Invasion Manager] SetMonster (Monster: 81) (Map: Atlans, X: 101,Y: 177)
+12:20:00 [Invasion Manager] SetMonster (Monster: 82) (Map: Tarkan, X: 93,Y: 83)
+12:20:00 [Invasion Manager] SetMonster (Monster: 82) (Map: Tarkan, X: 45,Y: 122)
+12:20:00 [Invasion Manager] SetMonster (Monster: 82) (Map: Tarkan, X: 98,Y: 49)
+12:20:00 [Invasion Manager] SetMonster (Monster: 83) (Map: Tarkan, X: 179,Y: 112)
+12:20:00 [Invasion Manager] SetMonster (Monster: 83) (Map: Tarkan, X: 103,Y: 133)
+12:20:00 [Invasion Manager] SetMonster (Monster: 83) (Map: Tarkan, X: 12,Y: 201)
+12:20:00 [Invasion Manager] SetMonster (Monster: 83) (Map: Tarkan, X: 61,Y: 120)
+12:20:00 [Invasion Manager] SetMonster (Monster: 83) (Map: Tarkan, X: 18,Y: 230)
+12:20:00 [Invasion Manager] SetMonster (Monster: 493) (Map: Dungeon, X: 30,Y: 98)
+12:20:00 [Invasion Manager] SetMonster (Monster: 493) (Map: Dungeon, X: 31,Y: 55)
+12:20:00 [Invasion Manager] SetMonster (Monster: 493) (Map: Dungeon, X: 2,Y: 56)
+12:20:00 [Invasion Manager] SetMonster (Monster: 494) (Map: Lost Tower, X: 30,Y: 121)
+12:20:00 [Invasion Manager] SetMonster (Monster: 494) (Map: Lost Tower, X: 133,Y: 53)
+12:20:00 [Invasion Manager] SetMonster (Monster: 494) (Map: Lost Tower, X: 121,Y: 198)
+12:20:00 [Invasion Manager] SetMonster (Monster: 495) (Map: Aida, X: 215,Y: 93)
+12:20:00 [Invasion Manager] SetMonster (Monster: 495) (Map: Aida, X: 176,Y: 18)
+12:20:00 [Invasion Manager] SetMonster (Monster: 495) (Map: Aida, X: 193,Y: 143)
+12:20:00 [Invasion Manager] SetMonster (Monster: 497) (Map: Kanturu Ruins, X: 124,Y: 27)
+12:20:00 [Invasion Manager] SetMonster (Monster: 497) (Map: Kanturu Ruins, X: 167,Y: 46)
+12:20:00 [Invasion Manager] SetMonster (Monster: 497) (Map: Kanturu Ruins, X: 140,Y: 43)
+12:20:00 [Invasion Manager] SetMonster (Monster: 498) (Map: Kanturu Remain, X: 105,Y: 78)
+12:20:00 [Invasion Manager] SetMonster (Monster: 498) (Map: Kanturu Remain, X: 179,Y: 90)
+12:20:00 [Invasion Manager] SetMonster (Monster: 498) (Map: Kanturu Remain, X: 115,Y: 80)
+12:20:00 [Invasion Manager] SetMonster (Monster: 499) (Map: Raklion, X: 177,Y: 191)
+12:20:00 [Invasion Manager] SetMonster (Monster: 499) (Map: Raklion, X: 50,Y: 217)
+12:20:00 [Invasion Manager] SetMonster (Monster: 499) (Map: Raklion, X: 216,Y: 76)
+12:20:00 [Invasion Manager] SetMonster (Monster: 500) (Map: Swamp of Calmness, X: 109,Y: 184)
+12:20:00 [Invasion Manager] SetMonster (Monster: 500) (Map: Swamp of Calmness, X: 30,Y: 232)
+12:20:00 [Invasion Manager] SetMonster (Monster: 500) (Map: Swamp of Calmness, X: 180,Y: 138)
+12:20:00 [Invasion Manager] SetMonster (Monster: 501) (Map: Kanturu Ruins, X: 184,Y: 22)
+12:20:00 [Invasion Manager] SetMonster (Monster: 502) (Map: Elbeland, X: 225,Y: 42)
+12:20:00 [Invasion Manager] SetMonster (Monster: 502) (Map: Elbeland, X: 229,Y: 158)
+12:20:00 [Invasion Manager] SetMonster (Monster: 502) (Map: Elbeland, X: 181,Y: 180)
+12:20:00 [Invasion Manager] SetMonster (Monster: 502) (Map: Elbeland, X: 194,Y: 196)
+12:20:00 [Invasion Manager] SetMonster (Monster: 502) (Map: Elbeland, X: 224,Y: 107)
+12:22:34 [SocketManager] Server started at port [55903]
+12:22:34 [Blood Castle] Sync Start Time. [7] min remain
+12:22:34 [Chaos Castle] Sync Start Time. [37] min remain
+12:22:34 [Devil Square] Sync Start Time. [77] min remain
+12:22:34 [Illusion Temple] Sync Start Time. [237] min remain
+12:22:34 [Moss Merchant] Sync Start Time. [217] min remain
+12:22:34 [ RAKLION ] State(0) -> END
+12:22:34 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:22:34 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:22:34 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:22:34 [Reward Master] Sync Start Time. [337] min remain
+12:22:35 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:22:35 [ KANTURU ] State(0) -> STANDBY
+12:22:35 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:22:35 [ RAKLION ] State(10) -> IDLE
+12:22:37 [ CRYWOLF ] SYNC Occupation: 0
+12:25:23 [SocketManager] Server started at port [55903]
+12:25:23 [Blood Castle] Sync Start Time. [4] min remain
+12:25:23 [Chaos Castle] Sync Start Time. [34] min remain
+12:25:23 [Devil Square] Sync Start Time. [74] min remain
+12:25:23 [Illusion Temple] Sync Start Time. [234] min remain
+12:25:23 [Moss Merchant] Sync Start Time. [214] min remain
+12:25:23 [ RAKLION ] State(0) -> END
+12:25:23 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+12:25:23 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+12:25:23 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+12:25:23 [Reward Master] Sync Start Time. [334] min remain
+12:25:24 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:25:24 [ KANTURU ] State(0) -> STANDBY
+12:25:24 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:25:24 [ RAKLION ] State(10) -> IDLE
+12:25:27 [ CRYWOLF ] SYNC Occupation: 0
+12:30:01 [Blood Castle] Sync Start Time. [119] min remain
+12:40:00 [Invasion Manager] SetMonster (Monster: 135) (Map: Lorencia, X: 161,Y: 48)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 152,Y: 57)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 149,Y: 58)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 149,Y: 64)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 150,Y: 50)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 160,Y: 60)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 152,Y: 52)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 149,Y: 55)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 161,Y: 48)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 152,Y: 54)
+12:40:00 [Invasion Manager] SetMonster (Monster: 136) (Map: Lorencia, X: 157,Y: 63)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 150,Y: 62)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 151,Y: 47)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 156,Y: 62)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 150,Y: 59)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 158,Y: 56)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 154,Y: 54)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 156,Y: 50)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 149,Y: 57)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 154,Y: 54)
+12:40:00 [Invasion Manager] SetMonster (Monster: 137) (Map: Lorencia, X: 152,Y: 48)
+12:44:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:45:23 [ KANTURU ][ BattleStanby ] State(2) -> END
+12:45:23 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+12:45:23 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+12:45:23 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+12:45:23 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+12:45:24 [Marlon] Teleport Map:Atlans X:17 Y:25
+12:47:22 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+12:47:22 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+12:47:22 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+12:47:22 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+12:47:24 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+12:47:24 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+12:47:24 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+12:47:24 [ KANTURU ] State(2) -> END
+12:47:24 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+12:47:24 [ KANTURU ] State(5) -> NONE
+12:47:24 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+12:47:24 [ KANTURU ] State(0) -> STANDBY
+12:47:24 [ KANTURU ][ BattleStanby ] State(0) -> START
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 122,Y: 132)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 128,Y: 239)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 217,Y: 217)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 128,Y: 40)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 200,Y: 191)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 105,Y: 52)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 221,Y: 32)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 233,Y: 113)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 189,Y: 16)
+12:50:00 [Invasion Manager] SetMonster (Monster: 463) (Map: Lost Tower, X: 43,Y: 208)
+13:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+13:05:24 [Marlon] Teleport Map:Noria X:169 Y:89
+13:06:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:07:22 [ KANTURU ][ BattleStanby ] State(2) -> END
+13:07:22 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+13:07:22 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+13:07:22 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+13:07:22 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+13:09:21 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+13:09:21 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+13:09:21 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+13:09:21 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+13:09:23 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+13:09:24 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+13:09:24 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+13:09:24 [ KANTURU ] State(2) -> END
+13:09:24 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+13:09:24 [ KANTURU ] State(5) -> NONE
+13:09:24 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:09:24 [ KANTURU ] State(0) -> STANDBY
+13:09:24 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:10:00 [Invasion Manager] SetMonster (Monster: 42) (Map: Devias, X: 46,Y: 68)
+13:18:19 [SocketManager] Server started at port [55903]
+13:18:19 [Blood Castle] Sync Start Time. [71] min remain
+13:18:19 [Chaos Castle] Sync Start Time. [41] min remain
+13:18:19 [Devil Square] Sync Start Time. [21] min remain
+13:18:19 [Illusion Temple] Sync Start Time. [181] min remain
+13:18:19 [Moss Merchant] Sync Start Time. [161] min remain
+13:18:19 [ RAKLION ] State(0) -> END
+13:18:19 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:18:19 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:18:19 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:18:19 [Reward Master] Sync Start Time. [281] min remain
+13:18:20 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:18:20 [ KANTURU ] State(0) -> STANDBY
+13:18:20 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:18:20 [ RAKLION ] State(10) -> IDLE
+13:18:23 [ CRYWOLF ] SYNC Occupation: 0
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 154,Y: 18)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 158,Y: 12)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 158,Y: 14)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 149,Y: 18)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 156,Y: 12)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 149,Y: 15)
+13:25:00 [Invasion Manager] SetMonster (Monster: 560) (Map: Swamp of Calmness, X: 156,Y: 14)
+13:25:00 [Invasion Manager] SetMonster (Monster: 561) (Map: Swamp of Calmness, X: 159,Y: 12)
+13:37:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:38:19 [ KANTURU ][ BattleStanby ] State(2) -> END
+13:38:19 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+13:38:19 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+13:38:19 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+13:38:19 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+13:38:20 [Marlon] Teleport Map:Atlans X:17 Y:25
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 76,Y: 125)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 159,Y: 199)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 212,Y: 136)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 102,Y: 131)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 177,Y: 223)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 46,Y: 98)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 142,Y: 139)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 42,Y: 37)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 53,Y: 159)
+13:40:00 [Invasion Manager] SetMonster (Monster: 413) (Map: Kanturu Ruins, X: 199,Y: 139)
+13:40:01 [Devil Square] Sync Start Time. [239] min remain
+13:40:18 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+13:40:18 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+13:40:18 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+13:40:18 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+13:40:20 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+13:40:20 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+13:40:20 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+13:40:20 [ KANTURU ] State(2) -> END
+13:40:20 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+13:40:20 [ KANTURU ] State(5) -> NONE
+13:40:20 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:40:20 [ KANTURU ] State(0) -> STANDBY
+13:40:20 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:41:11 [SocketManager] Server started at port [55903]
+13:41:11 [Blood Castle] Sync Start Time. [48] min remain
+13:41:11 [Chaos Castle] Sync Start Time. [18] min remain
+13:41:11 [Devil Square] Sync Start Time. [238] min remain
+13:41:11 [Illusion Temple] Sync Start Time. [158] min remain
+13:41:11 [Moss Merchant] Sync Start Time. [138] min remain
+13:41:11 [ RAKLION ] State(0) -> END
+13:41:11 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:41:11 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:41:11 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:41:11 [Reward Master] Sync Start Time. [258] min remain
+13:41:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:41:12 [ KANTURU ] State(0) -> STANDBY
+13:41:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:41:12 [ RAKLION ] State(10) -> IDLE
+13:41:15 [ CRYWOLF ] SYNC Occupation: 0
+13:47:58 [SocketManager] Server started at port [55903]
+13:47:59 [Blood Castle] Sync Start Time. [42] min remain
+13:47:59 [Chaos Castle] Sync Start Time. [12] min remain
+13:47:59 [Devil Square] Sync Start Time. [232] min remain
+13:47:59 [Illusion Temple] Sync Start Time. [152] min remain
+13:47:59 [Moss Merchant] Sync Start Time. [132] min remain
+13:47:59 [ RAKLION ] State(0) -> END
+13:47:59 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+13:47:59 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+13:47:59 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+13:47:59 [Reward Master] Sync Start Time. [252] min remain
+13:48:00 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+13:48:00 [ KANTURU ] State(0) -> STANDBY
+13:48:00 [ KANTURU ][ BattleStanby ] State(0) -> START
+13:48:00 [ RAKLION ] State(10) -> IDLE
+13:48:02 [ CRYWOLF ] SYNC Occupation: 0
+14:00:01 [Chaos Castle] Sync Start Time. [59] min remain
+14:06:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY

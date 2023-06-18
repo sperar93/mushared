@@ -34,10 +34,10 @@
 
 <MapServerInfo Version="1.04.05" Serial="TbYehR2hFUPBKgZj" CustomerName="SetectSoft" MHPEncDecKey1="0" MHPEncDecKey2="0" >
 	<ServerList>
-		<Server Code="0"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55901" Name="GameServer01" />
-		<Server Code="1"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55902" Name="GameServer02" />
-		<Server Code="2"  Group="0" Initiation="1" IP="192.168.1.9 " Port="55903" Name="GameServer03" />
-		<Server Code="19" Group="0" Initiation="0" IP="192.168.1.9" Port="55919" Name="GameServerCS" />
+		<Server Code="0"  Group="0" Initiation="1" IP="S179.25.34.245" Port="55901" Name="GameServer01" />
+		<Server Code="1"  Group="0" Initiation="1" IP="S179.25.34.245" Port="55902" Name="GameServer02" />
+		<Server Code="2"  Group="0" Initiation="1" IP="S179.25.34.245" Port="55903" Name="GameServer03" />
+		<Server Code="19" Group="0" Initiation="0" IP="S179.25.34.245" Port="55919" Name="GameServerCS" />
 	</ServerList>
 	
 	<ServerMapping>

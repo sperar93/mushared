@@ -3,9 +3,9 @@
   <Process Run="True" Delay="1000" Path="..\ConnectServer\ConnectServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="..\JoinServer\JoinServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="..\DataServer\DataServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\mushared\Server\GameServer\GameServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\mushared\Server\GameServer-NoPvP\GameServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\mushared\Server\GameServer-VIP\GameServer.exe" Parameters="" />
-  <Process Run="True" Delay="1000" Path="E:\VBM\Server 2\mushared\Server\GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\Servers\mu-online-prueba\mushared\Server\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\Servers\mu-online-prueba\mushared\Server\GameServer-NoPvP\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\Servers\mu-online-prueba\mushared\Server\GameServer-VIP\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\Servers\mu-online-prueba\mushared\Server\GameServerCS\GameServer.exe" Parameters="" />
   <Process Run="True" Delay="1000" Path="..\MHPServer\MHPServer.exe" Parameters="" />
 </Processes>

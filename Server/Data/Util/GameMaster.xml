@@ -15,9 +15,8 @@
 //	Level: Moderation level
 //	ShowSlogan: Show in head GameMaster slogan
 -->
-
 <GameMasterList>
-	<GameMaster Account="admin" Character="ADMIN" Level="32" ShowSlogan="0" />
-	<GameMaster Account="santi" Character="eiiPandita" Level="32" ShowSlogan="0" />
-	<GameMaster Account="santi" Character="amiga" Level="8" ShowSlogan="0" />
-	</GameMasterList>
+	<GameMaster Account="root" Character="Athenea" Level="32" ShowSlogan="1"/>
+	<GameMaster Account="santi" Character="eiiPandita" Level="32" ShowSlogan="1"/>
+	<GameMaster Account="santi" Character="amiga" Level="8" ShowSlogan="1"/>
+</GameMasterList>

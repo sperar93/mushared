@@ -24,8 +24,8 @@
 -->
 
 <ServerList>
-	<Server Code="0"  IP="192.168.1.9" Port="55901" Visible="1" Name="GameServer01" />
-	<Server Code="1"  IP="192.168.1.9" Port="55902" Visible="1" Name="GameServer02" />
-	<Server Code="2"  IP="192.168.1.9" Port="55903" Visible="1" Name="GameServer03" />
-	<Server Code="19" IP="192.168.1.9" Port="55919" Visible="0" Name="GameServerCS" />
+	<Server Code="0"  IP="179.25.34.245" Port="55901" Visible="1" Name="GameServer01" />
+	<Server Code="1"  IP="179.25.34.245" Port="55902" Visible="1" Name="GameServer02" />
+	<Server Code="2"  IP="179.25.34.245" Port="55903" Visible="1" Name="GameServer03" />
+	<Server Code="19" IP="179.25.34.245" Port="55919" Visible="0" Name="GameServerCS" />
 </ServerList>
