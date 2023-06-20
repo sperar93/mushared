@@ -1,0 +1,4 @@
+.idea
+**/Logs/*.txt
+**/LOG/*.txt
+**/MHP_LOG/*.txt

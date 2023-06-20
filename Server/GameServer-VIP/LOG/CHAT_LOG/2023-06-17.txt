@@ -1,7 +1,0 @@
-08:22:28 [General][santi][eiiPandita] - (Message: /post hola)
-08:22:48 [General][santi][eiiPandita] - (Message: /zen 123123123123)
-08:26:02 [General][santi][eiiPandita] - (Message: sadsadas)
-08:26:29 [General][santi][eiiPandita] - (Message: /zen 231231231231231)
-08:26:39 [General][santi][eiiPandita] - (Message: /setzen 12313213)
-08:27:46 [General][santi][eiiPandita] - (Message: /money 123123132132123)
-08:28:13 [General][santi][Amiga] - (Message: /money 52123123132)

@@ -1,2 +1,0 @@
-08:27:46 [CommandMoney][santi][eiiPandita] - (Money: 2147483647)
-08:28:13 [CommandMoney][santi][Amiga] - (Money: 2147483647)

@@ -1,6 +1,0 @@
-02:16:31 [CommandPost][admin][ADMIN] - (Message: asdasdasd)
-02:17:06 [CommandPost][admin][ADMIN] - (Message: asdasdasd)
-02:17:38 [CommandPost][admin][ADMIN] - (Message: asdasdasd)
-02:17:42 [CommandPost][admin][ADMIN] - (Message: asdasdasd)
-02:18:06 [CommandPost][admin][ADMIN] - (Message: asdasdasd)
-02:18:49 [CommandPost][admin][ADMIN] - (Message: asdasdasd)

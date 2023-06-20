@@ -1,9 +1,0 @@
-08:27:46 [CommandMoney][santi][eiiPandita] - (Money: 2147483647)
-08:28:13 [CommandMoney][santi][Amiga] - (Money: 2147483647)
-08:55:45 [CommandPost][santi][eiiPandita] - (Message: sabelo)
-08:56:05 [CommandMoney][santi][eiiPandita] - (Money: 0)
-08:57:10 [CommandSetMoney][santi][eiiPandita] - (Name: elDK, Money: 2147483647)
-08:58:15 [CommandGMEdit][santi][eiiPandita] CharEdit:[santii][elDK] Level[400] LevelUpPoint[0] Str[1000] Agi[1000] Vit[1000] Ene[1000] Cmd[0]
-08:58:32 [CommandReset][santii][elDK] - (Reset: 1)
-09:00:03 [CommandGMSetCoin][santi][eiiPandita] - [santii][elDK] Increase WCC[200] WCP[0] GP[0]
-09:00:57 [CommandGMSetCoin][santi][eiiPandita] - [santii][elDK] Increase WCC[200] WCP[0] GP[0]

@@ -1,7 +1,0 @@
-10:25:56 [CommandGMEdit][root][Athenea] CharEdit:[root][Athenea] Level[400] LevelUpPoint[200] Str[32765] Agi[32765] Vit[32765] Ene[3276] Cmd[0]
-10:26:12 [CommandGMEdit][root][Athenea] CharEdit:[root][Athenea] Level[400] LevelUpPoint[30000] Str[0] Agi[0] Vit[0] Ene[0] Cmd[0]
-10:26:24 [CommandAddPoint][root][Athenea] - (Type: 3, Amount: 27000)
-10:27:00 [CommandAddPoint][root][Athenea] - (Type: 3, Amount: 2467)
-10:27:08 [CommandChange][root][Athenea] - (ChangeUp: 0)
-10:27:11 [CommandChange][root][Athenea] - (ChangeUp: 1)
-10:34:46 [CommandGMEdit][root][Athenea] CharEdit:[root][Athenea] Level[400] LevelUpPoint[200000] Str[0] Agi[0] Vit[0] Ene[0] Cmd[0]

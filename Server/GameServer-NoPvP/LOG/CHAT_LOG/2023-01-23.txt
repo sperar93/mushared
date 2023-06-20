@@ -1,6 +1,0 @@
-02:16:31 [General][admin][ADMIN] - (Message: /post asdasdasd)
-02:17:06 [General][admin][ADMIN] - (Message: /post asdasdasd)
-02:17:38 [General][admin][ADMIN] - (Message: /post asdasdasd)
-02:17:42 [General][admin][ADMIN] - (Message: /post asdasdasd)
-02:18:06 [General][admin][ADMIN] - (Message: /post asdasdasd)
-02:18:49 [General][admin][ADMIN] - (Message: /post asdasdasd)
